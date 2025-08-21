@@ -2,8 +2,8 @@ name: Parsisiųsti zuja.xml
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # kasdien 14:00 UTC (17:00 LT vasarą)
-  workflow_dispatch:        # leidžia paleisti ranka
+    - cron: "0 8 * * *"   # kasdien 08:00 UTC (11:00 LT vasarą, 10:00 LT žiemą)
+  workflow_dispatch:
 
 jobs:
   download:
