@@ -1,0 +1,26 @@
+name: Parsisiųsti zuja.xml
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # kasdien 14:00 UTC (17:00 LT vasarą)
+  workflow_dispatch:        # leidžia paleisti ranka
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Parsisiųsti zuja.xml
+        run: |
+          curl -L -o zuja.xml "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add zuja.xml
+          git commit -m "Atnaujintas zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push
