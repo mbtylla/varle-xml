@@ -3,7 +3,7 @@ name: Update Varle XML
 on:
   schedule:
     # 11:45 LT (vasaros metu, UTC+08:45)
-    - cron: "45 8 * * *"
+    - cron: "45 14 * * *"
   workflow_dispatch:
 
 jobs:
