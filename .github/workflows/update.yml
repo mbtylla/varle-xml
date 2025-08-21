@@ -2,7 +2,8 @@ name: Atnaujinti prekių likučius
 
 on:
   schedule:
-    - cron: "30 8 * * *"   # 11:30 LT vasarą (08:30 UTC), žiemą bus 10:30 LT
+    # 11:45 LT (vasaros/žiemos skirtumai, UTC laikas: 08:45)
+    - cron: "45 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,20 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout repo su GITHUB_TOKEN
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2️⃣ Parsisiųsti zuja.xml
       - name: Parsisiųsti zuja.xml
         run: |
           curl -L -o zuja.xml "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
 
+      # 3️⃣ Atnaujinti updated_products.xml
       - name: Atnaujinti updated_products.xml
         run: python3 update_varle.py
 
+      # 4️⃣ Commit ir push tik jei yra pakeitimų
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add updated_products.xml
-          git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git diff --staged --quiet || git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
