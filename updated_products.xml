@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <products>
     <product>
@@ -93,7 +93,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/7/scaronilkinis-modelinas-raudona-spalva-40-gr_7.jpg]]&gt;</image>
       </images>
-      <quantity>100</quantity>
+      <quantity>124</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167231494</barcode>
     </product>
