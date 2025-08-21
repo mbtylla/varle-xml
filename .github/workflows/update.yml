@@ -35,10 +35,10 @@ jobs:
     - name: Update products
       run: python update_varle.py
 
-    - name: Commit and push changes
+    - name: Push changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add updated_products.xml
-        git diff --staged --quiet || git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-        git push
+        git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u)"
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/mbtylla/varle-xml.git HEAD:main
