@@ -30,6 +30,7 @@ jobs:
         if [ ! -s zuja.xml ]; then
           echo "zuja.xml failas tuščias!"
           exit 1
+        fi
 
     - name: Update products
       run: python update_varle.py
