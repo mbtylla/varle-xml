@@ -189,7 +189,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/18/lipdukai-flamingai_18.jpg]]&gt;</image>
       </images>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5712854149815</barcode>
     </product>
@@ -17660,7 +17660,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1307/plus-plus-konstruktorius-advento-kalendorius_edaffc0ca6c3d027b3670eeaf1055115.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1307/plus-plus-konstruktorius-advento-kalendorius_7be467d82e8c7e75b0f3aebb741aa8a7.jpg]]&gt;</image>
       </images>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409105408</barcode>
     </product>
@@ -18416,7 +18416,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1354/plus-plus-antistresinis-zaislas-hexel-bubblegum_159caf5174ed059a9df9732623641437.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1354/plus-plus-antistresinis-zaislas-hexel-bubblegum_bd2c4994ab7e8a4b7a5285d904b168c5.jpg]]&gt;</image>
       </images>
-      <quantity>88</quantity>
+      <quantity>87</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409201810</barcode>
     </product>
