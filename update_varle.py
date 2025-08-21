@@ -1,34 +1,36 @@
+import os
 import xml.etree.ElementTree as ET
 
-# 1️⃣ Perskaitome zuja.xml
+# Patikriname, ar zuja.xml egzistuoja ir nėra tuščias
+if not os.path.exists("zuja.xml") or os.path.getsize("zuja.xml") == 0:
+    raise ValueError("zuja.xml neegzistuoja arba yra tuščias!")
+
+# Parsinamas zuja.xml
 zuja_tree = ET.parse("zuja.xml")
 zuja_root = zuja_tree.getroot()
 
-# 2️⃣ Sukuriame žemėlapį: barcode -> total_quantity
-quantities = {}
+# Sukuriame barcode -> total_quantity žemėlapį
+zuja_dict = {}
 for product in zuja_root.findall(".//product"):
     barcode = product.findtext("barcode")
-    total_quantity = product.findtext("total_quantity")
-    if barcode and total_quantity is not None:
-        quantities[barcode] = total_quantity
+    quantity = product.findtext("total_quantity")
+    if barcode and quantity:
+        zuja_dict[barcode] = quantity
 
-print(f"Rasta {len(quantities)} įrašų zuja.xml")
+# Parsinamas updated_products.xml
+if not os.path.exists("updated_products.xml"):
+    raise ValueError("updated_products.xml neegzistuoja!")
 
-# 3️⃣ Perskaitome updated_products.xml
-tree = ET.parse("updated_products.xml")
-root = tree.getroot()
+up_tree = ET.parse("updated_products.xml")
+up_root = up_tree.getroot()
 
-# 4️⃣ Atnaujiname <quantity> pagal barcode
-count_updated = 0
-for product in root.findall(".//product"):
+# Atitinkamai atnaujiname quantity pagal barcode
+for product in up_root.findall(".//product"):
     barcode = product.findtext("barcode")
-    if barcode in quantities:
-        quantity_el = product.find("quantity")
-        if quantity_el is not None:
-            quantity_el.text = quantities[barcode]
-            count_updated += 1
+    if barcode in zuja_dict:
+        quantity_elem = product.find("quantity")
+        if quantity_elem is not None:
+            quantity_elem.text = zuja_dict[barcode]
 
-print(f"Atnaujinta {count_updated} prekių quantity laukelių")
-
-# 5️⃣ Išsaugome atnaujintą failą
-tree.write("updated_products.xml", encoding="utf-8", xml_declaration=True)
+# Išsaugome atnaujintą XML
+up_tree.write("updated_products.xml", encoding="utf-8", xml_declaration=True)
