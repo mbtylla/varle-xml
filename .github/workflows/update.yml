@@ -1,12 +1,12 @@
-name: Parsisiųsti zuja.xml
+name: Atnaujinti prekių likučius
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # kasdien 08:00 UTC (11:00 LT vasarą, 10:00 LT žiemą)
+    - cron: "30 8 * * *"   # 11:30 LT vasarą (08:30 UTC), žiemą bus 10:30 LT
   workflow_dispatch:
 
 jobs:
-  download:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,10 +17,13 @@ jobs:
         run: |
           curl -L -o zuja.xml "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
 
+      - name: Atnaujinti updated_products.xml
+        run: python3 update_varle.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add zuja.xml
-          git commit -m "Atnaujintas zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git add updated_products.xml
+          git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
           git push
