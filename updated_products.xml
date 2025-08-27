@@ -13,7 +13,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1/daugkartinis-burbulinis-modelinas_1.jpg]]&gt;</image>
       </images>
-      <quantity>201</quantity>
+      <quantity>200</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5712854177474</barcode>
     </product>
@@ -61,7 +61,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/5/scaronilkinis-modelinas-geltona-spalva-40-gr_5.jpg]]&gt;</image>
       </images>
-      <quantity>140</quantity>
+      <quantity>139</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167231456</barcode>
     </product>
@@ -93,7 +93,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/7/scaronilkinis-modelinas-raudona-spalva-40-gr_7.jpg]]&gt;</image>
       </images>
-      <quantity>125</quantity>
+      <quantity>124</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167231494</barcode>
     </product>
@@ -141,7 +141,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/10/scaronilkinis-modelinas-zalia-spalva-40-gr_10.jpg]]&gt;</image>
       </images>
-      <quantity>148</quantity>
+      <quantity>147</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167231630</barcode>
     </product>
@@ -205,7 +205,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/20/burbulinis-modelinas-6-ryscaronkios-skirtingos-spalvos_20.png]]&gt;</image>
       </images>
-      <quantity>107</quantity>
+      <quantity>102</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167697689</barcode>
     </product>
@@ -221,7 +221,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/21/burbulinis-modelinas-6-skirtingos-blizgancios-pastelines-spalvos_21.jpg]]&gt;</image>
       </images>
-      <quantity>114</quantity>
+      <quantity>111</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167697726</barcode>
     </product>
@@ -349,7 +349,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/31/burbulinis-modelinas-melyna-spalva-35-gr_31.jpg]]&gt;</image>
       </images>
-      <quantity>88</quantity>
+      <quantity>81</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167199985</barcode>
     </product>
@@ -438,7 +438,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/36/burbulinis-modelinas-raudona-spalva-35-gr_36.jpg]]&gt;</image>
       </images>
-      <quantity>143</quantity>
+      <quantity>139</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167200018</barcode>
     </product>
@@ -470,7 +470,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/38/burbulinis-modelinas-rozine-spalva-35-gr_38.jpg]]&gt;</image>
       </images>
-      <quantity>344</quantity>
+      <quantity>339</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167200131</barcode>
     </product>
@@ -518,7 +518,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/41/burbulinis-modelinas-scaronviesiai-zalia-spalva-35-gr_41.jpg]]&gt;</image>
       </images>
-      <quantity>88</quantity>
+      <quantity>84</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5707167200100</barcode>
     </product>
@@ -845,7 +845,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/65/4106plus-plussuperherotube100pcspng_1746529467.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/65/4106plus-plussuperherotube100pcspilepng_1746529467.png]]&gt;</image>
       </images>
-      <quantity>163</quantity>
+      <quantity>160</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409103374</barcode>
     </product>
@@ -1286,7 +1286,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/94/500905006spill-shotpng-kopi_1751954442.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/94/pastelhousehand_1751954444.jpg]]&gt;</image>
       </images>
-      <quantity>25</quantity>
+      <quantity>24</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409102704</barcode>
     </product>
@@ -2526,7 +2526,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/204/splat-planet-marscaronkineliai-su-flomasteriais-mascaroninos_26cabb051379eabb244c169e2928ff15.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/204/splat-planet-marscaronkineliai-su-flomasteriais-mascaroninos_80dfdebab1e3c6c2adb320e2c8794616.jpg]]&gt;</image>
       </images>
-      <quantity>182</quantity>
+      <quantity>180</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>2780015670051</barcode>
     </product>
@@ -2560,7 +2560,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/206/splat-planet-marscaronkineliai-su-flomasteriais-drugeliai_206.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/206/splat-planet-marscaronkineliai-su-flomasteriais-drugeliai_c5392b3a23c2b21d6c05479834a17894.jpg]]&gt;</image>
       </images>
-      <quantity>15</quantity>
+      <quantity>13</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>2780015670297</barcode>
     </product>
@@ -2956,7 +2956,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/232/kendama-zaislas-medinis-raudonas_faa4e0947f1b4d29b80dde1ee204057e.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/232/kendama-zaislas-medinis-raudonas_6de72bd6b32edfefda1b565eb6900241.jpg]]&gt;</image>
       </images>
-      <quantity>334</quantity>
+      <quantity>332</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451441</barcode>
     </product>
@@ -3077,7 +3077,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/242/caly-pripuciamas-gaublys-kamuolys-pasaulis-30-cm_242.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/242/caly-pripuciamas-gaublys-kamuolys-pasaulis-30-cm_053c213ea126214dac1a6a38438d984e.jpg]]&gt;</image>
       </images>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039940001</barcode>
     </product>
@@ -3093,7 +3093,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/243/caly-pripuciamas-gaublys-kamuolys-pasaulis-50-cm_243.jpg]]&gt;</image>
       </images>
-      <quantity>33</quantity>
+      <quantity>26</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039940759</barcode>
     </product>
@@ -3141,7 +3141,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/246/caly-pripuciamas-gaublys-kamuolys-pasaulio-gyvunai-30-cm_246.jpg]]&gt;</image>
       </images>
-      <quantity>321</quantity>
+      <quantity>320</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039940742</barcode>
     </product>
@@ -3157,7 +3157,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/247/caly-pripuciamas-gaublys-kamuolys-pasaulio-gyvunai-50-cm_247.png]]&gt;</image>
       </images>
-      <quantity>98</quantity>
+      <quantity>96</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039940490</barcode>
     </product>
@@ -3173,7 +3173,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/248/caly-pripuciamas-gaublys-kamuolys-pasaulis-xxl-85-cm_248.jpg]]&gt;</image>
       </images>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039940032</barcode>
     </product>
@@ -3591,7 +3591,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/280/kaladeliu-delione-laukiniai-gyvunai_280.jpg]]&gt;</image>
       </images>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4019359841741</barcode>
     </product>
@@ -3895,7 +3895,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/303/medine-delione-zaidimas-aprenk-mescaronka-ir-mescaronkuti-3_303.jpg]]&gt;</image>
       </images>
-      <quantity>58</quantity>
+      <quantity>56</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4019359880238</barcode>
     </product>
@@ -3927,7 +3927,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/305/medine-delione-gyvunai-18-men_305.jpg]]&gt;</image>
       </images>
-      <quantity>31</quantity>
+      <quantity>30</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4019359880931</barcode>
     </product>
@@ -4677,7 +4677,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/374/gyvunaitransparent1_1753351371.png]]&gt;</image>
       </images>
-      <quantity>193</quantity>
+      <quantity>190</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060112</barcode>
     </product>
@@ -4828,7 +4828,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/385/zodziai-5_1753362356.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/385/zodziai-4_1753362355.jpg]]&gt;</image>
       </images>
-      <quantity>74</quantity>
+      <quantity>72</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060136</barcode>
     </product>
@@ -4845,7 +4845,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/386/lavinanti-delione-skaiciai-gyvunai-3-6-metu-vaikams_386.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/386/lavinanti-delione-skaiciai-gyvunai-3-6-metu-vaikams_04017a9e3b7d7596f64f7a6150b27acf.png]]&gt;</image>
       </images>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060143</barcode>
     </product>
@@ -5269,7 +5269,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/433/yoyo-spinstar-led-scaronvieciantis_2379f55c2573041a17d5f805ba242ab3.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/433/yoyo-spinstar-led-scaronvieciantis_d909169fffe72d6ebda661c111b79ac8.jpg]]&gt;</image>
       </images>
-      <quantity>10</quantity>
+      <quantity>46</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451847</barcode>
     </product>
@@ -5301,7 +5301,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/435/kudikelis-languotoje-pilkoje-nescaronykleje-26-cm_435.jpg]]&gt;</image>
       </images>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614506193</barcode>
     </product>
@@ -5707,7 +5707,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/460/plus-plus-konstruktorius-robotai-mini-neonines-170_4916be112901cbfc067b109c19fd6dcb.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/460/plus-plus-konstruktorius-robotai-mini-neonines-170_97c16b43a9d6a2d76f13e3c1540170bc.png]]&gt;</image>
       </images>
-      <quantity>97</quantity>
+      <quantity>95</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409104760</barcode>
     </product>
@@ -5999,7 +5999,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/481/arias-rubeliai-lelei-26-cm_481.jpg]]&gt;</image>
       </images>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614060541</barcode>
     </product>
@@ -6015,7 +6015,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/482/arias-rubeliai-lelei-33-cm_482.jpg]]&gt;</image>
       </images>
-      <quantity>25</quantity>
+      <quantity>19</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614060558</barcode>
     </product>
@@ -6034,7 +6034,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/483/arias-rubeliai-lelei-42-cm_92811a68143d636cd36d4cea05d6948b.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/483/arias-rubeliai-lelei-42-cm_8eee49c139cab7669daee9f9cd45121a.jpg]]&gt;</image>
       </images>
-      <quantity>24</quantity>
+      <quantity>18</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614060565</barcode>
     </product>
@@ -6441,7 +6441,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/512/magiscaronkas-sketis-dziungles-skaidrus_512.jpg]]&gt;</image>
       </images>
-      <quantity>24</quantity>
+      <quantity>21</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166351973</barcode>
     </product>
@@ -6474,7 +6474,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/514/magiscaronkas-sketis-vienaragis_514.jpg]]&gt;</image>
       </images>
-      <quantity>35</quantity>
+      <quantity>33</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357326</barcode>
     </product>
@@ -6491,7 +6491,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/515/magiscaronkas-sketis-statybos-skaidrus_515.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/515/magiscaronkas-sketis-statybos-skaidrus_d824cb626bb7d3bb3d2e031fc7a310ca.jpg]]&gt;</image>
       </images>
-      <quantity>35</quantity>
+      <quantity>33</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166349970</barcode>
     </product>
@@ -6571,7 +6571,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/521/magnetinis-zaidimas-feju-pasaulyje_d741f6d26fc17a5f2a1b9f5a0c427cbf.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/521/magnetinis-zaidimas-feju-pasaulyje_53c532bc570e56a92edc3519df384a46.jpeg]]&gt;</image>
       </images>
-      <quantity>5</quantity>
+      <quantity>3</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166355377</barcode>
     </product>
@@ -6588,7 +6588,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/522/magnetinis-zaidimas-gyvuneliu-pasaulyje_522.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/522/magnetinis-zaidimas-gyvuneliu-pasaulyje_f0dd24524559fd4c738f5bf703b012b4.jpg]]&gt;</image>
       </images>
-      <quantity>30</quantity>
+      <quantity>28</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166353113</barcode>
     </product>
@@ -6773,7 +6773,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/535/yoyo-spinstar-led-melynas-scaronviecia_fbe1351bf8199b9b5b2618db061b65a5.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/535/yoyo-spinstar-led-melynas-scaronviecia_fa357eb9e25f914f489cf211f6b41943.jpg]]&gt;</image>
       </images>
-      <quantity>18</quantity>
+      <quantity>102</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451854</barcode>
     </product>
@@ -7277,7 +7277,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/572/3d-medinis-konstruktorius-motociklas_3db525d75f546edcd7d27545e6748375.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/572/3d-medinis-konstruktorius-motociklas_3c1e29068c122dcec5afdc7f1b02d26d.jpg]]&gt;</image>
       </images>
-      <quantity>159</quantity>
+      <quantity>157</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5712854401777</barcode>
     </product>
@@ -7389,7 +7389,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/578/arbatos-servizas-vaivorykscarontes-feja_c4054e6920cf7f4018642ee5db839a7d.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/578/arbatos-servizas-vaivorykscarontes-feja_b7aa642112ebbd22a536f3de18abfe14.jpg]]&gt;</image>
       </images>
-      <quantity>47</quantity>
+      <quantity>46</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166355216</barcode>
     </product>
@@ -8168,7 +8168,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/634/muzikinis-arbatos-servizas_37686954ef9de738358b1eeb9a114efb.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/634/muzikinis-arbatos-servizas_bb03367746ff5b7d6de20b307f600304.jpg]]&gt;</image>
       </images>
-      <quantity>87</quantity>
+      <quantity>86</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166356022</barcode>
     </product>
@@ -8237,7 +8237,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/639/magiscaronkas-sketis-undinele-skaidrus_639.jpg]]&gt;</image>
       </images>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166346160</barcode>
     </product>
@@ -8345,7 +8345,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/647/yoyo-one-zalias_a6549841e3f19205d0ef4968733fd4e3.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/647/yoyo-one-zalias_70c81a3d257217b7d65cfbd6ccd2314e.jpg]]&gt;</image>
       </images>
-      <quantity>27</quantity>
+      <quantity>25</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243450567</barcode>
     </product>
@@ -8364,7 +8364,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/648/yoyo-one-melynas_c6ef90c5082cec638503dedebaaca398.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/648/yoyo-one-melynas_d7b9913b992ff72ca8a3a61e70f4f249.jpg]]&gt;</image>
       </images>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243450536</barcode>
     </product>
@@ -8447,7 +8447,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/652/yoyo-replay-pro-ugninis-marmuras_79f37939ecadb7900de671cdab01ab2a.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/652/yoyo-replay-pro-ugninis-marmuras_db3e9d00f9167dd7ea65399c3a9025e0.jpg]]&gt;</image>
       </images>
-      <quantity>2</quantity>
+      <quantity>14</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451595</barcode>
     </product>
@@ -8960,7 +8960,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/685/mokomasis-nescaroniojamas-naktipuodis-katyte_fd729e27f344ece9ecfcb55bc1a5dbbd.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/685/mokomasis-nescaroniojamas-naktipuodis-katyte_dffebaf04a10a07a26efb4ad3647d1b5.jpg]]&gt;</image>
       </images>
-      <quantity>61</quantity>
+      <quantity>59</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060204030406</barcode>
     </product>
@@ -8980,7 +8980,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/686/mokomasis-nescaroniojamas-naktipuodis-bitute_68ce44dabfc2669d5a2dafd4e62ad223.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/686/mokomasis-nescaroniojamas-naktipuodis-bitute_df519bb178fd9fcbab1d03910628b4f3.jpg]]&gt;</image>
       </images>
-      <quantity>66</quantity>
+      <quantity>65</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060204030208</barcode>
     </product>
@@ -9003,7 +9003,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/687/mokomasis-nescaroniojamas-naktipuodis-pingvinas_52d33a4f34f33ca7bca9a988b9642899.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/687/mokomasis-nescaroniojamas-naktipuodis-pingvinas_4901be896b658d7eefe8e0a77fb79af5.png]]&gt;</image>
       </images>
-      <quantity>50</quantity>
+      <quantity>33</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060204030383</barcode>
     </product>
@@ -9678,7 +9678,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/744/grafiti-rascaroniklis_f164558036eba7df28201b67068a5159.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/744/grafiti-rascaroniklis_9099afe96f26513bf4531234d02287bd.jpg]]&gt;</image>
       </images>
-      <quantity>107</quantity>
+      <quantity>106</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639144259</barcode>
     </product>
@@ -9758,7 +9758,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/749/arias-lelyte-languotoje-nescaronykleje-oranzineje-26-cm_749.jpg]]&gt;</image>
       </images>
-      <quantity>43</quantity>
+      <quantity>41</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614506186</barcode>
     </product>
@@ -10277,7 +10277,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/785/arbatos-servizas-uzburtoji-7-det_785.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/785/arbatos-servizas-uzburtoji-7-det_0abe8b6d54769773aa0378d6caedd36b.jpg]]&gt;</image>
       </images>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357265</barcode>
     </product>
@@ -10297,7 +10297,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/786/muzikinis-arbatos-servizas-fantazija_441a063a4536d7680db8431a0310b689.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/786/muzikinis-arbatos-servizas-fantazija_8fdad375fb2487178e20cde24f2346a5.jpg]]&gt;</image>
       </images>
-      <quantity>46</quantity>
+      <quantity>45</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357289</barcode>
     </product>
@@ -10398,7 +10398,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/792/magiscaronkas-sketis-fantazija_792.jpg]]&gt;</image>
       </images>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357296</barcode>
     </product>
@@ -10905,7 +10905,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/827/delione-uzburtoji-12-det_d26e6de55e4287929ffa363609d12c97.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/827/delione-uzburtoji-12-det_8e716d8cd9c2bc2ba7042d27cd846e23.jpg]]&gt;</image>
       </images>
-      <quantity>33</quantity>
+      <quantity>32</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166356701</barcode>
     </product>
@@ -11598,7 +11598,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/875/magnetinis-zaidimas-aprenk-lelyte-florencija_1122789f042cbaee848afc130cdc6d7b.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/875/magnetinis-zaidimas-aprenk-lelyte-florencija_c7a7fc465a86ec2cda8428ec633124bb.jpg]]&gt;</image>
       </images>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357722</barcode>
     </product>
@@ -11616,7 +11616,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/876/magnetinis-zaidimas-uzburtoji_9bb36159486e192ef70949e8d9247460.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/876/magnetinis-zaidimas-uzburtoji_d1f95c14f790b6994e788055b5687284.jpg]]&gt;</image>
       </images>
-      <quantity>8</quantity>
+      <quantity>6</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357708</barcode>
     </product>
@@ -11722,7 +11722,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/882/vaizda-keicianti-delione-vaivorykscaronte-50-det_882.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/882/vaizda-keicianti-delione-vaivorykscaronte-50-det_5610737440d21404c63a434bcaf36bc7.jpg]]&gt;</image>
       </images>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357647</barcode>
     </product>
@@ -12748,7 +12748,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/946/mokomasis-nescaroniojamas-naktipuodis-rozinis-drakonas_9701cecbed0942dce63ccf8e7b6d9a7b.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/946/mokomasis-nescaroniojamas-naktipuodis-rozinis-drakonas_e993fae095faa0da62b975b3648ab185.jpg]]&gt;</image>
       </images>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060204032943</barcode>
     </product>
@@ -13769,7 +13769,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1022/arias-sportinis-vezimukas-emma_0ba8f35bf885bf0f8477bc765c4b920d.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1022/arias-sportinis-vezimukas-emma_19f5ccb6a97d118bf5fa807019677050.png]]&gt;</image>
       </images>
-      <quantity>35</quantity>
+      <quantity>34</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614406240</barcode>
     </product>
@@ -13805,7 +13805,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/1025/plus-plus-konstruktorius-monstriukas-zalias_c672ea4fb2c780fcd4072c7fb2cdf2c2.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/1025/plus-plus-konstruktorius-monstriukas-zalias_e6205db71711a04687bbc1d7c1d9d4a1.png]]&gt;</image>
       </images>
-      <quantity>31</quantity>
+      <quantity>30</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409107310</barcode>
     </product>
@@ -13823,7 +13823,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1026/plus-plus-konstruktorius-monstriukas-raudonas_3a94ed5a0e1ef0c051442af42bdcaf45.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1026/plus-plus-konstruktorius-monstriukas-raudonas_fd3062c5da70f5082e09f4b415eba70d.jpg]]&gt;</image>
       </images>
-      <quantity>133</quantity>
+      <quantity>131</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409107327</barcode>
     </product>
@@ -13841,7 +13841,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1027/plus-plus-konstruktorius-monstriukas-violetinis_f634a9047e02a9c7b2b00800c3907a32.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1027/plus-plus-konstruktorius-monstriukas-violetinis_99df6862e4763d485ddfad6fac3672cd.png]]&gt;</image>
       </images>
-      <quantity>74</quantity>
+      <quantity>73</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409107334</barcode>
     </product>
@@ -13859,7 +13859,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1028/plus-plus-konstruktorius-monstriukas-geltonas_8ccea86d1dce853d35b5c706b3823946.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1028/plus-plus-konstruktorius-monstriukas-geltonas_22f9faa74b1d035c3dad7821101eb3ff.png]]&gt;</image>
       </images>
-      <quantity>74</quantity>
+      <quantity>73</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409107341</barcode>
     </product>
@@ -13877,7 +13877,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1029/4244plus-plusglittermixtube100pcsproduct_1741612916.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1029/4244plus-plusglittermixtube100pcspile_1741612916.jpg]]&gt;</image>
       </images>
-      <quantity>85</quantity>
+      <quantity>83</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409105477</barcode>
     </product>
@@ -13932,7 +13932,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1032/4246plus-plusalientube100pcspilepng_1742367232.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1032/plus-plus-konstruktorius-ateivis-100-det_e7d43d96091b73df5fd5f1f22821b4d1.jpg]]&gt;</image>
       </images>
-      <quantity>83</quantity>
+      <quantity>80</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409105590</barcode>
     </product>
@@ -13952,7 +13952,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1033/4242plus-plusflamingotube100pcspilepng_1746530804.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1033/4242-ppflamingogirlyrsa3rgb_1746530804.jpg]]&gt;</image>
       </images>
-      <quantity>59</quantity>
+      <quantity>57</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409105231</barcode>
     </product>
@@ -14939,7 +14939,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1092/yoyo-spinstar-melynas_2f498a1d4702b6fc9039f9755b292b94.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1092/yoyo-spinstar-melynas_137cf70ae321089097519832ad772eaf.jpg]]&gt;</image>
       </images>
-      <quantity>46</quantity>
+      <quantity>118</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243450208</barcode>
     </product>
@@ -15370,7 +15370,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1166/ludi-maudymosi-zaislu-komplektas-ukio-gyvunai-4-vnt_ec0427ac099f2d6e36d60f98871e50ed.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1166/ludi-maudymosi-zaislu-komplektas-ukio-gyvunai-4-vnt_f974e849c2b03e0bcbacba35830a2c9b.jpg]]&gt;</image>
       </images>
-      <quantity>27</quantity>
+      <quantity>25</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550839922228</barcode>
     </product>
@@ -15747,7 +15747,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1188/ludi-kamuoliukas-delione_c182ee3cb059df16fdf5d1a4b26cbcf6.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1188/ludi-kamuoliukas-delione_3f80b8bb2dfeae09a297b1cb1445f2f3.jpg]]&gt;</image>
       </images>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833300657</barcode>
     </product>
@@ -15919,7 +15919,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1196/ludi-maudymosi-spalvinimo-knygele-su-kreidelemis_8174cbec30e9b92b60baa11ed973b465.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1196/ludi-maudymosi-spalvinimo-knygele-su-kreidelemis_c92a8289ad413ef027dc39c7d73eb8e9.jpg]]&gt;</image>
       </images>
-      <quantity>33</quantity>
+      <quantity>31</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833400586</barcode>
     </product>
@@ -15958,7 +15958,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1198/ludi-vandens-zaidimas-vandens-takelis_902e7266a4d03c44952de40335547075.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/1198/ludi-vandens-zaidimas-vandens-takelis_19afd24665e961f6354613df9026625a.jpg]]&gt;</image>
       </images>
-      <quantity>30</quantity>
+      <quantity>29</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833400616</barcode>
     </product>
@@ -15978,7 +15978,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1199/ludi-maudymosi-zaidimas-dinozauras_bb7c1b2e1483e1bd83ea0b9e732a56ff.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1199/ludi-maudymosi-zaidimas-dinozauras_1e46072b654757c904a89ed7b2dd7160.jpg]]&gt;</image>
       </images>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833400715</barcode>
     </product>
@@ -16019,7 +16019,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1207/ludi-palapine-uzuoveja_9aabfcc567aeb7c05848c2d607c8721c.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1207/ludi-palapine-uzuoveja_32305cb421f3e1b879292fdb07359e17.jpg]]&gt;</image>
       </images>
-      <quantity>14</quantity>
+      <quantity>15</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833900352</barcode>
     </product>
@@ -16479,7 +16479,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1233/ludi-sujungiamos-kaladeles_1285cd9dc24b47e84863a4d479403566.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1233/ludi-sujungiamos-kaladeles_2267ce0e4f46162f49c7933871893b78.jpg]]&gt;</image>
       </images>
-      <quantity>20</quantity>
+      <quantity>14</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3550833300435</barcode>
     </product>
@@ -16828,7 +16828,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1261/splat-planet-gertuve-drugelis_913fbf79429a2f8d8a283cdbb51ade27.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1261/splat-planet-gertuve-drugelis_5823649cbf7fe08f853bb57bf5ef2f50.jpg]]&gt;</image>
       </images>
-      <quantity>46</quantity>
+      <quantity>44</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146017</barcode>
     </product>
@@ -17231,7 +17231,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1283/kinsmart-automobilis-2020-audi-r8-coupeacute-juodas_1283.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1283/kinsmart-automobilis-2020-audi-r8-coupeacute-juodas_b2dcee79ecde9bd50b238b349695d7d1.jpg]]&gt;</image>
       </images>
-      <quantity>243</quantity>
+      <quantity>242</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060525</barcode>
     </product>
@@ -17334,7 +17334,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1289/kinsmart-automobilis-lamborghini-countach-lpi-800-4-melynas_1289.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1289/kinsmart-automobilis-lamborghini-countach-lpi-800-4-melynas_f20327197edd69325540e296795cd934.jpg]]&gt;</image>
       </images>
-      <quantity>162</quantity>
+      <quantity>160</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060587</barcode>
     </product>
@@ -17351,7 +17351,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1290/kinsmart-automobilis-lamborghini-countach-lpi-800-4-geltonas_1290.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1290/kinsmart-automobilis-lamborghini-countach-lpi-800-4-geltonas_b255b271152b4b312e5df7983fda03a8.jpg]]&gt;</image>
       </images>
-      <quantity>138</quantity>
+      <quantity>136</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060594</barcode>
     </product>
@@ -17368,7 +17368,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1291/kinsmart-automobilis-lamborghini-countach-lpi-800-4-baltas_1291.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1291/kinsmart-automobilis-lamborghini-countach-lpi-800-4-baltas_cd0748a7ae55dfe2c448bb073ee4881f.jpg]]&gt;</image>
       </images>
-      <quantity>226</quantity>
+      <quantity>225</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060600</barcode>
     </product>
@@ -17385,7 +17385,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1292/kinsmart-automobilis-bugatti-divo-raudonas_1292.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1292/kinsmart-automobilis-bugatti-divo-raudonas_188a1f6ef5b0ef8f115761960316f80e.jpg]]&gt;</image>
       </images>
-      <quantity>81</quantity>
+      <quantity>75</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060617</barcode>
     </product>
@@ -17420,7 +17420,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1294/kinsmart-automobilis-bugatti-divo-geltonas_1294.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1294/kinsmart-automobilis-bugatti-divo-geltonas_1e7b780b4b58b7362869ccb27493856f.jpg]]&gt;</image>
       </images>
-      <quantity>248</quantity>
+      <quantity>247</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4779030060631</barcode>
     </product>
@@ -17546,7 +17546,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1301/muzikinis-arbatos-rinkinys-vaivorykscarontes-feja-11-det_747ccb91a31ae0a5d6cf1c532c49cf44.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1301/muzikinis-arbatos-rinkinys-vaivorykscarontes-feja-11-det_32520058a3fb81522e5a485f0d24e593.jpg]]&gt;</image>
       </images>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166359627</barcode>
     </product>
@@ -17565,7 +17565,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1302/arbatos-rinkinys-fantazija-7-det_56117f7b6b561ec776cb3a24e706d36d.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1302/arbatos-rinkinys-fantazija-7-det_518d3e95de31592e07a31fb10457a36a.jpg]]&gt;</image>
       </images>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166359603</barcode>
     </product>
@@ -17604,7 +17604,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1304/magiscaronkas-sketis-fantazija-skaidrus_c01d5e778824a5991f43b7e4c911ec39.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1304/magiscaronkas-sketis-fantazija-skaidrus_c85a010233aa141e0822ec5afb70ca37.jpg]]&gt;</image>
       </images>
-      <quantity>39</quantity>
+      <quantity>38</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166359559</barcode>
     </product>
@@ -17839,7 +17839,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1317/yoyo-zaislo-virveles-margos_13ca399dec35db3867c751f7bba1939d.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1317/yoyo-zaislo-virveles-margos_5dae765cdd10d8031ad26d0959ce011a.jpg]]&gt;</image>
       </images>
-      <quantity>6</quantity>
+      <quantity>7</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>YO-328</barcode>
     </product>
@@ -17877,7 +17877,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1319/plus-plus-konstruktorius-scaronvieciancios-100-det_8a43b37fc718323d6a066d0fe34fd54e.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1319/plus-plus-konstruktorius-scaronvieciancios-100-det_c530dca381bf2d40a68d10a9dd1bbca0.jpg]]&gt;</image>
       </images>
-      <quantity>176</quantity>
+      <quantity>174</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409107518</barcode>
     </product>
@@ -18714,7 +18714,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1370/caly-pripuciamas-gaublys-kamuolys-pasaulio-gyvunai-42-cm_d4e6e374374cb47e65a989edc958d0d9.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1370/caly-pripuciamas-gaublys-kamuolys-pasaulio-gyvunai-42-cm_636a38e7496dbf86215c238025630fc9.jpg]]&gt;</image>
       </images>
-      <quantity>48</quantity>
+      <quantity>46</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>3760039941510</barcode>
     </product>
@@ -18890,7 +18890,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1379/kvepiantis-paslapciu-dienorascarontis-pasaka_53eddaaa2c26911cc4cd2b7e54982aea.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/1379/kvepiantis-paslapciu-dienorascarontis-pasaka_e0b1be00c4f2fb0062cd0893a8e2a730.jpg]]&gt;</image>
       </images>
-      <quantity>59</quantity>
+      <quantity>55</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166358910</barcode>
     </product>
@@ -18908,7 +18908,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1382/magnetinis-zaidimas-bingo-loto-vaivorykscarontes-feja_f3567ec48ead9bfc425a17eda7e65ba7.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/1382/magnetinis-zaidimas-bingo-loto-vaivorykscarontes-feja_58b253105891c6124c8f2633778e7512.jpg]]&gt;</image>
       </images>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166358811</barcode>
     </product>
@@ -19750,7 +19750,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1433/arias-kudikeliai-su-skarelemis-26-cm_e5cba43b7280c08d93a4c2d613e14b2b.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1433/arias-kudikeliai-su-skarelemis-26-cm_fd79c7543c24269fa39a992a981e4d0d.jpg]]&gt;</image>
       </images>
-      <quantity>85</quantity>
+      <quantity>84</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614607807</barcode>
     </product>
@@ -19818,7 +19818,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1437/arias-lelyte-su-geletu-zydru-pleduku-42-cm_1437.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1437/arias-lelyte-su-geletu-zydru-pleduku-42-cm_2948c72c98d5515db1665eaa9667bd7e.jpg]]&gt;</image>
       </images>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8427614653651</barcode>
     </product>
@@ -20014,7 +20014,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1457/splat-planet-marscaronkineliai-su-flomasteriais-vienaragis-zvaigzde_1457.jpg]]&gt;</image>
       </images>
-      <quantity>120</quantity>
+      <quantity>112</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639144365</barcode>
     </product>
@@ -20110,7 +20110,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1463/splat-planet-spalvinimo-staltieses-vienaragis-2-vnt_1463.png]]&gt;</image>
       </images>
-      <quantity>29</quantity>
+      <quantity>27</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146727</barcode>
     </product>
@@ -20131,7 +20131,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1464/splat-planet-paveikslas-iscaron-modelino-tropikai-30x40cm_2813250f01e7118fa976217742b9b285.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/1464/splat-planet-paveikslas-iscaron-modelino-tropikai-30x40cm_3491d45d28d28579f6e4c573bc4aeb08.png]]&gt;</image>
       </images>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146864</barcode>
     </product>
@@ -20151,7 +20151,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/1465/splat-planet-paveikslas-iscaron-modelino-vienaragis-30x40cm_70999d818c76cc63c6724921d26cac1e.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/1465/splat-planet-paveikslas-iscaron-modelino-vienaragis-30x40cm_dace743195916cae9fcff49b388e4429.png]]&gt;</image>
       </images>
-      <quantity>22</quantity>
+      <quantity>20</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146871</barcode>
     </product>
@@ -20171,7 +20171,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1466/splat-planet-paveikslas-iscaron-modelino-liutas-30x40cm_e5a001725582859a047775ce5a4f2b75.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1466/splat-planet-paveikslas-iscaron-modelino-liutas-30x40cm_891968a8a58de0fc380f3d6111f89d3e.png]]&gt;</image>
       </images>
-      <quantity>42</quantity>
+      <quantity>41</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146895</barcode>
     </product>
@@ -20251,7 +20251,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1470/splat-planet-paveikslas-iscaron-modelino-prancuzu-buldogas-30x40cm_51503394d8705c6b194ac08e69a15eb6.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/1470/splat-planet-paveikslas-iscaron-modelino-prancuzu-buldogas-30x40cm_0490a580a59c6e474b7c93ba0b09cfd5.png]]&gt;</image>
       </images>
-      <quantity>78</quantity>
+      <quantity>77</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146932</barcode>
     </product>
@@ -20270,7 +20270,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1471/splat-planet-paveikslas-iscaron-modelino-scaronvente-30x40cm_e37c6b9c7b4a60b3e772a17ad94a9119.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/1471/splat-planet-paveikslas-iscaron-modelino-scaronvente-30x40cm_a201c55f724b5eafa28a1e3d6aa5728f.png]]&gt;</image>
       </images>
-      <quantity>91</quantity>
+      <quantity>90</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146949</barcode>
     </product>
@@ -21120,7 +21120,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1947/magnetinis-zaidimas-dziunglese_1947.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1947/magnetinis-zaidimas-dziunglese_b208e58fced5bfdf2d0718559e7f3dec.jpg]]&gt;</image>
       </images>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166353090</barcode>
     </product>
@@ -21295,7 +21295,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/2064/muzikine-papuoscaronalu-dezute-su-pastalciukais-uzburtoji_cb02a5f7c4bf9f6a7a4e040159483ea8.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/2064/muzikine-papuoscaronalu-dezute-su-pastalciukais-uzburtoji_a4aeb130614a14a8007fa2b090cd3345.jpg]]&gt;</image>
       </images>
-      <quantity>18</quantity>
+      <quantity>16</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166357197</barcode>
     </product>
@@ -21609,7 +21609,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/3111/splat-planet-gertuve-vienaragis_ee0ea02a1a1b9235416a61cf6e440a2e.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/3111/splat-planet-gertuve-vienaragis_29f72da6f4bb99a68463ba8425e25d25.jpg]]&gt;</image>
       </images>
-      <quantity>46</quantity>
+      <quantity>44</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639145973</barcode>
     </product>
@@ -21807,7 +21807,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/3162/splat-planet-paveikslas-iscaron-modelino-pingvinas-30x40cm_5d358bb390c6de344136f7b1d77ae8ec.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/3162/splat-planet-paveikslas-iscaron-modelino-pingvinas-30x40cm_39aa1bb53ed79b0bc0af0d18157dab9f.png]]&gt;</image>
       </images>
-      <quantity>23</quantity>
+      <quantity>22</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639146987</barcode>
     </product>
@@ -22595,7 +22595,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/3350/mt7411-sunny-ice-lolly-stand-p1_1727694895.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/3350/mt7411-sunny-ice-lolly-stand-4_1727694894.jpg]]&gt;</image>
       </images>
-      <quantity>271</quantity>
+      <quantity>270</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>191856074113</barcode>
     </product>
@@ -22877,7 +22877,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/3363/mt7631-rabbit-hutch-pet-set-5_1727766367.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/3363/mt7631-rabbit-hutch-pet-set-4_1727766368.jpg]]&gt;</image>
       </images>
-      <quantity>66</quantity>
+      <quantity>65</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>191856076315</barcode>
     </product>
@@ -22895,7 +22895,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3364/mt7632-dog-and-cat-pet-set-2_1727766704.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3364/mt7632-dog-and-cat-pet-set-p1_1727766705.jpg]]&gt;</image>
       </images>
-      <quantity>212</quantity>
+      <quantity>211</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>191856076322</barcode>
     </product>
@@ -24390,7 +24390,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3544/bbu14-02-fish_1731573421.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3544/bbu14-02-fish_1731573420.jpg]]&gt;</image>
       </images>
-      <quantity>124</quantity>
+      <quantity>122</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296254550</barcode>
     </product>
@@ -24408,7 +24408,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/3545/bbu14-03-butterfly_1731573432.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/5/3545/14px-pegboard_1731600024.jpg]]&gt;</image>
       </images>
-      <quantity>90</quantity>
+      <quantity>89</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296254567</barcode>
     </product>
@@ -24426,7 +24426,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/3546/bbu16-1_1731574360.JPG]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/3546/16px-pegboard_1731657012.jpg]]&gt;</image>
       </images>
-      <quantity>40</quantity>
+      <quantity>39</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296255175</barcode>
     </product>
@@ -24444,7 +24444,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3547/bbu16-2_1731574275.JPG]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3547/16px-pegboard_1731656989.jpg]]&gt;</image>
       </images>
-      <quantity>24</quantity>
+      <quantity>22</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296255182</barcode>
     </product>
@@ -24462,7 +24462,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/3548/bbu16-3_1731574428.JPG]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/8/3548/16px-pegboard_1731656980.jpg]]&gt;</image>
       </images>
-      <quantity>26</quantity>
+      <quantity>24</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296255199</barcode>
     </product>
@@ -24480,7 +24480,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/3549/bbu29-09_1731592232.JPG]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/3549/29px-pegboard_1731657183.jpg]]&gt;</image>
       </images>
-      <quantity>70</quantity>
+      <quantity>68</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296255427</barcode>
     </product>
@@ -24499,7 +24499,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/3550/ykp-01-03_1731575077.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/3550/ykp-01-04_1731575077.jpg]]&gt;</image>
       </images>
-      <quantity>47</quantity>
+      <quantity>45</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296250033</barcode>
     </product>
@@ -24575,7 +24575,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3554/yko-11-04_1731575915.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3554/yko-11-03_1731575914.jpg]]&gt;</image>
       </images>
-      <quantity>50</quantity>
+      <quantity>48</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296259616</barcode>
     </product>
@@ -24662,7 +24662,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/2/3562/zkg500-201_1731578302.jpg]]&gt;</image>
       </images>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296256585</barcode>
     </product>
@@ -24678,7 +24678,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/3563/zkg500-203_1731578280.jpg]]&gt;</image>
       </images>
-      <quantity>81</quantity>
+      <quantity>77</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296256608</barcode>
     </product>
@@ -24694,7 +24694,7 @@
       <images>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/3564/zkg500-204_1731578292.jpg]]&gt;</image>
       </images>
-      <quantity>11</quantity>
+      <quantity>9</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>8699296256615</barcode>
     </product>
@@ -25273,7 +25273,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/3611/50p6165-1_1742914691.png]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/1/3611/50p6165-3_1742914691.png]]&gt;</image>
       </images>
-      <quantity>46</quantity>
+      <quantity>44</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166361651</barcode>
     </product>
@@ -25397,7 +25397,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3617/47p59682_1742995144.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3617/47p59684_1742995142.jpg]]&gt;</image>
       </images>
-      <quantity>88</quantity>
+      <quantity>85</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166359689</barcode>
     </product>
@@ -25532,7 +25532,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3627/48p6002-2_1742827495.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/3627/48p6002-4_1742827494.jpg]]&gt;</image>
       </images>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5055166360029</barcode>
     </product>
@@ -26553,7 +26553,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/747234/natural-my-carry-pottybaby-toddler-8182922048x_1750316675.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/4/747234/natural-my-carry-pottybaby-toddler-9994542048x_1750316675.jpg]]&gt;</image>
       </images>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060204034619</barcode>
     </product>
@@ -26848,7 +26848,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1464876/dogwoodartimage8_1754304039.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/6/1464876/dogwoodartimage9_1754304039.jpg]]&gt;</image>
       </images>
-      <quantity>27</quantity>
+      <quantity>21</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639148189</barcode>
     </product>
@@ -26872,7 +26872,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1464877/elephantwoodartimage8_1754303592.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/7/1464877/elephantwoodartimage9_1754303592.jpg]]&gt;</image>
       </images>
-      <quantity>28</quantity>
+      <quantity>21</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639148264</barcode>
     </product>
@@ -26985,7 +26985,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1464883/dinosaurwebsiteimage1_1754378399.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1464883/dinosaurwebsiteimage5_1754378400.jpg]]&gt;</image>
       </images>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5060639148363</barcode>
     </product>
@@ -27948,7 +27948,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/809/yoyo-zaislas-arrow-raudonas_4d80da65fa62054ba82f4262c200c6fb.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/9/809/yoyo-zaislas-arrow-raudonas_173a47d0d75c42a31d029eea3124aa7a.jpg]]&gt;</image>
       </images>
-      <quantity>0</quantity>
+      <quantity>72</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451489</barcode>
     </product>
@@ -27965,7 +27965,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/810/spardymo-kamuoliukas-geltonas_810.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/0/810/spardymo-kamuoliukas-geltonas_d9d3a558f37b82d2543acde0c8435572.jpeg]]&gt;</image>
       </images>
-      <quantity>0</quantity>
+      <quantity>12</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451915</barcode>
     </product>
@@ -28125,7 +28125,7 @@
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1073/yoyo-zaislas-arrow-galaxy_e62bcc581f0996af387a2b3050d8fc74.jpg]]&gt;</image>
         <image>&lt;![CDATA[https://zuja.lt/image/data/products/3/1073/yoyo-zaislas-arrow-galaxy_950f73ec5b2d63f79d7e0969042645ed.jpg]]&gt;</image>
       </images>
-      <quantity>0</quantity>
+      <quantity>36</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243450444</barcode>
     </product>
