@@ -36,7 +36,7 @@ root = tree.getroot()
 with open(STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(["EAN", "stan"])
-    for produkt in root.findall(".//b2b"):
+    for b2b in root.findall(".//b2b"):
         ean = b2b.findtext("EAN")
         stan = b2b.findtext("stan")
         if ean and stan:
