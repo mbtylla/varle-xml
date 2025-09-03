@@ -3,6 +3,7 @@ import requests
 import re
 from lxml import etree
 
+
 INPUT_XML = "zuja.xml"
 STOCKZUJA_CSV = "stockzuja.csv"
 TARGET_XML = "updated_products.xml"
@@ -39,9 +40,10 @@ print(f"[INFO] {STOCKZUJA_CSV} sugeneruotas.")
 
 # 3. Įkeliame stockzuja.csv į dict
 stockzuja_dict = {}
-with open(STOCKZUJA_CSV, newline="", encoding="utf-8") as csvfile:
-    reader = csv.DictReader(csvfile)
+with open("stockzuja.csv", newline="", encoding="utf-8") as f:
+    reader = csv.reader(f)
     for row in reader:
+        key, value = row
         stockzuja_dict[row["barcode"].strip()] = row["total_quantity"].strip()
 
 # 4. Redaguojame TARGET_XML tik quantity pagal barcode
