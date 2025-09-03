@@ -36,6 +36,10 @@ for product in up_root.findall(".//product"):
         if quantity_elem is not None:
             quantity_elem.text = zuja_dict[barcode]
 
+parser = etree.XMLParser(remove_blank_text=False)
+tree_target = etree.parse("updated_products.xml", parser)
+root_target = tree_target.getroot()
+
 for el in root_target.xpath("//*[name()='category' or name()='title' or name()='description' or name()='image']"):
     if el.text is not None and not isinstance(el.text, etree.CDATA):
         el.text = etree.CDATA(el.text)
