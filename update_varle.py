@@ -37,10 +37,10 @@ zuja_root = zuja_tree.getroot()
 # -------------------------------
 stock_map = {}
 for item in zuja_root.findall(".//item"):
-    ean = item.findtext("EAN")
-    qty = item.findtext("stan")
-    if ean and qty:
-        stock_map[ean.strip()] = qty.strip()
+    brc = item.findtext("barcode")
+    qty = item.findtext("total_quantity")
+    if brc and qty:
+        stock_map[brc.strip()] = qty.strip()
 
 print(f"[INFO] Iš viso prekių zuja.xml: {len(stock_map)}")
 
