@@ -1,85 +1,74 @@
-import os
+import csv
 import requests
+import re
 from lxml import etree
-import xml.etree.ElementTree as ET
 
-# -------------------------------
-# Konfigūracija
-# -------------------------------
-ZUJA_XML = "zuja.xml"
+INPUT_XML = "zuja.xml"
+STOCKZUJA_CSV = "stockzuja.csv"
 TARGET_XML = "updated_products.xml"
-ZUJA_URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
+URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
 
-# -------------------------------
-# 1. Parsisiunčiam zuja.xml
-# -------------------------------
-def download_zuja():
-    print("[INFO] Parsisiunčiam zuja.xml...")
-    r = requests.get(ZUJA_URL)
-    r.raise_for_status()
-    with open(ZUJA_XML, "wb") as f:
-        f.write(r.content)
-    if os.path.getsize(ZUJA_XML) == 0:
-        raise ValueError("zuja.xml parsisiųstas, bet failas tuščias!")
 
-if not os.path.exists(ZUJA_XML) or os.path.getsize(ZUJA_XML) == 0:
-    download_zuja()
 
-# -------------------------------
-# 2. Perskaityti zuja.xml
-# -------------------------------
-zuja_tree = ET.parse(ZUJA_XML)
-zuja_root = zuja_tree.getroot()
+def normalize_stockzuja(value):
+    if value is None:
+        return 0
+    value = value.strip().lower()
+    return str(STOCKZUJA_MAP.get(value, value))
 
-stock_map = {}
-for item in zuja_root.findall(".//item"):
-    brc = item.findtext("barcode")
-    qty = item.findtext("total_quantity")
-    if brc and qty:
-        brc_clean = brc.strip().lstrip("0")  # normalizuojam barcode
-        stock_map[brc_clean] = qty.strip()
+# 1. Parsisiunčiame XML
+r = requests.get(URL)
+r.raise_for_status()
+with open(INPUT_XML, "wb") as f:
+    f.write(r.content)
+print(f"[INFO] {INPUT_XML} parsisiųstas.")
 
-print(f"[INFO] Prekių zuja.xml: {len(stock_map)}")
+# 2. Generuojame stockzuja.csv
+tree = etree.fromstring(r.content)
+product_entries = tree.findall(".//product")
 
-# -------------------------------
-# 3. Perskaityti target XML
-# -------------------------------
-parser = etree.XMLParser(remove_blank_text=False)
-tree_target = etree.parse(TARGET_XML, parser)
-root_target = tree_target.getroot()
+with open(STOCKZUJA_CSV, "w", newline="", encoding="utf-8") as csvfile:
+    import csv
+    writer = csv.writer(csvfile)
+    writer.writerow(["barcode", "total_quantity"])
+    for product in product_entries:
+        barcode = product.findtext("barcode")
+        total_quantity = product.findtext("total_quantity")
+        if barcode and total_quantity:
+            normalized = normalize_stockzuja(total_quantity)
+            writer.writerow([barcode.strip(), normalized])
+print(f"[INFO] {STOCKZUJA_CSV} sugeneruotas.")
 
-# -------------------------------
-# 4. Atnaujinti quantity pagal barcode
-# -------------------------------
-count_updated = 0
-for product in root_target.findall(".//product"):
-    barcode_el = product.find("barcode")
-    qty_el = product.find("quantity")
-    if barcode_el is not None and qty_el is not None:
-        barcode_clean = barcode_el.text.strip().lstrip("0")
-        if barcode_clean in stock_map:
-            old_qty = qty_el.text
-            qty_el.text = stock_map[barcode_clean]
-            count_updated += 1
-            print(f"[DEBUG] {barcode_clean}: {old_qty} -> {qty_el.text}")
+# 3. Įkeliame stockzuja.csv į dict
+stockzuja_dict = {}
+with open(STOCKZUJA_CSV, newline="", encoding="utf-8") as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        stockzuja_dict[row["barcode"].strip()] = row["total_quantity"].strip()
 
-print(f"[INFO] Atnaujinta prekių: {count_updated}")
+# 4. Redaguojame TARGET_XML tik quantity pagal barcode
+with open(TARGET_XML, "r", encoding="utf-8") as f:
+    xml_text = f.read()
 
-# -------------------------------
-# 5. Išlaikyti CDATA tam tikriems laukams
-# -------------------------------
-for el in root_target.xpath("//*[name()='category' or name()='title' or name()='description' or name()='image']"):
-    if el.text:
-        el.text = etree.CDATA(el.text)
+# Regex, kuris randa <product> bloką su barcode ir quantity
+def update_quantity(match):
+    product_block = match.group(0)
+    barcode_match = re.search(r"<barcode>(.*?)</barcode>", product_block, re.DOTALL)
+    if barcode_match:
+        barcode = barcode_match.group(1).strip()
+        if barcode in stockzuja_dict:
+            quantity_new = stockzuja_dict[barcode]
+            product_block = re.sub(
+                r"(<quantity>).*?(</quantity>)",
+                lambda m: f"{m.group(1)}{quantity_new}{m.group(2)}",
+                product_block,
+                flags=re.DOTALL
+            )
+    return product_block
 
-# -------------------------------
-# 6. Išsaugoti XML
-# -------------------------------
-tree_target.write(
-    TARGET_XML,
-    pretty_print=True,
-    encoding="utf-8",
-    xml_declaration=True
-)
+xml_text_new = re.sub(r"<product>.*?</product>", update_quantity, xml_text, flags=re.DOTALL)
 
-print("[INFO] updated_products.xml atnaujintas sėkmingai.")
+with open(TARGET_XML, "w", encoding="utf-8") as f:
+    f.write(xml_text_new)
+
+print(f"[INFO] {TARGET_XML} atnaujintas pagal stockzuja.csv. CDATA kitur išliko nepakeisti.")
