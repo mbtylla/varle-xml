@@ -1,6 +1,7 @@
+import os
+import shutil
 import csv
 import requests
-import shutil
 from lxml import etree
 
 INPUT_XML = "marini-b2b.xml"
