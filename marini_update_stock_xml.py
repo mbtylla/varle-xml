@@ -61,10 +61,9 @@ def update_quantity(match):
         barcode = barcode_match.group(1).strip()
         if barcode in stock_dict:
             quantity_new = stock_dict[barcode]
-            # Pakeičiam <quantity>...</quantity> bet išlaikom kitus tag'us su CDATA
             product_block = re.sub(
                 r"(<quantity>).*?(</quantity>)",
-                r"\1{}\2".format(quantity_new),
+                lambda m: f"{m.group(1)}{quantity_new}{m.group(2)}",
                 product_block,
                 flags=re.DOTALL
             )
