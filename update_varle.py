@@ -5,6 +5,9 @@ import xml.etree.ElementTree as ET   # <-- trūko
 import re
 import csv
 
+ZUJA_XML = "zuja.xml"
+TARGET_XML = "updated_products.xml"
+ZUJA_URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"  # <- pakeisk į realų URL
 # Patikriname, ar zuja.xml egzistuoja ir nėra tuščias
 if not os.path.exists("zuja.xml") or os.path.getsize("zuja.xml") == 0:
     raise ValueError("zuja.xml neegzistuoja arba yra tuščias!")
