@@ -10,11 +10,6 @@ URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0O
 
 
 
-def normalize_stockzuja(value):
-    if value is None:
-        return 0
-    value = value.strip().lower()
-    return str(STOCKZUJA_MAP.get(value, value))
 
 # 1. Parsisiunčiame XML
 r = requests.get(URL)
