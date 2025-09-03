@@ -1,8 +1,7 @@
-import xml.etree.ElementTree as ET
 import csv
-import os
 import requests
 import shutil
+from lxml import etree
 
 INPUT_XML = "marini-b2b.xml"
 STOCK_CSV = "stock.csv"
@@ -30,18 +29,17 @@ with open(INPUT_XML, "wb") as f:
 print(f"[INFO] {INPUT_XML} parsisiųstas.")
 
 # 2. Generuojame stock.csv
-tree = ET.parse(INPUT_XML)
+tree = etree.parse(INPUT_XML)
 root = tree.getroot()
 
 with open(STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(["EAN", "stan"])
-    for b2b in root.findall(".//b2b"):  # pakeista į b2b
+    for b2b in root.findall(".//b2b"):
         ean = b2b.findtext("EAN")
         stan = b2b.findtext("stan")
         if ean and stan:
-            normalized = normalize_stock(stan)
-            writer.writerow([ean.strip(), normalized])
+            writer.writerow([ean.strip(), normalize_stock(stan)])
 print(f"[INFO] {STOCK_CSV} sugeneruotas.")
 
 # 3. Atnaujiname TARGET_XML pagal stock.csv
@@ -57,21 +55,22 @@ with open(STOCK_CSV, newline="", encoding="utf-8") as csvfile:
         stock_dict[row["EAN"].strip()] = row["stan"].strip()
 
 # Redaguojame Marinitestas.xml
-tree_target = ET.parse(TARGET_XML)
+parser = etree.XMLParser(remove_blank_text=True)
+tree_target = etree.parse(TARGET_XML, parser)
 root_target = tree_target.getroot()
 updated_count = 0
 
 for product in root_target.findall(".//product"):
-    barcode = product.findtext("barcode")
-    if barcode:
-        barcode_clean = barcode.strip()
-        if barcode_clean in stock_dict:
-            quantity_el = product.find("quantity")
-            if quantity_el is not None:
-                old_value = quantity_el.text
-                quantity_el.text = stock_dict[barcode_clean]
-                updated_count += 1
-                print(f"[UPDATE] Barcode {barcode_clean}: {old_value} -> {quantity_el.text}")
+    barcode_el = product.find("barcode")
+    quantity_el = product.find("quantity")
+    if barcode_el is not None and quantity_el is not None:
+        barcode = barcode_el.text.strip()
+        if barcode in stock_dict:
+            old_value = quantity_el.text
+            # Paprastas tekstas quantity
+            quantity_el.text = stock_dict[barcode]
+            updated_count += 1
+            print(f"[UPDATE] Barcode {barcode}: {old_value} -> {quantity_el.text}")
 
-tree_target.write(TARGET_XML, encoding="utf-8", xml_declaration=True)
+tree_target.write(TARGET_XML, encoding="utf-8", xml_declaration=True, pretty_print=True)
 print(f"[INFO] {TARGET_XML} atnaujintas. Pakeista {updated_count} prekių likučiai.")
