@@ -8,8 +8,11 @@ STOCKZUJA_CSV = "stockzuja.csv"
 TARGET_XML = "updated_products.xml"
 URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
 
-
-
+def normalize_stockzuja(value):
+    if value is None:
+        return 0
+    value = value.strip().lower()
+    return str(STOCKZUJA_CSV.get(value, value))
 
 # 1. Parsisiunčiame XML
 r = requests.get(URL)
