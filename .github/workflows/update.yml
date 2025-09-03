@@ -1,46 +1,38 @@
-name: Update Varle XML
+name: Update Varle Products
 
 on:
   schedule:
-    # 11:45 LT (vasaros metu, UTC+08:45)
-    - cron: "45 14 * * *"
+    - cron: '0 17 * * *'  # 20:00 Lietuvos laiku (UTC+3 -> 17:00 UTC)
   workflow_dispatch:
 
 jobs:
-  update:
+  update-varle:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GH_PAT }}
+      # 1. Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.12"
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
           python -m pip install --upgrade pip
-          pip install requests lxml  # <-- svarbu
+          pip install requests lxml
 
-    - name: Download zuja.xml
-      run: |
-        curl -L -o zuja.xml "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
-        if [ ! -s zuja.xml ]; then
-          echo "zuja.xml failas tuščias!"
-          exit 1
-        fi
+      # 4. Run update_varle.py
+      - name: Run update script
+        run: python update_varle.py
 
-    - name: Update products
-      run: python update_varle.py
-
-    - name: Push changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add updated_products.xml
-        git commit -m "Atnaujinti quantity pagal zuja.xml: $(date -u)"
-        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/mbtylla/varle-xml.git HEAD:main
+      # 5. Commit and push changes
+      - name: Commit and push updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add updated_products.xml stock.csv  # <- jei nenori saugoti zuja._
