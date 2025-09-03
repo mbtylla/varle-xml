@@ -1,6 +1,7 @@
 import csv
 import requests
 import re
+from lxml import etree
 
 INPUT_XML = "marini-b2b.xml"
 STOCK_CSV = "stock.csv"
