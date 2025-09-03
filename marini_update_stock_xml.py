@@ -6,7 +6,7 @@ import shutil
 
 INPUT_XML = "marini-b2b.xml"
 STOCK_CSV = "stock.csv"
-TARGET_XML = "Marinitestas.xml"
+TARGET_XML = "marinitestas.xml"
 URL = "https://marini.pl/b2b/marini-b2b.xml"
 
 STOCK_MAP = {
