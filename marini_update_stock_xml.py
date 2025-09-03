@@ -28,18 +28,19 @@ with open(INPUT_XML, "wb") as f:
 print(f"[INFO] {INPUT_XML} parsisiųstas.")
 
 # 2. Generuojame stock.csv
-b2b_entries = re.findall(r"<b2b>(.*?)</b2b>", r.text, re.DOTALL)
+tree = etree.fromstring(r.content)
+b2b_entries = tree.findall(".//b2b")
+
 with open(STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
     import csv
     writer = csv.writer(csvfile)
     writer.writerow(["EAN", "stan"])
-    for entry in b2b_entries:
-        ean_match = re.search(r"<EAN>(.*?)</EAN>", entry, re.DOTALL)
-        stan_match = re.search(r"<stan>(.*?)</stan>", entry, re.DOTALL)
-        if ean_match and stan_match:
-            ean = ean_match.group(1).strip()
-            stan = normalize_stock(stan_match.group(1))
-            writer.writerow([ean, stan])
+    for b2b in b2b_entries:
+        ean = b2b.findtext("EAN")
+        stan = b2b.findtext("stan")
+        if ean and stan:
+            normalized = normalize_stock(stan)
+            writer.writerow([ean.strip(), normalized])
 print(f"[INFO] {STOCK_CSV} sugeneruotas.")
 
 # 3. Įkeliame stock.csv į dict
