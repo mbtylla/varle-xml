@@ -1,8 +1,6 @@
-import os
-import shutil
 import csv
 import requests
-from lxml import etree
+import re
 
 INPUT_XML = "marini-b2b.xml"
 STOCK_CSV = "stock.csv"
@@ -30,48 +28,51 @@ with open(INPUT_XML, "wb") as f:
 print(f"[INFO] {INPUT_XML} parsisiųstas.")
 
 # 2. Generuojame stock.csv
-tree = etree.parse(INPUT_XML)
-root = tree.getroot()
-
+b2b_entries = re.findall(r"<b2b>(.*?)</b2b>", r.text, re.DOTALL)
 with open(STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
+    import csv
     writer = csv.writer(csvfile)
     writer.writerow(["EAN", "stan"])
-    for b2b in root.findall(".//b2b"):
-        ean = b2b.findtext("EAN")
-        stan = b2b.findtext("stan")
-        if ean and stan:
-            writer.writerow([ean.strip(), normalize_stock(stan)])
+    for entry in b2b_entries:
+        ean_match = re.search(r"<EAN>(.*?)</EAN>", entry, re.DOTALL)
+        stan_match = re.search(r"<stan>(.*?)</stan>", entry, re.DOTALL)
+        if ean_match and stan_match:
+            ean = ean_match.group(1).strip()
+            stan = normalize_stock(stan_match.group(1))
+            writer.writerow([ean, stan])
 print(f"[INFO] {STOCK_CSV} sugeneruotas.")
 
-# 3. Atnaujiname TARGET_XML pagal stock.csv
-if not os.path.exists(TARGET_XML):
-    print(f"[WARN] {TARGET_XML} neegzistuoja, sukuriamas naujas failas.")
-    shutil.copy(INPUT_XML, TARGET_XML)
-
-# Įkeliame stock.csv į dict
+# 3. Įkeliame stock.csv į dict
 stock_dict = {}
 with open(STOCK_CSV, newline="", encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         stock_dict[row["EAN"].strip()] = row["stan"].strip()
 
-# Redaguojame Marinitestas.xml
-parser = etree.XMLParser(remove_blank_text=True)
-tree_target = etree.parse(TARGET_XML, parser)
-root_target = tree_target.getroot()
-updated_count = 0
+# 4. Redaguojame TARGET_XML tik quantity pagal barcode
+with open(TARGET_XML, "r", encoding="utf-8") as f:
+    xml_text = f.read()
 
-for product in root_target.findall(".//product"):
-    barcode_el = product.find("barcode")
-    quantity_el = product.find("quantity")
-    if barcode_el is not None and quantity_el is not None:
-        barcode = barcode_el.text.strip()
+# Regex, kuris randa <product> bloką su barcode ir quantity
+def update_quantity(match):
+    product_block = match.group(0)
+    barcode_match = re.search(r"<barcode>(.*?)</barcode>", product_block, re.DOTALL)
+    if barcode_match:
+        barcode = barcode_match.group(1).strip()
         if barcode in stock_dict:
-            old_value = quantity_el.text
-            # Paprastas tekstas quantity
-            quantity_el.text = stock_dict[barcode]
-            updated_count += 1
-            print(f"[UPDATE] Barcode {barcode}: {old_value} -> {quantity_el.text}")
+            quantity_new = stock_dict[barcode]
+            # Pakeičiam <quantity>...</quantity> bet išlaikom kitus tag'us su CDATA
+            product_block = re.sub(
+                r"(<quantity>).*?(</quantity>)",
+                r"\1{}\2".format(quantity_new),
+                product_block,
+                flags=re.DOTALL
+            )
+    return product_block
 
-tree_target.write(TARGET_XML, encoding="utf-8", xml_declaration=True, pretty_print=True)
-print(f"[INFO] {TARGET_XML} atnaujintas. Pakeista {updated_count} prekių likučiai.")
+xml_text_new = re.sub(r"<product>.*?</product>", update_quantity, xml_text, flags=re.DOTALL)
+
+with open(TARGET_XML, "w", encoding="utf-8") as f:
+    f.write(xml_text_new)
+
+print(f"[INFO] {TARGET_XML} atnaujintas pagal stock.csv. CDATA kitur išliko nepakeisti.")
