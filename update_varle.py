@@ -44,7 +44,7 @@ tree_target = etree.parse("updated_products.xml", parser)
 root_target = tree_target.getroot()
 
 for el in root_target.xpath("//*[name()='category' or name()='title' or name()='description' or name()='image']"):
-    if el.text is not None and not isinstance(el.text, etree.CDATA):
+    if el.text is not None:
         el.text = etree.CDATA(el.text)
 
 tree_target.write(TARGET_XML, encoding="utf-8", xml_declaration=True, pretty_print=True)
