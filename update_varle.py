@@ -57,12 +57,14 @@ root_target = tree_target.getroot()
 count_updated = 0
 for product in root_target.xpath("//product"):
     barcode = product.findtext("barcode")
-    if barcode and barcode.strip() in stock_map:
-        qty_el = product.find("quantity")
-        if qty_el is not None:
-            qty_el.text = stock_map[barcode.strip()]  # Paprastas tekstas
-            count_updated += 1
-
+    print("Product barcode:", barcode)
+    if barcode:
+        barcode_clean = barcode.strip()
+        if barcode_clean in stock_map:
+            qty_el = product.find("quantity")
+            if qty_el is not None:
+                print(f"Updating {barcode_clean} to {stock_map[barcode_clean]}")
+                qty_el.text = stock_map[barcode_clean]
 print(f"[INFO] Atnaujinta prekių: {count_updated}")
 
 # -------------------------------
