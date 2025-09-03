@@ -1,8 +1,9 @@
 import os
-import csv
 import requests
-import re
 from lxml import etree
+import xml.etree.ElementTree as ET   # <-- trūko
+import re
+import csv
 
 # Patikriname, ar zuja.xml egzistuoja ir nėra tuščias
 if not os.path.exists("zuja.xml") or os.path.getsize("zuja.xml") == 0:
