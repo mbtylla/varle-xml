@@ -53,16 +53,15 @@ root_target = tree_target.getroot()
 # 5. Atnaujinam quantity pagal barcode
 # -------------------------------
 count_updated = 0
-for product in root_target.xpath("//product"):
-    barcode = product.findtext("barcode")
-    if barcode:
-        barcode_clean = barcode.strip().lstrip("0")
+for product in root_target.findall(".//product"):
+    barcode_el = product.find("barcode")
+    qty_el = product.find("quantity")
+    if barcode_el is not None and qty_el is not None:
+        barcode_clean = barcode_el.text.strip().lstrip("0")
         if barcode_clean in stock_map:
-            qty_el = product.find("quantity")
-            if qty_el is not None:
-                print(f"[DEBUG] Updating barcode {barcode_clean} quantity to {stock_map[barcode_clean]}")
-                qty_el.text = stock_map[barcode_clean]
-                count_updated += 1
+            qty_el.text = stock_map[barcode_clean]
+            count_updated += 1
+            print(f"[DEBUG] Updated {barcode_clean} -> {qty_el.text}")
 
 print(f"[INFO] Atnaujinta prekių: {count_updated}")
 
