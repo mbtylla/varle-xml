@@ -1,5 +1,7 @@
-import os
-import xml.etree.ElementTree as ET
+import csv
+import requests
+import re
+from lxml import etree
 
 # Patikriname, ar zuja.xml egzistuoja ir nėra tuščias
 if not os.path.exists("zuja.xml") or os.path.getsize("zuja.xml") == 0:
@@ -32,5 +34,10 @@ for product in up_root.findall(".//product"):
         if quantity_elem is not None:
             quantity_elem.text = zuja_dict[barcode]
 
+for el in root_target.xpath("//*[name()='category' or name()='title' or name()='description' or name()='image']"):
+    if el.text is not None and not isinstance(el.text, etree.CDATA):
+        el.text = etree.CDATA(el.text)
+
+tree_target.write(TARGET_XML, encoding="utf-8", xml_declaration=True, pretty_print=True)
 # Išsaugome atnaujintą XML
 up_tree.write("updated_products.xml", encoding="utf-8", xml_declaration=True)
