@@ -5,7 +5,7 @@ from lxml import etree
 
 INPUT_XML = "marini-b2b.xml"
 STOCK_CSV = "stock.csv"
-TARGET_XML = "testas_products.xml"
+TARGET_XML = "updated_products.xml"
 URL = "https://marini.pl/b2b/marini-b2b.xml"
 
 STOCK_MAP = {
