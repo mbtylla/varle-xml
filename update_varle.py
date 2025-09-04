@@ -5,7 +5,7 @@ from lxml import etree
 
 INPUT_XML = "zuja.xml"
 STOCKZUJA_CSV = "stockzuja.csv"
-TARGET_XML = "updated_products.xml"
+TARGET_XML = "testas_products.xml"
 URL = "https://zuja.lt/index.php?route=feed/store/generate&filters=YToyOntzOjI0OiJmaWx0ZXJfY3VzdG9tZXJfZ3JvdXBfaWQiO3M6MjoiMTIiO3M6Mzoia2V5IjtzOjMyOiJjODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYyI7fQ==&key=c81e728d9d4c2f636f067f89cc14862c"
 
 # -------------------------
