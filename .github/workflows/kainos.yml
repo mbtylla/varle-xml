@@ -23,7 +23,7 @@ jobs:
           pip install requests lxml
 
       - name: Run update script
-        run: python terminaikainos.py
+        run: python kainaterminas.py
 
       - name: Commit and push changes
         run: |
