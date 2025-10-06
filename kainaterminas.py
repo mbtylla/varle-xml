@@ -4,7 +4,7 @@ import re
 STOCK_CSV = "terminaikainos.csv"
 TARGET_XML = "testas_products.xml"
 
-
+stock_dict = {}
 with open(STOCK_CSV, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
