@@ -12,11 +12,19 @@ def normalize_stock(value):
         return 0
     value = value.strip().lower()
     return str(STOCK_MAP.get(value, value))
-
+with open(STOCK_CSV, newline='', encoding='utf-8') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        barcode = row.get("barcode")
+        kaina = row.get("price")
+        if barcode and price:
+            stock_dict[barcode.strip()] = price.strip()
 
 # 4. Redaguojame TARGET_XML tik quantity pagal barcode
 with open(TARGET_XML, "r", encoding="utf-8") as f:
     xml_text = f.read()
+
+
 
 # Regex, kuris randa <product> bloką su barcode ir quantity
 def update_price(match):
