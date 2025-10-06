@@ -2,7 +2,7 @@ name: KAINOS ir DELIVERY Update Full
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # kasdien 21:00 Lietuvos laiku (UTC+3 → 18:00 UTC)
+    - cron: '0 12 * * *'  # kasdien 21:00 Lietuvos laiku (UTC+3 → 18:00 UTC)
   workflow_dispatch:
 
 jobs:
