@@ -1,7 +1,5 @@
 import csv
-import requests
 import re
-from lxml import etree
 
 STOCK_CSV = "terminaikainos.csv"
 TARGET_XML = "testas_products.xml"
