@@ -5,11 +5,6 @@ STOCK_CSV = "terminaikainos.csv"
 TARGET_XML = "testas_products.xml"
 
 
-def normalize_stock(value):
-    if value is None:
-        return 0
-    value = value.strip().lower()
-    return str(STOCK_MAP.get(value, value))
 with open(STOCK_CSV, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
