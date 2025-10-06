@@ -9,7 +9,7 @@ with open(PRICE_CSV, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         barcode = row.get("barcode")
-        kaina = row.get("price")
+        price = row.get("price")
         if barcode and price:
             price_dict[barcode.strip()] = price.strip()
 
