@@ -5,7 +5,7 @@ PRICE_CSV = "terminaikainos.csv"
 TARGET_XML = "testas_products.xml"
 
 price_dict = {}
-with open(price_CSV, newline='', encoding='utf-8') as csvfile:
+with open(PRICE_CSV, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         barcode = row.get("barcode")
