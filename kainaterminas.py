@@ -2,7 +2,7 @@ import csv
 import re
 
 PRICE_CSV = "terminaikainos.csv"
-TARGET_XML = "testas_products.xml"
+TARGET_XML = "updated_products.xml"
 
 product_info = {}
 with open(PRICE_CSV, newline='', encoding='utf-8') as csvfile:
