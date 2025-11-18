@@ -49,23 +49,22 @@ with open(TARGET_XML, "r", encoding="utf-8") as f:
     xml_text = f.read()
 
 
-def update_quantity(block):
-    # Surandame <barcode>
+def update_quantity(match):
+    block = match.group(0)  # ← čia buvo klaida: reikia tekstą, ne match objektą
+
     barcode_match = re.search(r"<barcode>(.*?)</barcode>", block, re.DOTALL)
-    if not barcode_match:
-        return block
+    if barcode_match:
+        barcode = barcode_match.group(1).strip()
 
-    barcode = barcode_match.group(1).strip()
+        if barcode in stock_dict:
+            new_qty = stock_dict[barcode]
 
-    # Jei yra ANVOL likutis → perrašome quantity
-    if barcode in anvol_stock:
-        new_q = anvol_stock[barcode]
-        block = re.sub(
-            r"(<quantity>).*?(</quantity>)",
-            lambda m: f"{m.group(1)}{new_q}{m.group(2)}",
-            block,
-            flags=re.DOTALL
-        )
+            block = re.sub(
+                r"(<quantity>).*?(</quantity>)",
+                lambda m: f"{m.group(1)}{new_qty}{m.group(2)}",
+                block,
+                flags=re.DOTALL
+            )
 
     return block
 
