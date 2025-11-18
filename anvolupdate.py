@@ -48,6 +48,12 @@ print(f"[INFO] Rasta ANVOL prekių: {len(anvol_stock)}")
 with open(TARGET_XML, "r", encoding="utf-8") as f:
     xml_text = f.read()
 
+stock_dict = {}   # ← Bendras žodynas
+
+with open(ANVOL_STOCK_CSV, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        stock_dict[row["ean"].strip()] = row["stock_ee"].strip()
 
 def update_quantity(match):
     block = match.group(0)  # ← čia buvo klaida: reikia tekstą, ne match objektą
