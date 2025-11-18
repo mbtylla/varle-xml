@@ -1,84 +1,61 @@
 import requests
-import re
 from lxml import etree
+import re
+import csv
 
-# ---- FAILAI ----
-INPUT_XML = "anvol.xml"              # čia saugosime parsisiųstą ANVOL XML
-TARGET_XML = "updated_products.xml"  # failas, kurį atnaujinsime
-
-# ---- ANVOL XML NUORODA ----
-ANVOL_URL = "https://xml.anvol.eu/wholesale-lt-products.xml"
-
-
-# -----------------------------------------------------------
-# 1. Parsisiunčiame ANVOL XML
-# -----------------------------------------------------------
-r = requests.get(ANVOL_URL)
+# 1. Parsisiunčiam ANVOL XML
+URL = "https://xml.anvol.eu/wholesale-lt-products.xml"
+r = requests.get(URL)
 r.raise_for_status()
-
-with open(INPUT_XML, "wb") as f:
-    f.write(r.content)
-
-print("[INFO] ANVOL XML atsisiųstas.")
-
-
-# -----------------------------------------------------------
-# 2. Nuskaitome ANVOL XML → sudarome {ean: stock_ee}
-# -----------------------------------------------------------
 tree = etree.fromstring(r.content)
+print(f"[INFO] ANVOL XML atsisiųstas.")
 products = tree.findall(".//product")
+print(f"[INFO] Rasta ANVOL prekių: {len(products)}")
 
-anvol_stock = {}
+# 2. Sudarome stock_dict pagal <ean> -> <stock_ee>
+stock_dict = {}
+ANVOL_STOCK_CSV = "anvolstocks.csv"
 
-for p in products:
-    ean = p.findtext("ean")
-    stock_ee = p.findtext("stocks/stock_ee")
+with open(ANVOL_STOCK_CSV, "w", newline="", encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(["ean", "stock_ee"])  # antraštės
+    for product in products:
+        ean = product.findtext("ean")
+        stock_ee = product.findtext("stocks/stock_ee")
+        if ean:
+            qty = stock_ee.strip() if stock_ee else "0"
+            stock_dict[ean.strip()] = qty
+            writer.writerow([ean.strip(), qty])
 
-    if ean:
-        clean_ean = ean.strip()
-        quantity = stock_ee.strip() if stock_ee else "0"
-        anvol_stock[clean_ean] = quantity
+print(f"[INFO] {ANVOL_STOCK_CSV} sugeneruotas.")
 
-print(f"[INFO] Rasta ANVOL prekių: {len(anvol_stock)}")
-
-
-# -----------------------------------------------------------
-# 3. Atidarome tavo XML ir perrašome <quantity> pagal EAN
-# -----------------------------------------------------------
+# 3. Atidarom target XML
+TARGET_XML = "updated_products.xml"
 with open(TARGET_XML, "r", encoding="utf-8") as f:
     xml_text = f.read()
 
-stock_dict = {}   # ← Bendras žodynas
-
-with open(ANVOL_STOCK_CSV, newline="", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        stock_dict[row["ean"].strip()] = row["stock_ee"].strip()
-
+# 4. Funkcija, kuri atnaujina quantity pagal EAN
 def update_quantity(match):
-    block = match.group(0)  # ← čia buvo klaida: reikia tekstą, ne match objektą
-
+    block = match.group(0)
     barcode_match = re.search(r"<barcode>(.*?)</barcode>", block, re.DOTALL)
-    if barcode_match:
-        barcode = barcode_match.group(1).strip()
-
-        if barcode in stock_dict:
-            new_qty = stock_dict[barcode]
-
-            block = re.sub(
-                r"(<quantity>).*?(</quantity>)",
-                lambda m: f"{m.group(1)}{new_qty}{m.group(2)}",
-                block,
-                flags=re.DOTALL
-            )
-
+    if not barcode_match:
+        return block
+    barcode = barcode_match.group(1).strip()
+    if barcode in stock_dict:
+        qty = stock_dict[barcode]
+        block = re.sub(
+            r"(<quantity>).*?(</quantity>)",
+            lambda m: f"{m.group(1)}{qty}{m.group(2)}",
+            block,
+            flags=re.DOTALL
+        )
     return block
 
-
+# 5. Atnaujinam XML
 updated_xml = re.sub(r"<product>.*?</product>", update_quantity, xml_text, flags=re.DOTALL)
 
-
+# 6. Išsaugom atnaujintą XML
 with open(TARGET_XML, "w", encoding="utf-8") as f:
     f.write(updated_xml)
 
-print("[INFO] TARGET_XML sėkmingai atnaujintas pagal ANVOL likučius!")
+print(f"[INFO] {TARGET_XML} atnaujintas pagal ANVOL stock_ee.")
