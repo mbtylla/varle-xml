@@ -24,7 +24,7 @@ jobs:
           pip install requests lxml
 
       - name: Run ANVOL stock update script
-        run: python update_anvol.py
+        run: python anvolupdate.py
 
       - name: Commit and push changes
         run: |
