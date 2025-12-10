@@ -2,8 +2,8 @@ name: Run Barcode Processing
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # kasdien 12:00 UTC
-  workflow_dispatch:        # leidžia paleisti rankiniu būdu
+    - cron: "0 12 * * *"     # kasdien 12:00 UTC
+  workflow_dispatch:          # leidžia paleisti rankiniu būdu
 
 jobs:
   run-script:
@@ -16,26 +16,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install dependencies (if any)
-        run: |
-          pip install --upgrade pip
-          
-      - name: Debug: list everything
+      - name: Debug: show files before running script
         run: |
           echo "--- DIR ---"
           pwd
-          echo "--- FILES ---"
+          echo "--- FILES BEFORE ---"
           ls -R .
 
-      - name: Run process_barcodes.py
+      - name: Run barcode script
         run: |
           python process_barcodes.py
-          
-      - name: Debug: list after script
+
+      - name: Debug: show files after running script
         run: |
-          echo "--- FILES AFTER SCRIPT ---"
+          echo "--- FILES AFTER ---"
           ls -R .
 
       - name: Upload output CSV files as artifacts
@@ -45,4 +41,4 @@ jobs:
           path: |
             egzbarmarini.csv
             NEEGZbarmarini.csv
-          if-no-files-found: ignore
+          if-no-files-found: warn
