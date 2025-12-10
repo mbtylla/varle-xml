@@ -1,69 +1,69 @@
 import xml.etree.ElementTree as ET
 import csv
+import os
 
-# 1. NUSKAITOME updated_products.xml
+
+# ---- 1. UPDATED_PRODUCTS.XML ----
 def extract_barcodes_from_updated_products():
     tree = ET.parse("updated_products.xml")
     root = tree.getroot()
 
-    found_barcodes = []
+    found = []
 
-    # iteruojame per visus <product> tagus
     for product in root.findall(".//product"):
         sku = product.findtext("sku", "").strip().lower()
-
-        if sku.startswith("mari"):   # tikrinti ar prasideda "mari"
+        if sku.startswith("mari"):
             barcode = product.findtext("barcode", "").strip()
             if barcode:
-                found_barcodes.append(barcode)
+                found.append(barcode)
 
-    return found_barcodes
-
-
-# 2. Saugojame egzistuojančius barcodus į egzbarmarini.csv
-def save_to_csv(filename, barcodes):
-    with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["barcode"])
-        for code in barcodes:
-            writer.writerow([code])
+    return found
 
 
-# 3. Patikriname prieš marini-b2b.xml
+# ---- 2. MARINI-B2B.XML ----
 def load_b2b_barcodes():
     tree = ET.parse("marini-b2b.xml")
     root = tree.getroot()
 
-    b2b_barcodes = set()
+    found = set()
 
-    for product in root.findall(".//product"):
-        barcode = product.findtext("barcode", "").strip()
-        if barcode:
-            b2b_barcodes.add(barcode)
+    for item in root.findall(".//b2b"):
+        ean = item.findtext("EAN", "").strip()
+        if ean:
+            found.add(ean)
 
-    return b2b_barcodes
+    return found
+
+
+# ---- CSV SAVE ----
+def save_csv(filename, barcodes):
+    with open(filename, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["barcode"])
+        for b in barcodes:
+            w.writerow([b])
 
 
 def main():
-    # 1. Ištraukiame barkodus kurie turi SKU prasidedantį "mari"
-    barcodes = extract_barcodes_from_updated_products()
-    print(f"Rasta {len(barcodes)} barkodų su SKU prasidedančiu 'mari'.")
+    # 1. ištraukiame iš updated_products.xml
+    updated = extract_barcodes_from_updated_products()
+    print(f"Rasta {len(updated)} barkodų su SKU 'mari*'")
 
-    # 2. Išsaugome į egzbarmarini.csv
-    save_to_csv("egzbarmarini.csv", barcodes)
-    print("Failas egzbarmarini.csv sukurtas.")
+    save_csv("egzbarmarini.csv", updated)
+    print("Sukurta: egzbarmarini.csv")
 
-    # 3. Užkrauname barkodus iš marini-b2b.xml
-    b2b_barcodes = load_b2b_barcodes()
+    # 2. užkrauname barkodus iš marini-b2b.xml
+    b2b = load_b2b_barcodes()
+    print(f"marini-b2b.xml rasta {len(b2b)} barkodų")
 
-    # 4. Randame barkodus kurių nėra marini-b2b.xml
-    not_found = [code for code in barcodes if code not in b2b_barcodes]
+    # 3. atfiltruojame kurių nėra
+    diff = [b for b in updated if b not in b2b]
 
-    if not_found:
-        save_to_csv("NEEGZbarmarini.csv", not_found)
-        print(f"Rasta {len(not_found)} neatitikimų. Sukurtas NEEGZbarmarini.csv")
+    if diff:
+        save_csv("NEEGZbarmarini.csv", diff)
+        print(f"Sukurta: NEEGZbarmarini.csv ({len(diff)} barkodų)")
     else:
-        print("Visi barkodai egzistuoja marini-b2b.xml faile. NEEGZbarmarini.csv nesukurtas.")
+        print("Visi barkodai egzistuoja marini-b2b.xml faile")
 
 
 if __name__ == "__main__":
