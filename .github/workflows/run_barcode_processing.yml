@@ -2,8 +2,8 @@ name: Run Barcode Processing
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # kasdien 12:00 UTC
-  workflow_dispatch:        # leidžia paleisti rankiniu būdu
+    - cron: "0 12 * * *" # kasdien 12:00 UTC
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # svarbu push'inti atgal į repo
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -21,24 +21,10 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-
-      - name: Debug: show files before running script
-        run: |
-          echo "--- DIR ---"
-          pwd
-          echo "--- FILES BEFORE ---"
-          ls -R .
+        run: pip install --upgrade pip
 
       - name: Run barcode script
-        run: |
-          python process_barcodes.py
-
-      - name: Debug: show files after running script
-        run: |
-          echo "--- FILES AFTER ---"
-          ls -R .
+        run: python process_barcodes.py
 
       - name: Commit CSV files back to repo
         run: |
