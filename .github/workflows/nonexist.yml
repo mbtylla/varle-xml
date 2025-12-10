@@ -1,13 +1,13 @@
-name: Run nonexiststock Script
+name: Update Products Quantity
 
+# Schedule: 09:00 Lietuvos laiku (žiemos metu UTC+2, vasaros metu UTC+3)
 on:
   schedule:
-    # kasdien 06:00 UTC (~09:00 Lietuvos laiku žiemą)
-    - cron: "0 4 * * *"
+    - cron: '0 4 * * *' # 09:00 LT žiemos metu (UTC+2). Jei reikia visada 09:00 LT, galima pridėti time zone logiką)
   workflow_dispatch:  # leidžia paleisti rankiniu būdu
 
 jobs:
-  run-script:
+  update-xml:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,14 +22,17 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          # pridėk čia jei reikia kitų paketų
+          pip install lxml requests
 
       - name: Run nonexiststock.py
         run: python nonexiststock.py
 
-      - name: Upload updated_products.xml as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: updated-products
-          path: updated_products.xml
-          if-no-files-found: ignore
+      - name: Commit and push updated XML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add updated_products.xml
+          git diff-index --quiet HEAD || git commit -m "Automatinis updated_products.xml atnaujinimas"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
