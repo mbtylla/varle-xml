@@ -21,6 +21,13 @@ jobs:
       - name: Install dependencies (if any)
         run: |
           pip install --upgrade pip
+          
+      - name: Debug: list everything
+        run: |
+          echo "--- DIR ---"
+          pwd
+          echo "--- FILES ---"
+          ls -R .
 
       - name: Run process_barcodes.py
         run: |
@@ -34,3 +41,7 @@ jobs:
             egzbarmarini.csv
             NEEGZbarmarini.csv
           if-no-files-found: ignore
+          - name: Debug: list after script
+        run: |
+          echo "--- FILES AFTER SCRIPT ---"
+          ls -R .
