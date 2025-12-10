@@ -46,4 +46,3 @@ jobs:
             egzbarmarini.csv
             NEEGZbarmarini.csv
           if-no-files-found: ignore
-          
