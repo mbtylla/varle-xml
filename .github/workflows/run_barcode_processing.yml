@@ -41,7 +41,8 @@ jobs:
             egzbarmarini.csv
             NEEGZbarmarini.csv
           if-no-files-found: ignore
-          - name: Debug: list after script
+          
+      - name: Debug: list after script
         run: |
           echo "--- FILES AFTER SCRIPT ---"
           ls -R .
