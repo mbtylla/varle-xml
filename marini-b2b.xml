@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-09-04T20:55:05.443">
+<MARINI timestamp="2026-09-05T19:55:05.393">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -1858,7 +1858,7 @@ wysokość: 25 cm</opis>
 <nazwa>AKUKU A0002 Pachnące woreczki na zużyte pieluszki</nazwa>
 <cena>4.55</cena>
 <VAT>23</VAT>
-<ilosc>139</ilosc>
+<ilosc>137</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000029</EAN>
 <grupa>AKUKU</grupa>
@@ -3898,7 +3898,7 @@ Rozmiar 40 x 60 cm.
 <nazwa>AKUKU A0501 Podkład jednorazowy 60x90 cm SENSITIVE 10 szt</nazwa>
 <cena>9.72</cena>
 <VAT>23</VAT>
-<ilosc>47</ilosc>
+<ilosc>46</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005017</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
@@ -7198,7 +7198,7 @@ Wymiary okrycia: 100 x 100 cm</opis>
 <nazwa>AKUKU A1253 Okrycie kąpielowe 100x100 cm 100% bawełna KOTEK</nazwa>
 <cena>28.35</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>32</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644012534</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -9129,6 +9129,37 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 Skład surowcowy: folia PVC bez zawartości ftalanów (100% poliester), pianka (100% poliester).
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914838-1.jpg https://marini.pl/b2b/pictures/5914838-2.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914839</kod>
+<nazwa>ALBERO MIO Mata do przewijania miękka CP9 Pudrowe kokardki</nazwa>
+<cena>53.00</cena>
+<VAT>23</VAT>
+<ilosc>16</ilosc>
+<stan>duża ilość</stan>
+<EAN>5907001941743</EAN>
+<grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
+<opis>Mata do przewijania miękka MM70 
+
+Mata miękka do przewijania (MM70) o długości 70 cm i szerokości 47 cm (+/- 0,5 cm) do nałożenia na komodę lub półkoprzewijak.
+Przeznaczona jest dla dziecka do 12 m-cy i/lub do 11 kg.
+Nie posiada dodatkowego usztywnienia.
+
+Mata miękka służy do codziennej pielęgnacji niemowlęcia.
+Pokryta jest bezpieczną dla skóry dziecka folią, niezawierającą ftalanów.
+Jej boki są specjalnie wyprofilowane, aby zabezpieczyć maluszka przed zsunięciem się z przewijaka.
+
+Produkt należy stosować pod opieką osoby dorosłej!
+
+Produkt został wyprodukowany w Polsce z wysokiej jakości materiałów posiadających certyfikaty gwarantujące bezpieczeństwo dla najmłodszych.
+
+Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie różnić się od rzeczywistego produktu. Stosowany nadruk jest ekologiczny i bezpieczny dla dziecka, może jednak delikatnie blaknąć lub ścierać się podczas częstego użytkowania. Wszelkie zmiany w kolorystyce są efektem naturalnego zużycia produktu.
+
+Skład surowcowy: folia PVC bez zawartości ftalanów (100% poliester), pianka (100% poliester).
+
+
+Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914839-1.jpg https://marini.pl/b2b/pictures/5914839-2.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5903520</kod>
@@ -16365,17 +16396,6 @@ ENG: Size: 77 (total lenght) x 35 (width at the height of the armpits) cm. Fabri
 <zdjecia>https://marini.pl/b2b/pictures/5903481-1.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>59115237</kod>
-<nazwa>ALBERO MIO Śpiworek do spania S (0,5 TOG) CMP1 Mini Hearts</nazwa>
-<cena>78.00</cena>
-<VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
-<EAN>5907001942559</EAN>
-<grupa>ALBERO MIO</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>59115239</kod>
 <nazwa>ALBERO MIO Śpiworek do spania S (0,5 TOG) CMP1 Mini Hearts</nazwa>
 <cena>69.00</cena>
@@ -16383,6 +16403,17 @@ ENG: Size: 77 (total lenght) x 35 (width at the height of the armpits) cm. Fabri
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907001941217</EAN>
+<grupa>ALBERO MIO</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59115237</kod>
+<nazwa>ALBERO MIO Śpiworek do spania S (0,5 TOG) CMP1 Mini Hearts</nazwa>
+<cena>78.00</cena>
+<VAT>23</VAT>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
+<EAN>5907001942559</EAN>
 <grupa>ALBERO MIO</grupa>
 <opis/>
 </b2b>
@@ -27033,7 +27064,7 @@ Smoczek z regulacją przepływu (2 prędkości):
 <nazwa>AVENT SCY963/02 Smoczek Responsywny Natural 1m+ medium (3)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>200</ilosc>
+<ilosc>199</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103985112</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
@@ -27068,7 +27099,7 @@ Zawartość zestawu
 <nazwa>AVENT SCY964/02 Smoczek Responsywny Natural 3m+ Fast (4)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>133</ilosc>
+<ilosc>132</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103985136</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
@@ -56455,8 +56486,8 @@ Właściwości:
 <nazwa>B.O.833 Śliniak frotte I CAN ALMOST FEED MYSELF</nazwa>
 <cena>6.25</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435407639</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak frotte I CAN ALMOST FEED MYSELF wykonany jest z wysokiej jakości bawełny frotte. Wewnętrzna warstwa została podszyta wodoodpornym materiałem, który dodatkowo zabezpiecza ubranie przed zabrudzeniem i czyni śliniak nieprzemakalnym. Wygodne i praktyczne zapinanie na rzep podnosi komfort noszenia śliniaka, a kolorowe aplikacje umilają dziecku posiłek. 
@@ -63165,7 +63196,7 @@ Zawieszka przeznaczona dla dzieci od dnia narodzin.</opis>
 <nazwa>BALIBAZOO BB 82400 Zawieszka kolorowa Pszczoła Majka</nazwa>
 <cena>20.62</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>29</ilosc>
 <stan>duża ilość</stan>
 <EAN>6925783824008</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -68268,7 +68299,7 @@ www.pminvestment.pl/manual/Manual_41524_303021342856_PL.pdf</opis>
 <nazwa>BESTWAY 42046 Dmuchana deska do pływania niebieska 1,14x46</nazwa>
 <cena>22.43</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>BESTWAY</grupa>
@@ -73178,7 +73209,7 @@ Canpol smoczek silikonowy Light touch jest łatwy do czyszczenia, dzięki etui, 
 <nazwa>CANPOL 23/226 Smoczek uspokajający silikonowy symetryczny 6-18m Dental Air 2szt. niebieski</nazwa>
 <cena>16.50</cena>
 <VAT>5</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407167800</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
@@ -76815,30 +76846,6 @@ Pozwala rodzicom bezpiecznie czyścić delikatne dziąsła/ząbki dziecka, bez o
 <zdjecia>https://marini.pl/b2b/pictures/780503-1.jpg https://marini.pl/b2b/pictures/780503-2.jpg https://marini.pl/b2b/pictures/780503-3.jpg https://marini.pl/b2b/pictures/780503-4.jpg https://marini.pl/b2b/pictures/780503-5.jpg https://marini.pl/b2b/pictures/780503-6.jpg https://marini.pl/b2b/pictures/780503-7.jpg</zdjecia>
 </b2b>
 <b2b>
-<kod>5911943</kod>
-<nazwa>CANPOL 56/510 Bidon niekapek z rurką i odważnikiem BabiesBoo gepard orange</nazwa>
-<cena>14.00</cena>
-<VAT>23</VAT>
-<ilosc>19</ilosc>
-<stan>duża ilość</stan>
-<EAN>5901691890237</EAN>
-<grupa>CANPOL/KARMIENIE</grupa>
-<opis>Bidon niekapek z rurką z odważnikiem idealnie sprawdzi się w każdej sytuacji, również na spacerach i w podróży. Membrana umieszczona w rurce zapobiega przypadkowemu wylaniu napoju. Praktyczna pokrywka pozwala w łatwy sposób schować rurkę, gwarantując nie tylko higienę, ale również 100% szczelności. Odważnik sprawia, że rurka podąża za płynem, umożliwiając picie bez względu na kąt nachylenia bidonu. Dzięki temu rozwiązaniu Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo pozwala Maluchowi wypić ulubiony napój do ostatniej kropli. Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo jest wytrzymały, lekki i odporny na uszkodzenia. Maluch może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml BabiesBoo ze względu na większą pojemność jest rekomendowany dla dzieci od 9 miesiąca życia. Rurka jest wykonana z miękkiego silikonu. Canpol bidon niekapek z rurką i odważnikiem 350 ml BabiesBoo nie zawiera BPA ani innych szkodliwych substancji. Nadaje się do mycia w zmywarce i podgrzewania w kuchence mikrofalowej. W sprzedaży dostępne są wymienne rurki. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911943-1.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5911944</kod>
-<nazwa>CANPOL 56/510 Bidon niekapek z rurką i odważnikiem BabiesBoo panda white</nazwa>
-<cena>14.00</cena>
-<VAT>23</VAT>
-<ilosc>21</ilosc>
-<stan>duża ilość</stan>
-<EAN>5901691890244</EAN>
-<grupa>CANPOL/KARMIENIE</grupa>
-<opis>Bidon niekapek z rurką z odważnikiem idealnie sprawdzi się w każdej sytuacji, również na spacerach i w podróży. Membrana umieszczona w rurce zapobiega przypadkowemu wylaniu napoju. Praktyczna pokrywka pozwala w łatwy sposób schować rurkę, gwarantując nie tylko higienę, ale również 100% szczelności. Odważnik sprawia, że rurka podąża za płynem, umożliwiając picie bez względu na kąt nachylenia bidonu. Dzięki temu rozwiązaniu Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo pozwala Maluchowi wypić ulubiony napój do ostatniej kropli. Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo jest wytrzymały, lekki i odporny na uszkodzenia. Maluch może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml BabiesBoo ze względu na większą pojemność jest rekomendowany dla dzieci od 9 miesiąca życia. Rurka jest wykonana z miękkiego silikonu. Canpol bidon niekapek z rurką i odważnikiem 350 ml BabiesBoo nie zawiera BPA ani innych szkodliwych substancji. Nadaje się do mycia w zmywarce i podgrzewania w kuchence mikrofalowej. W sprzedaży dostępne są wymienne rurki. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911944-1.png</zdjecia>
-</b2b>
-<b2b>
 <kod>5912612</kod>
 <nazwa>CANPOL 56/510_bro Bidon niekapek z rurką i odważnikiem 350ml PIESKI</nazwa>
 <cena>14.00</cena>
@@ -76861,6 +76868,30 @@ Pozwala rodzicom bezpiecznie czyścić delikatne dziąsła/ząbki dziecka, bez o
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Bidon niekapek z rurką z odważnikiem doskonale sprawdzi się w domu, w podróży i na spacerze. W rurce znajduje się specjalna membrana, która umożliwia picie bez rozlewania. Wygodna pokrywka pozwalająca w łatwy sposób schować rurkę, gwarantuje nie tylko higienę, ale również 100% szczelności. Dzięki odważnikowi rurka podąża za płynem, umożliwiając wypicie zawartości do ostatniej kropli bez względu na kąt nachylenia bidonu. To rozwiązanie sprawia, że Canpol bidon z rurką i odważnikiem 350 ml bardzo ułatwia dzieciom samodzielne zaspokajanie pragnienia i chroni przed niepotrzebną frustracją. Zapasowe rurki można dokupić. Canpol bidon z rurką i odważnikiem 350 ml jest lekki i odporny na uszkodzenia — na pewno się nie potłucze. Rurka jest wykonana z miękkiego silikonu, więc dziecko może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml nie zawiera BPA ani innych szkodliwych substancji. Można myć go w zmywarce i podgrzewać w kuchence mikrofalowej. Canpol bidon niekapek z rurką i odważnikiem 350 ml wyposażony w wygodny uchwyt umożliwiający przymocowanie go do torby lub paska, dzięki czemu idealnie sprawdzi się w podróży. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5912613-1.png https://marini.pl/b2b/pictures/5912613-2.png https://marini.pl/b2b/pictures/5912613-3.png https://marini.pl/b2b/pictures/5912613-4.png https://marini.pl/b2b/pictures/5912613-5.png https://marini.pl/b2b/pictures/5912613-6.png https://marini.pl/b2b/pictures/5912613-7.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5911943</kod>
+<nazwa>CANPOL 56/510_ora Bidon niekapek z rurką i odważnikiem BabiesBoo gepard orange</nazwa>
+<cena>14.00</cena>
+<VAT>23</VAT>
+<ilosc>19</ilosc>
+<stan>duża ilość</stan>
+<EAN>5901691890237</EAN>
+<grupa>CANPOL/KARMIENIE</grupa>
+<opis>Bidon niekapek z rurką z odważnikiem idealnie sprawdzi się w każdej sytuacji, również na spacerach i w podróży. Membrana umieszczona w rurce zapobiega przypadkowemu wylaniu napoju. Praktyczna pokrywka pozwala w łatwy sposób schować rurkę, gwarantując nie tylko higienę, ale również 100% szczelności. Odważnik sprawia, że rurka podąża za płynem, umożliwiając picie bez względu na kąt nachylenia bidonu. Dzięki temu rozwiązaniu Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo pozwala Maluchowi wypić ulubiony napój do ostatniej kropli. Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo jest wytrzymały, lekki i odporny na uszkodzenia. Maluch może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml BabiesBoo ze względu na większą pojemność jest rekomendowany dla dzieci od 9 miesiąca życia. Rurka jest wykonana z miękkiego silikonu. Canpol bidon niekapek z rurką i odważnikiem 350 ml BabiesBoo nie zawiera BPA ani innych szkodliwych substancji. Nadaje się do mycia w zmywarce i podgrzewania w kuchence mikrofalowej. W sprzedaży dostępne są wymienne rurki. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911943-1.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5911944</kod>
+<nazwa>CANPOL 56/510_whi Bidon niekapek z rurką i odważnikiem BabiesBoo panda white</nazwa>
+<cena>14.00</cena>
+<VAT>23</VAT>
+<ilosc>21</ilosc>
+<stan>duża ilość</stan>
+<EAN>5901691890244</EAN>
+<grupa>CANPOL/KARMIENIE</grupa>
+<opis>Bidon niekapek z rurką z odważnikiem idealnie sprawdzi się w każdej sytuacji, również na spacerach i w podróży. Membrana umieszczona w rurce zapobiega przypadkowemu wylaniu napoju. Praktyczna pokrywka pozwala w łatwy sposób schować rurkę, gwarantując nie tylko higienę, ale również 100% szczelności. Odważnik sprawia, że rurka podąża za płynem, umożliwiając picie bez względu na kąt nachylenia bidonu. Dzięki temu rozwiązaniu Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo pozwala Maluchowi wypić ulubiony napój do ostatniej kropli. Canpol bidon z rurką i odważnikiem 350 ml BabiesBoo jest wytrzymały, lekki i odporny na uszkodzenia. Maluch może bezpiecznie doskonalić umiejętność samodzielnego picia. Bidon Canpol z odważnikiem 350 ml BabiesBoo ze względu na większą pojemność jest rekomendowany dla dzieci od 9 miesiąca życia. Rurka jest wykonana z miękkiego silikonu. Canpol bidon niekapek z rurką i odważnikiem 350 ml BabiesBoo nie zawiera BPA ani innych szkodliwych substancji. Nadaje się do mycia w zmywarce i podgrzewania w kuchence mikrofalowej. W sprzedaży dostępne są wymienne rurki. Bidon niekapek z rurką z odważnikiem jest rekomendowany dla dzieci od 9 miesiąca życia.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5911944-1.png</zdjecia>
 </b2b>
 <b2b>
 <kod>5910885</kod>
@@ -81098,7 +81129,7 @@ Marka Ceba Baby od ponad 35 lat tworzy produkty dla niemowląt i dzieci, zdobywa
 <nazwa>CEBA 204-000-782 Przewijak twardy krótki 50x70 Ultra Light Crazy Lama</nazwa>
 <cena>57.83</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672345185</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK TWARDY</grupa>
@@ -100173,8 +100204,8 @@ Zabawka przeznaczona od 12 miesiąca życia.</opis>
 <nazwa>DUMEL DD 32730 Odkrywczy domek</nazwa>
 <cena>182.29</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>661148327307</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Poznaj domek, w którym ukrytych jest mnóstwo rymowanek, a dźwięki domowych przedmiotów zaskoczą Cię realistycznymi odgłosami!
@@ -100202,7 +100233,7 @@ Zabawka przeznaczona dla dzieci od 2 lat.</opis>
 <nazwa>DUMEL DD 42037 Rymujący smartfon</nazwa>
 <cena>26.19</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>672552420379</EAN>
 <grupa>DUMEL</grupa>
@@ -102556,7 +102587,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5913906</kod>
 <nazwa>EASY GO Fotelik samochodowy BUZ XTD PRO GRANITO</nazwa>
-<cena>793.00</cena>
+<cena>774.77</cena>
 <VAT>5</VAT>
 <ilosc>3</ilosc>
 <stan>mała ilość</stan>
@@ -102658,7 +102689,7 @@ Szerokość opakowania 46 cm
 <b2b>
 <kod>5913905</kod>
 <nazwa>EASY GO Fotelik samochodowy BUZ XTD PRO GREENER</nazwa>
-<cena>793.00</cena>
+<cena>774.47</cena>
 <VAT>5</VAT>
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
@@ -102760,7 +102791,7 @@ Szerokość opakowania 46 cm
 <b2b>
 <kod>5913903</kod>
 <nazwa>EASY GO Fotelik samochodowy BUZ XTD PRO INK</nazwa>
-<cena>793.00</cena>
+<cena>774.77</cena>
 <VAT>5</VAT>
 <ilosc>2</ilosc>
 <stan>mała ilość</stan>
@@ -102862,7 +102893,7 @@ Szerokość opakowania 46 cm
 <b2b>
 <kod>5913904</kod>
 <nazwa>EASY GO Fotelik samochodowy BUZ XTD PRO TAUPE</nazwa>
-<cena>793.00</cena>
+<cena>774.77</cena>
 <VAT>5</VAT>
 <ilosc>3</ilosc>
 <stan>mała ilość</stan>
@@ -106427,7 +106458,7 @@ Waga samej gondoli: 2,5 kg</opis>
 <b2b>
 <kod>59115021</kod>
 <nazwa>EASY GO Zestaw fotelików samochodowych 2w1 BUZ XTD PRO i BUZ PRO BODY GRANITO</nazwa>
-<cena>1268.00</cena>
+<cena>1238.85</cena>
 <VAT>5</VAT>
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
@@ -106509,7 +106540,7 @@ www.euro-cart.pl</opis>
 <b2b>
 <kod>59115020</kod>
 <nazwa>EASY GO Zestaw fotelików samochodowych 2w1 BUZ XTD PRO i BUZ PRO BODY GREENER</nazwa>
-<cena>1268.00</cena>
+<cena>1238.85</cena>
 <VAT>5</VAT>
 <ilosc>2</ilosc>
 <stan>mała ilość</stan>
@@ -106591,7 +106622,7 @@ www.euro-cart.pl</opis>
 <b2b>
 <kod>59115019</kod>
 <nazwa>EASY GO Zestaw fotelików samochodowych 2w1 BUZ XTD PRO i BUZ PRO BODY INK</nazwa>
-<cena>1268.00</cena>
+<cena>1238.85</cena>
 <VAT>5</VAT>
 <ilosc>2</ilosc>
 <stan>mała ilość</stan>
@@ -106673,7 +106704,7 @@ www.euro-cart.pl</opis>
 <b2b>
 <kod>59115018</kod>
 <nazwa>EASY GO Zestaw fotelików samochodowych 2w1 BUZ XTD PRO i BUZ PRO BODY TAUPE</nazwa>
-<cena>1268.00</cena>
+<cena>1238.85</cena>
 <VAT>5</VAT>
 <ilosc>3</ilosc>
 <stan>mała ilość</stan>
@@ -106956,7 +106987,7 @@ EgaKids – miękkość, bezpieczeństwo i funkcjonalność od pierwszych dni ż
 <nazwa>EGA Pielucha tetra druk 70x80 JEŻ KRÓLIK BEŻOWY 7138 cena za 1szt / pakowane po 5szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>40</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907810527138</EAN>
 <grupa>EGA KIDS</grupa>
@@ -108586,7 +108617,7 @@ EgaKids – miękkość, bezpieczeństwo i funkcjonalność od pierwszych dni ż
 <nazwa>EGA Pielucha tetra druk 70x80 TRAKTOR KOPARKA BEŻ 0565 cena za 1szt / pakowane po 5szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907810530565</EAN>
 <grupa>EGA KIDS</grupa>
@@ -109137,6 +109168,28 @@ funkcjonalne wejście boczne
 wyjątkowy design
 wygodny i praktyczny materacyk</opis>
 <zdjecia>https://marini.pl/b2b/pictures/24953-1.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59115384</kod>
+<nazwa>ESPIRO Krzesełko ALLURE 09</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5906724200021</EAN>
+<grupa>ESPIRO/KRZESEŁKA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59115385</kod>
+<nazwa>ESPIRO Krzesełko ALLURE 11</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5906724200045</EAN>
+<grupa>ESPIRO/KRZESEŁKA</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5914767</kod>
@@ -127837,7 +127890,7 @@ Wymiary produktu (dł. x szer. x wys)	14,00 x 7,00 x 10,50 cm</opis>
 <nazwa>INNOGIO GIO-136 Lampka silikonowa nocna GIOrabbit Midi 20 cm</nazwa>
 <cena>75.12</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904405021156</EAN>
 <grupa>INNOGIO</grupa>
@@ -133016,8 +133069,8 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -136752,7 +136805,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Okrycie - ręcznik bambusowy 100x100 MIŚ z haftem i uszami mocca</nazwa>
 <cena>52.44</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907378104352</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -144055,7 +144108,7 @@ Po złożeniu: 13 × 77 × 58 cm</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 i-Size 76-150cm PINK</nazwa>
 <cena>244.75</cena>
 <VAT>5</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902533923144</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -211015,10 +211068,10 @@ Gwarancja: 1 rok
 <b2b>
 <kod>5912831</kod>
 <nazwa>MILLY MALLY 6095 TinyMini 353-1A Mata edukacyjna Liść</nazwa>
-<cena>78.99</cena>
+<cena>81.29</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>120</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901761129953</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjno-sensoryczna TinyMini 353-1A w kształcie liścia to wyjątkowa propozycja dla niemowląt już od pierwszych dni życia. Jej naturalna kolorystyka oraz urocze zabawki inspirowane dziką przyrodą tworzą idealne środowisko do rozwoju sensorycznego maluszka.
@@ -213397,10 +213450,10 @@ Waga brutto: 1,9 kg</opis>
 <b2b>
 <kod>5912827</kod>
 <nazwa>MILLY MALLY 6142 TinyMini JL628-1B Mata edukacyjna 4w1 Dżungla</nazwa>
-<cena>103.47</cena>
+<cena>106.49</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>350</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901761123159</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini JL628-1B Dżungla to wielofunkcyjny produkt 4w1, zaprojektowany z myślą o rozwoju sensorycznym i motorycznym dzieci już od pierwszych dni życia. Kolorowa, miękka i wszechstronna – stanie się idealnym towarzyszem codziennej zabawy oraz wypoczynku maluszka.
@@ -213738,10 +213791,10 @@ www.pminvestment.pl/manual/ tinymini_manual.pdf</opis>
 <b2b>
 <kod>5912826</kod>
 <nazwa>MILLY MALLY 6146 TinyMini JL652-1A Mata edukacyjna 2w1 Kojec z piłeczkami</nazwa>
-<cena>61.60</cena>
+<cena>62.38</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>60</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901761123197</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna 2w1 Kojec z Piłeczkami to innowacyjna mata edukacyjna 2w1 z funkcją bezpiecznego kojca z kolorowymi piłkami. Została zaprojektowana z myślą o rozwoju sensorycznym maluszka już od pierwszych dni życia. Wyróżnia się kontrastową kolorystyką (czarno-biały wzór), która pobudza wzrok noworodków oraz stonowanymi pastelowymi dodatkami.
@@ -228678,7 +228731,7 @@ Wiek dziecka 5+ lat</opis>
 <nazwa>MILLY MALLY 6829 TinyMini CC9881 Mata edukacyjna Dino Pink</nazwa>
 <cena>106.49</cena>
 <VAT>23</VAT>
-<ilosc>50</ilosc>
+<ilosc>170</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700962</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -228834,10 +228887,10 @@ www.pminvestment.pl/manual/tinymini_manual.pdf
 <b2b>
 <kod>5914604</kod>
 <nazwa>MILLY MALLY 6830 TinyMini CC9639 Mata edukacyjna Śpiący Miś</nazwa>
-<cena>98.95</cena>
+<cena>106.49</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>120</ilosc>
+<stan>duża ilość</stan>
 <EAN>5907090700979</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Mata edukacyjna TinyMini Śpiący Miś to przytulna i funkcjonalna mata edukacyjna dla niemowląt, stworzona z myślą o bezpiecznej zabawie oraz wsparciu rozwoju dziecka już od pierwszych tygodni życia. Delikatna kolorystyka i motyw zwierzątek sprzyjają wyciszeniu, koncentracji i poczuciu bezpieczeństwa.
@@ -229144,6 +229197,162 @@ Link do etykiety:
 www.pminvestment.pl/manual/tinymini_manual.pdf
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/5914606-1.jpg https://marini.pl/b2b/pictures/5914606-2.jpg https://marini.pl/b2b/pictures/5914606-3.jpg https://marini.pl/b2b/pictures/5914606-4.jpg https://marini.pl/b2b/pictures/5914606-5.jpg https://marini.pl/b2b/pictures/5914606-6.jpg https://marini.pl/b2b/pictures/5914606-7.jpg https://marini.pl/b2b/pictures/5914606-8.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>5914605</kod>
+<nazwa>MILLY MALLY 6832 TinyMini 8676 Mata edukacyjna Warkocz</nazwa>
+<cena>119.09</cena>
+<VAT>23</VAT>
+<ilosc>260</ilosc>
+<stan>duża ilość</stan>
+<EAN>5907090700955</EAN>
+<grupa>MILLY MALLY/MATY</grupa>
+<opis>Mata edukacyjna TinyMini Warkocz to bezpieczna i komfortowa mata edukacyjna dla niemowląt, zaprojektowana z myślą o dzieciach już od pierwszych dni życia. Charakterystyczne, miękkie boki w formie grubego plecionego warkocza tworzą przytulną przestrzeń do zabawy, odpoczynku i nauki ruchu.
+Nowoczesny design łączy estetykę z funkcjonalnością, zapewniając dziecku poczucie bezpieczeństwa podczas codziennej aktywności.
+
+Jak dziecko korzysta z maty TinyMini Warkocz?
+
+Ta mata edukacyjna interaktywna dla niemowląt wspiera rozwój na wielu poziomach:
+
+Leżenie i obserwacja – zawieszki pobudzają wzrok i uczą koncentracji
+
+Sięganie i chwytanie – rozwój motoryki małej i koordynacji ręka–oko
+
+Zabawa książeczką i lusterkiem – wsparcie rozwoju poznawczego i samoświadomości
+
+Ćwiczenia na brzuszku (tummy time) – wygodna poduszka wzmacnia mięśnie szyi i ramion
+
+Poznawanie faktur – różne materiały stymulują zmysł dotyku
+
+
+Dlaczego mata Warkocz wspiera rozwój dziecka?
+
+stymuluje zmysły – wzrok, dotyk i słuch
+
+wspiera rozwój motoryczny już od pierwszych dni życia
+
+bezpieczne, miękkie boki chronią dziecko i ograniczają staczanie się
+
+rośnie razem z dzieckiem – od leżenia po pierwsze próby podnoszenia się
+
+idealna jako mata sensoryczna dla niemowląt
+
+
+Wyposażenie i elementy interaktywne
+
+W zestawie znajdują się elementy dopasowane do potrzeb niemowląt:
+
+miękka mata z plecionym bokiem typu warkocz
+
+pałąki do zawieszania zabawek
+
+5 odczepianych zabawek:
+
+- lusterko w chmurce
+- 3 pluszowe zwierzątka
+- materiałowa książeczka z kolorowymi ilustracjami
+
+poduszka podpierająca w kształcie rogala
+
+kółeczka do zawieszania zabawek
+
+
+
+Zawieszki: niedźwiedź, lew i książeczka posiadają piszczki, które dodatkowo pobudzają słuch dziecka.
+
+Informacje dodatkowe:
+
+Przedział wiekowy: 0+ miesięcy
+
+Przeznaczenie: dla chłopców i dziewczynek
+
+Mata lekka i wygodna w użytkowaniu
+
+Pielęgnacja: pranie ręczne w letniej wodzie z delikatnymi detergentami
+
+
+Mata edukacyjna dla niemowląt – od kiedy?
+Mata TinyMini Warkocz jest odpowiednia od pierwszych dni życia. Na początku służy jako bezpieczna przestrzeń do leżenia i obserwacji, a wraz z rozwojem dziecka wspiera ćwiczenia na brzuszku i aktywną zabawę.
+
+Idealna mata na prezent i wyprawkę
+
+Mata edukacyjna TinyMini Warkocz doskonale sprawdzi się jako:
+
+prezent na baby shower
+
+element pierwszej wyprawki
+
+praktyczny prezent dla świeżo upieczonych rodziców
+
+
+Dane techniczne:
+ 
+
+Przedział wiekowy: 0+ miesięcy
+
+Materiał: 100% poliester
+
+Hipoalergiczna
+
+ Instrukcja montażu
+
+
+
+Wymiary produktu:
+ 
+
+Wysokość: 55 cm
+
+Wysokość warkocza: 15 cm
+
+Szerokość: 82 cm
+
+Długość: 82 cm
+
+
+ 
+Wymiary opakowania:
+ 
+
+Wysokość: 11,5 cm
+
+Szerokość: 46 cm
+
+Długość: 62,5 cm
+
+Waga netto: 2 kg
+
+Waga brutto: 2,6 kg
+
+INFORMACJE NA TEMAT BEZPIECZEŃSTWA PRODUKTU
+
+Mata niemowlęca TinyMini 
+Produkt przeznaczony jest dla dzieci od urodzenia.
+
+OSTRZEŻENIA!
+Nigdy nie pozostawiaj dziecka bez opieki.
+Ten produkt nie zastępuje łóżeczka lub łózka. Jeśli dziecko potrzebuje snu, należy je przenieść do odpowiedniego łóżeczka dziecięcego lub łózka.
+Nigdy nie umieszczaj produktu i dziecka w nim na podwyższonych powierzchniach (np. stole). Jest to niebezpieczne!
+Przed położeniem maty na podłodze – oczyść obszar, który będzie w zasięgu dziecka. Usuń wszystkie ostre, małe elementy i inne produkty, które mogą stanowić zagrożenie dla dziecka.
+Podczas zabawy dziecko musi znajdować się pod opieką osoby dorosłej.
+Nie przemieszczać produktu z dzieckiem znajdującym się w środku. Pałąk z zabawkami nie służy do przenoszenia produktu.
+Produkt należy umieszczać z dala od wszelkich źródeł ciepła (np. grzejników, promienników ciepła, otwartego ognia itp.).
+Przed każdym użyciem osoba dorosła musi sprawdzić stan produktu. W przypadku stwierdzenia uszkodzeń – należy zaprzestać użytkowania.
+
+
+Mata jest przeznaczona wyłącznie do użytku domowego – używaj na podłodze.
+
+Wszelkie pozostałe informacje – znajdują się w instrukcji obsługi, do której link znajduje się na stronie producenta.
+
+Producent:
+PM INVESTMENT GROUP Napert, Soszyński Sp.k.
+Podkowy 18
+04-937 Warszawa, Polska
+email: info@pminvestment.pl
+
+Link do etykiety:
+www.pminvestment.pl/manual/tinymini_manual.pdf</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5914605-1.jpg https://marini.pl/b2b/pictures/5914605-2.jpg https://marini.pl/b2b/pictures/5914605-3.jpg https://marini.pl/b2b/pictures/5914605-4.jpg https://marini.pl/b2b/pictures/5914605-5.jpg https://marini.pl/b2b/pictures/5914605-6.jpg https://marini.pl/b2b/pictures/5914605-7.jpg https://marini.pl/b2b/pictures/5914605-8.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5914985</kod>
@@ -235801,10 +236010,10 @@ www.pminvestment.pl/manual/nino_manual.pdf</opis>
 <b2b>
 <kod>59115373</kod>
 <nazwa>MILLY MALLY 7020 TinyMini 8773-1 Mata edukacyjna Nature</nazwa>
-<cena>0.00</cena>
+<cena>74.99</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>60</ilosc>
+<stan>duża ilość</stan>
 <EAN>5907090701396</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis/>
@@ -276582,7 +276791,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA ME-005 ODPŁYW-164 Wanna 102 cm LUX METEO z odpływem granatowy</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963002501</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -312213,7 +312422,7 @@ Cechy produktu:
 <nazwa>WINFUN WF 30407 / 240201 Zwierzakowe kryjówki</nazwa>
 <cena>50.60</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692304076</EAN>
 <grupa>WINFUN</grupa>
@@ -317619,7 +317828,7 @@ Waga:	0.2 kg</opis>
 <nazwa>WOOPIE 51787 Gra POP IT Elektryczna antystresowa zręcznościowa</nazwa>
 <cena>17.54</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280651787</EAN>
 <grupa>WOOPIE</grupa>
@@ -317706,8 +317915,8 @@ Kreatywność</opis>
 <nazwa>WOOPIE 51923 Gra zręcznościowa Gamepad</nazwa>
 <cena>23.89</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN/>
 <grupa>WOOPIE</grupa>
 <opis>Gra Zręcznościowa Pop-it od marki WOOPIE zapewni twojemu dziecku ekscytującą rozrywkę, która jednocześnie będzie wspierała zdolności manualne i poprawiała koncentrację. Dzięki różnorodnym trybom gry, regulowanemu poziomowi trudności oraz interaktywnym funkcjom, zabawka ta dostarcza dzieciom wiele radości. Jest to idealny wybór dla rodziców, którzy chcą, aby ich dzieci bawiły się, ucząc jednocześnie ważnych umiejętności.
