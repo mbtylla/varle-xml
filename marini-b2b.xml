@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-09-11T20:55:04.687">
+<MARINI timestamp="2026-09-12T19:55:04.677">
 <b2b>
 <kod>769621</kod>
 <nazwa> B.O.298/01 Wkładki laktacyjne 24 szt białe (RDB130D)</nazwa>
@@ -222,7 +222,7 @@ Waga: 0.05 kg</opis>
 <nazwa>4 BABY F08 P&amp;E Karuzela FOX</nazwa>
 <cena>54.20</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691957879</EAN>
 <grupa>4BABY/AKCESORIA</grupa>
@@ -247,7 +247,7 @@ Waga: 0.45 KG</opis>
 <nazwa>4 BABY Fotelik BOOST 125-150cm DARK GREEN I-SIZE</nazwa>
 <cena>67.43</cena>
 <VAT>5</VAT>
-<ilosc>31</ilosc>
+<ilosc>30</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691959781</EAN>
 <grupa>4BABY/FOTELIKI/BOOST</grupa>
@@ -2950,7 +2950,7 @@ Kompres nie zawiera substancji toksycznych. Całkowicie wolny od bisfenolu A (0%
 <nazwa>AKUKU A0254 Podkład Peva 55x70 sowy różowo-niebieskie</nazwa>
 <cena>5.87</cena>
 <VAT>23</VAT>
-<ilosc>48</ilosc>
+<ilosc>47</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644002542</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
@@ -2967,7 +2967,7 @@ Rozmiar 55x70 cm</opis>
 <nazwa>AKUKU A0258 Podkład Peva 55x70 Sowy Szare</nazwa>
 <cena>5.87</cena>
 <VAT>23</VAT>
-<ilosc>110</ilosc>
+<ilosc>109</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644002580</EAN>
 <grupa>AKUKU/PODKŁADY I CERATKI</grupa>
@@ -3118,7 +3118,7 @@ Każda wkładka jest indywidualnie pakowana, dzięki czemu na dłuższy spacer n
 <nazwa>AKUKU A0355 Gryzak wodny Serce</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<ilosc>104</ilosc>
+<ilosc>103</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003556</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -3638,7 +3638,7 @@ W zestawie znajdują się:
 <nazwa>AKUKU A0474 Książeczka edukacyjna Cyferki</nazwa>
 <cena>5.15</cena>
 <VAT>5</VAT>
-<ilosc>46</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004744</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -3694,7 +3694,7 @@ Wymiary: 12 × 12 cm</opis>
 <nazwa>AKUKU A0477 Książeczka  edukacyjna First Steps</nazwa>
 <cena>5.15</cena>
 <VAT>5</VAT>
-<ilosc>36</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004775</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -3771,7 +3771,7 @@ rozm. 18,5 × 12 × 7 cm</opis>
 <nazwa>AKUKU A0486 Dmuchana mata wodna</nazwa>
 <cena>20.63</cena>
 <VAT>23</VAT>
-<ilosc>60</ilosc>
+<ilosc>58</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004867</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -4913,7 +4913,7 @@ Specyfikacja techniczna:
 <nazwa>AKUKU A0657 Magiczna książeczka edukacyjna</nazwa>
 <cena>6.35</cena>
 <VAT>5</VAT>
-<ilosc>83</ilosc>
+<ilosc>82</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006571</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -6457,7 +6457,7 @@ Wyrzuć, gdy zauważysz pierwsze oznaki uszkodzenia lub zużycia.</opis>
 <nazwa>AKUKU A0708 Magiczna książeczka edukacyjna Farma</nazwa>
 <cena>6.35</cena>
 <VAT>5</VAT>
-<ilosc>59</ilosc>
+<ilosc>58</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644007080</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -19894,7 +19894,7 @@ WIEK: 10 M+</opis>
 <nazwa>ARTYK 170614 Lalka NATALIA Mądra Przyjaciółka</nazwa>
 <cena>81.75</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901811170614</EAN>
 <grupa>ARTYK</grupa>
@@ -20145,7 +20145,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 176005 Edukacyjna lokomotywa E-EDU</nazwa>
 <cena>22.73</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901811176005</EAN>
 <grupa>ARTYK</grupa>
@@ -20795,7 +20795,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 180453 Książeczka Malucha E-EDU pojazdy</nazwa>
 <cena>3.56</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901811180453</EAN>
 <grupa>ARTYK</grupa>
@@ -20813,7 +20813,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 180477 Książeczka Malucha E-EDU farma</nazwa>
 <cena>3.56</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901811180477</EAN>
 <grupa>ARTYK</grupa>
@@ -20831,7 +20831,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 180484 Książeczka Malucha E-EDU dinozaury</nazwa>
 <cena>3.56</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901811180484</EAN>
 <grupa>ARTYK</grupa>
@@ -21534,7 +21534,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 188664 Pianinko Malucha E-EDU</nazwa>
 <cena>17.25</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901811188664</EAN>
 <grupa>ARTYK</grupa>
@@ -21566,8 +21566,8 @@ Pozostałe informacje:
 <nazwa>ATK (MINIANIA) Majteczki treningowe 12-19 kg do nauki sikania</nazwa>
 <cena>13.41</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903271833320</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
 <opis/>
@@ -21737,7 +21737,7 @@ Wysyłamy losowo.</opis>
 <nazwa>ATK (MINIANIA) Prześcieradło 140x70 jersey</nazwa>
 <cena>18.90</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5906269344204</EAN>
 <grupa>ATK- OP. HURTOWE</grupa>
@@ -26906,7 +26906,7 @@ Smoczek z regulacją przepływu (2 prędkości): 1szt.
 <nazwa>AVENT SCY903/01 Butelka Natural Responsywna 260 ml</nazwa>
 <cena>34.03</cena>
 <VAT>23</VAT>
-<ilosc>65</ilosc>
+<ilosc>64</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103989639</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27460,7 +27460,7 @@ Smoczek z regulacją przepływu (4 prędkości):
 <nazwa>AVENT SCY965/02 Smoczek Responsywny Natural 6m+ Extra fast (5)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>304</ilosc>
+<ilosc>303</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103985150</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
@@ -27599,7 +27599,7 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <nazwa>AXIOM 9009 Miluś Królik różowy 25x25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>51</ilosc>
+<ilosc>50</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209890095</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27611,7 +27611,7 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <nazwa>AXIOM 9010 Miluś Królik niebieski 25x25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>64</ilosc>
+<ilosc>63</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209890101</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27674,7 +27674,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9195 Pozytywka Króliczek niebieski 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>92</ilosc>
+<ilosc>91</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209891955</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27697,7 +27697,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9325 Zabawka z dźwiękiem Lew 17 cm</nazwa>
 <cena>11.83</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209893256</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27709,7 +27709,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9326 Grzechotka Lew 18 cm</nazwa>
 <cena>13.33</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209893263</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27721,7 +27721,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9327 Pozytywka Lew 18 cm</nazwa>
 <cena>27.42</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209893270</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27851,7 +27851,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9414 Zabawka z dźwiękiem Małpka 17 cm</nazwa>
 <cena>12.43</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904209894147</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28145,7 +28145,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9511 Grzechotka Piesek beżowy 17 cm</nazwa>
 <cena>13.39</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904209895113</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28156,7 +28156,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9512 Miluś Królik różowy 25 cm</nazwa>
 <cena>17.50</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209895120</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28168,7 +28168,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9513 Miluś Królik niebieski 25 cm</nazwa>
 <cena>17.50</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209895137</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28240,7 +28240,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9530 Lalka Oliwia 40 cm</nazwa>
 <cena>32.91</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209895304</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28312,7 +28312,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9548 Pozytywka Koala szara 18 cm</nazwa>
 <cena>32.91</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209895489</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28384,7 +28384,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9557 Pozytywka Piesek niebieski 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209895571</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28444,7 +28444,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9565 Miluś Owieczka 27 cm z groszkiem</nazwa>
 <cena>21.90</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209895656</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -32207,7 +32207,7 @@ NIE może być używany w kuchenkach mikrofalowych.
 <nazwa>B.BOX BB00525 Wymienne słomki i szczoteczka</nazwa>
 <cena>25.14</cena>
 <VAT>23</VAT>
-<ilosc>32</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>9353965005254</EAN>
 <grupa>B.BOX</grupa>
@@ -48964,7 +48964,7 @@ Wiek dziecka: 6 m+</opis>
 <nazwa>B.O.1625 Grzechotka ELEPHANT</nazwa>
 <cena>6.00</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416808</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -49004,7 +49004,7 @@ Wymiar opakowania: 14 x 16 cm</opis>
 <nazwa>B.O.1627 Grzechotka LION</nazwa>
 <cena>6.00</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416822</EAN>
 <grupa>BABYONO/ZABAWKI/GRYZAKI</grupa>
@@ -51737,7 +51737,7 @@ Wspiera naukę koncentracji
 <nazwa>B.O.1677 Grzechotka kontrastowa MAUSE</nazwa>
 <cena>16.00</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418314</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -51786,7 +51786,7 @@ Wspiera naukę koncentracji
 <nazwa>B.O.1678 Karuzelka kontrastowa MAUSE</nazwa>
 <cena>26.00</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418321</EAN>
 <grupa>BABYONO/ZABAWKI/KARUZELKI</grupa>
@@ -57826,7 +57826,7 @@ Zaprojektowano i wyprodukowano w Polsce.</opis>
 <nazwa>BABY 01099 Czapka niemowlęca Smerfetka Sowa 7-12mc.*</nazwa>
 <cena>15.82</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903714260942</EAN>
 <grupa>BABY IN WORLD</grupa>
@@ -58538,7 +58538,7 @@ Zaprojektowano i wyprodukowano w Polsce.</opis>
 <nazwa>BABY 01315 Czapka niemowlęca Smerfetka Black Rose 3-6m</nazwa>
 <cena>19.43</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904830708134</EAN>
 <grupa>BABY IN WORLD</grupa>
@@ -58549,8 +58549,8 @@ Zaprojektowano i wyprodukowano w Polsce.</opis>
 <nazwa>BABY 01316 Czapka niemowlęca Smerfetka Black Roses 7-12mc</nazwa>
 <cena>17.46</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904830708141</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis/>
@@ -58796,7 +58796,7 @@ Wyprodukowane i zaprojektowane w Polsce.
 <nazwa>BABY 01405 Czapka niemowlęca Smerfetka green 7-12mc*</nazwa>
 <cena>15.54</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>BABY IN WORLD</grupa>
@@ -59849,8 +59849,8 @@ Zaprojektowano i wyprodukowano w Polsce.</opis>
 <nazwa>BABY 01778 Czapka niemowlęca Smerfetka Gwiazdki 7-12m</nazwa>
 <cena>18.96</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905274854227</EAN>
 <grupa>BABY IN WORLD</grupa>
 <opis/>
@@ -60507,7 +60507,7 @@ i wyprodukowano w Polsce.</opis>
 <nazwa>BABY 01985 Czapka niemowlęca Łąka 3-6m</nazwa>
 <cena>19.39</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905274856481</EAN>
 <grupa>BABY IN WORLD</grupa>
@@ -61211,7 +61211,7 @@ Budka 3-pozyjna wykonana z materiałów o ochronie przeciwsłonecznej UV 50+.ora
 <nazwa>BABY MIX 43414 Karuzela pluszowa Kurczaki TK/478M</nazwa>
 <cena>89.99</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902216918672</EAN>
 <grupa>BABY MIX/KARUZELKI/PLUSZOWE</grupa>
@@ -61569,7 +61569,7 @@ Zalety :
 <nazwa>BADUM Wkładka wannowa MAXI</nazwa>
 <cena>11.94</cena>
 <VAT>23</VAT>
-<ilosc>530</ilosc>
+<ilosc>523</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800144</EAN>
 <grupa>BADUM</grupa>
@@ -63408,7 +63408,7 @@ Zawieszka przeznaczona dla dzieci od dnia narodzin.</opis>
 <nazwa>BALIBAZOO BB 82400 Zawieszka kolorowa Pszczoła Majka</nazwa>
 <cena>20.62</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>26</ilosc>
 <stan>duża ilość</stan>
 <EAN>6925783824008</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -66334,8 +66334,8 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 541906 Zabawka do kąpieli kaskada</nazwa>
 <cena>20.90</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905523634754</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -66389,7 +66389,7 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 568993 Grzechotka kalejdoskop</nazwa>
 <cena>15.40</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905523639667</EAN>
 <grupa>BAM BAM</grupa>
@@ -71571,7 +71571,7 @@ Nie jest przeznaczony do podawania w nim gorących płynów. Można przelewać w
 <nazwa>CANPOL 2/100 Kubek antypoślizgowy z uchem 170 ml Exotic Animals turkus 2</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<ilosc>41</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407162386</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -71707,7 +71707,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/207 Gryzak wodny samochodzik</nazwa>
 <cena>3.96</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407022079</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -71982,7 +71982,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka NOVA Sztanga zielona</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<ilosc>35</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691812062</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -72006,7 +72006,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka Nowa Sztanga różowa</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<ilosc>35</ilosc>
+<ilosc>34</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691812048</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -76991,7 +76991,7 @@ Można schłodzić w lodówce</opis>
 <nazwa>CANPOL 56/139 Grzechotka z gryzakiem wodnym Miś różowa</nazwa>
 <cena>7.56</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691854994</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -77018,7 +77018,7 @@ Można schłodzić w lodówce</opis>
 <nazwa>CANPOL 56/145 Grzechotka z kolorowymi koralikami</nazwa>
 <cena>8.50</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407561455</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -77431,7 +77431,7 @@ Dostępne wymienne rurki.</opis>
 <nazwa>CANPOL 56/606 Kubek niekapek z rurką i odważnikiem 270 ml Exotic szary</nazwa>
 <cena>20.90</cena>
 <VAT>23</VAT>
-<ilosc>78</ilosc>
+<ilosc>77</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691852778</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -78408,8 +78408,8 @@ Idealne dla dzieci od pierwszych chwil życia.</opis>
 <nazwa>CANPOL 68/089 Sensoryczna piłka z grzechotką i piszczkiem BabiesBoo</nazwa>
 <cena>40.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691870758</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Miękka piłka pozwala dziecku odkryć wiele cech sensorycznych – szelesty, piszczek, kolorowe metki i różnorodne tekstury, które są dla dziecka ciekawe w okresie poznawania świata. Piłka sensoryczna Canpol babies idealnie nadaje się do turlania, łapania, podrzucania, co ćwiczy zręczność i koordynację. Piłka ma ukrytą w środku grzechotkę, która turlana podczas zabawy wydaje delikatne dźwięki, zachęcając Maluszka do raczkowania. Piłka sensoryczna Canpol babies jest lekka i wygodna do chwytania, dostosowana do małych rączek dziecka, idealna do ściskania, zginania i gryzienia. Buzia leniwca na tasiemce z jednej strony patrzy otwartymi oczami, a z drugiej śpi, co pomaga w dostrzeganiu różnic, a po naciśnięciu wydaje ciekawy dźwięk. Dzięki metkom i swojej budowie można łatwo ją złapać lub przywiesić. Piłka sensoryczna dla niemowląt jest doskonała do zabawy sensorycznej, wspierającej rozwój koordynacji słuchowo-ruchowej, ćwiczeń percepcji wzrokowej, dotykowej oraz motorycznej u dziecka.
@@ -78812,7 +78812,7 @@ grubość podkładu: 5 mm.</opis>
 <nazwa>CANPOL 74/018 Gryzak wodny z grzechotką Konik</nazwa>
 <cena>5.76</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407740188</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -78893,8 +78893,8 @@ Kompaktowa - pomieści 8 butelek z akcesoriami.
 <nazwa>CANPOL 74/027 Śliniak silikonowy z kieszonką Bonjour Paris bordowy</nazwa>
 <cena>13.50</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901691852334</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis/>
@@ -87974,7 +87974,7 @@ Dostępny w szerokiej gamie kolorystycznej.</opis>
 <nazwa>CHICCO 00075035420000 Smoczek PH COMFORT AIR LUMI silikon 16-36m 2 szt  blue</nazwa>
 <cena>20.51</cena>
 <VAT>5</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>8058664171576</EAN>
 <grupa>CHICCO/AKCESORIA/SMOCZKI USPOKAJAJĄCE PHYSIOFORMA</grupa>
@@ -90737,7 +90737,7 @@ WAGA:
 
 - fotelik: 4,3 kg
 - baza ISOFIX: 5,4 kg</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5911043-1.jpg https://marini.pl/b2b/pictures/5911043-2.jpg https://marini.pl/b2b/pictures/5911043-3.jpg https://marini.pl/b2b/pictures/5911043-4.jpg https://marini.pl/b2b/pictures/5911043-5.jpg https://marini.pl/b2b/pictures/5911043-6.</zdjecia>
+<zdjecia>https://marini.pl/b2b/pictures/5911043-1. https://marini.pl/b2b/pictures/5911043-2.jpg https://marini.pl/b2b/pictures/5911043-3.jpg https://marini.pl/b2b/pictures/5911043-4.jpg https://marini.pl/b2b/pictures/5911043-5.jpg https://marini.pl/b2b/pictures/5911043-6.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5910774</kod>
@@ -98047,8 +98047,8 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 116 Prześcieradło jersey nieprzemakalne 140x70 biały</nazwa>
 <cena>35.50</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5908268742968</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
 <opis/>
@@ -98070,8 +98070,8 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 116 Prześcieradło jersey nieprzemakalne 140x70 różowy</nazwa>
 <cena>35.50</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5908268742982</EAN>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
 <opis/>
@@ -98092,7 +98092,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 116 Prześcieradło jersey nieprzemakalne 140x70 zielony</nazwa>
 <cena>35.50</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
@@ -98103,7 +98103,7 @@ Zdjęcia są poglądowe</opis>
 <nazwa>DUET BABY 116 Prześcieradło jersey nieprzemakalne 140x70 żółty</nazwa>
 <cena>35.50</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa> DUET BABY- MARINI/PRZEŚCIERADŁA</grupa>
@@ -98219,7 +98219,7 @@ bawełna 100%
 <nazwa>DUET BABY 399 Kocyk zawijak do fotelika velvet/boucla</nazwa>
 <cena>52.13</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa> DUET BABY- MARINI</grupa>
@@ -98320,7 +98320,7 @@ Bawełna 100%
 <nazwa>DUET BABY 609 Szlafrok welur 116-122</nazwa>
 <cena>38.79</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5908268746096</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
@@ -99634,7 +99634,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30803 Rozkołysane zwierzaki</nazwa>
 <cena>37.51</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692308036</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -100152,7 +100152,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 30840 Kaczka Monika z maluchami</nazwa>
 <cena>113.12</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905692308401</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -100176,8 +100176,8 @@ Cechy produktu:
 <nazwa>DUMEL DD 30841 Dmuchany roler</nazwa>
 <cena>46.35</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905692308418</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Kolorowa zabawa na wyciągnięcie rączki malucha! Ten pomysłowy roler posiada trzy zawory, umieszczone na poszczególnych segmentach, pozwalające na napełnienie go powietrzem, aby nabrał kształtu. Wewnątrz rolera znajdują się grzechoczące piłeczki, które przy potrząsaniu zabawką wydają wesoły dźwięk. Rolerem można bawić się na cztery różne sposoby, turlając go przed sobą i raczkując za nim, potrząsając nim i słuchając grzechocących piłeczek, ustawiając go pionowo i manewrując nim w taki sposób, aby piłeczki wpadły w otwory, a także zaglądając do środka przez przezroczyste ścianki i oglądając obrazki, zdobiące roler. Dzięki możliwości spuszczenia powietrza z zabawki, złożony na płasko roler zajmuje niewiele miejsca.
@@ -101421,8 +101421,8 @@ Cechy produktu:
 <nazwa>DUMEL DD 50362 Rozkołysana lama</nazwa>
 <cena>19.38</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>4897126750362</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Lama na sznureczku to wymarzony kompan do zabawy. Kiedy maluch prowadzi rączką zwierzaka, ten jedzie, zabawnie kołysząc przy tym głową na boki. Lama wyposażona jest w cztery kółeczka o nieregularnym kształcie, co zapewnia ciekawy efekt wizualny. Dodatkowo, można je rozpędzić, aby postawiony na podłodze zwierzak pojechał samodzielnie do przodu. Na boku lamy siedzi biedroneczka, która przy przesuwaniu wydaje terkoczący odgłos.
@@ -101441,8 +101441,8 @@ Cechy produktu:
 <nazwa>DUMEL DD 50386 Rozkołysany Jeleń</nazwa>
 <cena>20.35</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4897126750386</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Uroczy jelonek aż kołysze się do zabawy! Posiada sznureczek do prowadzenia i cztery kółeczka
@@ -102133,7 +102133,7 @@ Cechy:
 <nazwa>EASY CARE 502 Kocyk akrylowy tłoczony jednokolorowy 80x110 niebieski</nazwa>
 <cena>61.46</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5908268741213</EAN>
 <grupa>EASY CARE</grupa>
@@ -102144,7 +102144,7 @@ Cechy:
 <nazwa>EASY CARE 502 Kocyk akrylowy tłoczony jednokolorowy 80x110 różowy</nazwa>
 <cena>61.46</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5908268741206</EAN>
 <grupa>EASY CARE</grupa>
@@ -102158,7 +102158,7 @@ dostępne kolory : biały, ecru, szary, niebieski, różowy</opis>
 <nazwa>EASY CARE 502 Kocyk akrylowy tłoczony jednokolorowy 80x110 szary</nazwa>
 <cena>61.46</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5908268741237</EAN>
 <grupa>EASY CARE</grupa>
@@ -111129,6 +111129,64 @@ Instrukcja</opis>
 <grupa>ESPIRO/WÓZKI/ONLY</grupa>
 <opis>Espiro Only
 
+Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
+
+
+Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
+
+
+Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
+
+
+Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
+
+
+Najważniejsze cechy
+
+• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
+
+• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
+
+• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
+
+• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
+
+• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
+
+• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
+
+• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
+
+• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
+
+• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
+
+• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
+
+• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
+
+• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
+
+• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
+
+• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
+
+• Model Only jest dostępny na kołach pompowanych lub żelowych.
+
+• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
+</b2b>
+<b2b>
+<kod>5902863</kod>
+<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
+<cena>1548.32</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5906724206559</EAN>
+<grupa>ESPIRO/WÓZKI/ONLY</grupa>
+<opis>Espiro Only
+
 The espiro 2023 collection includes beautiful, fashionable shades of corresponding fabrics current trends. An improved gondola, equipped with an additional vibration stabilizer, ventilation and a comfortable mattress with a bamboo cover. A sip of your favorite coffee on a walk? Now that's not a problem anymore! Only 2023 with cup holder included!
 
 
@@ -111179,64 +111237,6 @@ Key functions
 • Double-sided cup holder.
 
 • The stroller has a comfortable mattress with a bamboo cover.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
-</b2b>
-<b2b>
-<kod>5902863</kod>
-<nazwa>ESPIRO Wózek uniwersalny ONLY 208 stylish quartz gel</nazwa>
-<cena>1548.32</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5906724206559</EAN>
-<grupa>ESPIRO/WÓZKI/ONLY</grupa>
-<opis>Espiro Only
-
-Wózek espiro only to nowa kategoria lekkiego kompaktowego i funkcjonalnego wózka 2w1. Zaprojektowany tak, by służył rodzicom i dzieciom przez pierwsze 4 lata życia, bez konieczności wymiany go na łatwiejszą w obsłudze spacerówkę. Z lekkim aluminiowym stelażem dostępnym na kołach pompowanych lub żelowych z pełną amortyzacją. 
-
-
-Gondola wózka espiro only waży zaledwie 3,9 kg oraz posiada obszerne wnętrze. Dodatkowo posiada podwójny system wentylacji, który zapewni komfort termiczny podczas gorących. A podczas chłodniejszych dni gondolę można używać ze specjalnym pokrowcem na zamek i kołnierzem na magnesy. Dużym atutem jest jakościowy materacyk i wypinana wyściółka wykonane z mięciutkiego i przyjaznego dla dziecka materiału. Gondola posiada dodatkowy daszek oraz wbudowaną moskitierę — latem nie ma konieczności używania dodatkowych akcesoriów chroniących przed światłem, czy owadami. Model Only posiada również adaptery podwyższające gondolę w zestawie.
-
-
-Gdy maluszek zaczyna już samodzielnie siadać i obserwować świat potrzebuje spacerówki z bezpiecznym i komfortowym siedziskiem. Dlatego model Espiro only posiada siedzisko, które można montować w obie strony: przodem i tyłem do kierunku jazdy. Często najmłodsi czują się bezpiecznie, kiedy widzą rodziców podczas spacerów, a kiedy podrosną najbardziej interesuje ich otaczający świat. Dodatkowym atutem siedziska spacerowego jest to, że podnóżek, oparcie, budka, pasy są w pełni regulowane i można je łatwo i szybko dostosowywać do potrzeb rosnącego dziecka. Oparcie można ustawiać do pozycji płaskiej, tak aby dziecko mogło swobodnie spać podczas długich spacerów. Co ważne dla rodziców — to wielofunkcyjne siedzisko waży zaledwie 4 kg.
-
-
-Aby wózek był jak najłatwiejszy w obsłudze, stelaż został wykonany z lekkiego aluminium, składa się zaledwie jednym ruchem ręki do minimalnego rozmiaru, przez co równie łatwo przenosi się go i przechowuje na płasko i w pionie. Waży jedynie 7 kg. Dostępny jest na kołach pompowanych lub żelowych, wszystkie koła posiadają amortyzację, a przednie są w pełni skrętne oraz posiadają blokadę. Wózek posiada dodatkowo bardzo pojemny kosz, który pomieści wiele akcesoriów, a zapinana na zamek pokrywa zabezpiecza je przed wypadaniem. Stelaż również został wyposażony w dwustronny uchwyt na kubek.
-
-
-Najważniejsze cechy
-
-• Gondola została wyposażona w budkę z możliwością rozłożenia jej do rozmiarów XL. 
-
-• W modelu Only gondola posiada nowoczesny system wentylacji — panoramiczne okno wentylacyjne, które latem zapewni maluchowi odpowiedni komfort termiczny.
-
-• W budce gondoli znajduje się wbudowana moskitiera oraz regulowany daszek, które są bardzo pomocne latem chroniąc przed słońcem i owadami.
-
-• Budka w gondoli posiada nowatorskie duże okno wentylacyjne zabezpieczone siatką, bardzo przydatne podczas cieplejszych dni. Zapewnia prawidłową wentylację i komfort termiczny najmłodszym.
-
-• Budka siedziska jest wyjątkowo obszerna i dodatkowo poszerzana- wystarczy rozpiąć zamek i maksymalnie rozciągnąć budkę. Razem z daszkiem, budka doskonale chroni dzieci przed słońcem i opadami.
-
-• Siedzisko spacerowe posiada zintegrowaną moskitierę, która znajduje się w wewnątrz budki. 
-
-• Oparcie wózka można ustawić w trzech pozycjach, dziecko może wygodnie siedzieć, drzemać lub spać na płasko. 
-
-• Siedzisko modelu only można wpiąć w obu kierunkach jazdy. 
-
-• Teleskopowo regulowana rączka z ekoskóry sprawia, że wózek wygodnie prowadzi się rodzicom o wysokim, jak i niższym wzroście.
-
-• W zestawie znajduje się uchwyt na kubek, który można zamontować obu stronnie. 
-
-• Przednie koła modelu only są skrętne, z osią obrotu 360 i dodatkową blokadą, która przydaje się na wyjątkowo nierównej nawierzchni. Przednie koła również posiadają amortyzację, która minimalizuje wstrząsy przy zetknięciu z krawężnikami.
-
-• W zestawie znajdują się dwa zestawy folii przeciwdeszczowych dla gondoli oraz spacerówki. 
-
-• W budce siedziska znajdują się dwa nowatorskie okna z siatką. Duże rozpinane na zamek zapewnia doskonałą wentylację w ciepłe dni, a małe pozwala na podglądanie dziecka przez rodziców, kiedy dziecko podróżuje przodem do kierunku jazdy.
-
-• Stelaż wózka jest kompaktowy i lekki, wykonany z aluminium waży tylko 7 kg. Składa się dosłownie jednym ruchem ręki. Po złożeniu można go przechowywać na płasko lub pionowo- zajmuje mało miejsca. Wózek można złożyć razem z siedziskiem.
-
-• Model Only jest dostępny na kołach pompowanych lub żelowych.
-
-• W gondoli znajduje się trwały i jakościowy materacyk wraz z wyściółką, która wykonana jest z miękkiego i przyjaznego dla dzieci materiału. Wyściółka jest w całości wypinana i łatwa w czyszczeniu.</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5902863-1.jpg https://marini.pl/b2b/pictures/5902863-2.jpg https://marini.pl/b2b/pictures/5902863-3.jpg https://marini.pl/b2b/pictures/5902863-4.jpg https://marini.pl/b2b/pictures/5902863-5.png</zdjecia>
 </b2b>
 <b2b>
@@ -128406,6 +128406,37 @@ Idealna do pokoju noworodka, niemowlaka, niezastąpiona podczas nocnego przewija
 <zdjecia>https://marini.pl/b2b/pictures/5906713-1.png https://marini.pl/b2b/pictures/5906713-2.jpg https://marini.pl/b2b/pictures/5906713-3.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>5906304</kod>
+<nazwa>INNOGIO GIO-141 Lampka silikonowa GIOpenguin</nazwa>
+<cena>68.98</cena>
+<VAT>23</VAT>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
+<EAN>5904405021439</EAN>
+<grupa>INNOGIO</grupa>
+<opis>GIOpenguin GIO-141 - silikonowa lampka nocna 
+GIOpenguin to piękna silikonowa lampka nocna świecąca 8 kolorami, która sprawi, że Twoje dziecko będzie czuło się bezpiecznie w każdym miejscu. 
+Wesoły i mięciutki pingwinek szybko stanie się przyjacielem dziecka. Bardzo przyjemny w dotyku, nie nagrzewa się.  Wykonany jest z miękkiego silikonu, wolnego od BPA. Dziecko spokojnie może go ściskać, a on po chwili wróci do swojego kształtu. 
+Lampka nocna GIOpenguin ładowana jest kablem USB-C. Posiada wbudowany akumulator, który po pełnym naładowaniu umożliwia odłączanie lampki od źródła zasilania i przeniesienia jej w dowolne miejsce. Pełne ładowanie lampki trwa około 3 godzin, po tym czasie lampka może działać bezprzewodowo w trybie białego światła do 10 godzin i około 9 godzin w trybie światła kolorowego.
+GIOpenguin świeci aż w 8 kolorach, które płynnie zmieniają się co 3 sekundy. Można zatrzymać ulubiony kolor światłą poprzez „klepnięcie” lampeczki w momencie jego wyświetlania. 
+Słodki i piękny kształt GIOpenguin sprawia, że szybko stanie się on przyjacielem każdego dziecka. Włączona lampeczka emituje delikatne i subtelne światło, które tworzy spokojną i miłą atmosferę w dziecięcym pokoju. 
+GIOpenguin jest lekki i niewielkich rozmiarów, dzięki czemu z łatwością można go ze sobą zabrać na wakacje lub w podróż. Cała lampeczka wykonana jest z plastycznego, miękkiego silikonu, co ułatwia spakowanie go do torby, bagażu.
+Silikonowa lampka dla dzieci GIOpenguin:
+    • Ładowana jest za pomocą kabla USB-C (w zestawie).
+    • Świeci w 8 kolorach.
+    • „Klepniecie” lampki zmienia kolor światła.
+    • Wykonana jest z miękkiego i delikatnego silikonu, wolnego od BPA.
+    • Nie nagrzewa się.
+    • Po pełnym naładowaniu działa do 10 godzin.
+    • Ma wbudowany akumulator, który po pełnym naładowaniu umożliwia przeniesienie i postawienie lampeczki w dowolnym miejscu.
+W zestawie znajduje się:
+    • Kabel USB-C.
+    • Instrukcja obsługi.
+    • Silikonowa lampka.
+</opis>
+<zdjecia>https://marini.pl/b2b/pictures/5906304-1.jpg https://marini.pl/b2b/pictures/5906304-2.jpg</zdjecia>
+</b2b>
+<b2b>
 <kod>59114618</kod>
 <nazwa>INNOGIO GIO-143 Silikonowa lampka nocna GIOsleepy Panda</nazwa>
 <cena>59.93</cena>
@@ -132634,8 +132665,8 @@ Kosmetyczkę podróżną – opakowanie</opis>
 <nazwa>KEEEPER 10031 IGOR STARS Podest dwustopniowy antypoślizgowy kosmiczny biały</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396044874</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -132647,8 +132678,8 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER 10032 IGOR WINNIE Dwustopniowy podest antypoślizgowy biały</nazwa>
 <cena>30.11</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396071764</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -132700,8 +132731,8 @@ Wymiary: 84x49x30cm</opis>
 <nazwa>KEEEPER 18431 TOMEK WINNIE THE POOH Podest antypoślizgowy biały</nazwa>
 <cena>16.70</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396071788</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -132726,8 +132757,8 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER 18642 TOMEK STARS Podest antypoślizgowy kosmiczny biały</nazwa>
 <cena>13.40</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396045017</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Umyć ręce i jeszcze raz umyć ręce – taki jest los każdego dziecka. Umyć ręce i jeszcze raz umyć ręce, tego nie da się tak szybko zrobić. Kto nie sięga wody, temu pomoże tomek – dziecinnie łatwo!
@@ -132764,8 +132795,8 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER 18650 EWA HIPPO Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>7</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396059229</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -132777,8 +132808,8 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER 18650 EWA STARS Nakładka sedesowa antypoślizgowa kosmiczny biały</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396044898</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Każdy początek jest trudny. Ale ewa go trochę ułatwi: krzesełko toaletowe dla dzieci sprawia, że trening toaletowy staje się zabawą.
@@ -132842,8 +132873,8 @@ Wymiary: 100x51x30cm</opis>
 <nazwa>KEEEPER ADAM BAMBI Nocnik z funkcją antypoślizgową nordic white</nazwa>
 <cena>11.74</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396092868</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis/>
@@ -132882,10 +132913,10 @@ nie zawiera BPA</opis>
 <b2b>
 <kod>5914627</kod>
 <nazwa>KEEEPER ADAM DOGS Nocnik z funkcją antypoślizgową biały</nazwa>
-<cena>11.74</cena>
+<cena>12.30</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396134858</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis/>
@@ -132908,8 +132939,8 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM FUNNY FARM Nocnik z funkcją antypoślizgową light green</nazwa>
 <cena>11.74</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396134650</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Nocnik z funkcją antypoślizgową: Tutaj możesz bezpiecznie posiedzieć! adam nie ruszy się z miejsca, dzięki swojej funkcji antypoślizgowej - niech się tam dzieje, co chce...
@@ -132952,7 +132983,7 @@ PP/TPE</opis>
 <nazwa>KEEEPER ADAM LION KING Nocnik z funkcją antypoślizgową biały</nazwa>
 <cena>15.72</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>4052396117400</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
@@ -132988,8 +133019,8 @@ PP/TPE</opis>
 <nazwa>KEEEPER ADAM PAW PATROL Nocnik antypoślizgowy biały</nazwa>
 <cena>15.72</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396092882</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Tu siedzi się bezpiecznie! adam nie rusza się z miejsca, co zawdzięcza swojej funkcji antypoślizgowej – niech się tam dzieje, co chce…
@@ -133079,8 +133110,8 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM UNICORN Nocnik antypoślizgowy seledynowy</nazwa>
 <cena>18.48</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396041330</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Tu siedzi się bezpiecznie! adam nie rusza się z miejsca, co zawdzięcza swojej funkcji antypoślizgowej – niech się tam dzieje, co chce…
@@ -133092,8 +133123,8 @@ Wymiary: 38 x 27 x 23,5 cm</opis>
 <nazwa>KEEEPER ADAM WINNIE THE POOH Nocnik z funkcją antypoślizgową biały</nazwa>
 <cena>15.72</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396071757</EAN>
 <grupa>KEEEPER/NOCNIKI</grupa>
 <opis>Informacje o tym produkcie
@@ -133108,8 +133139,8 @@ Zawartość: 1 Nocnik Adam, Dekor Kubuś Puchatek, 1867010023800, Wymiary (LxWxH
 <nazwa>KEEEPER CUTE CAPYBARA Podest  dziecięcy z funkcją antypoślizgową biały</nazwa>
 <cena>13.40</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396136180</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Wykonane z mocnego tworzywa sztucznego – Materiał wykazuje odporność na zarysowania oraz uszkodzenia
@@ -133122,9 +133153,9 @@ Kolorowe motywy z bajek – Kolorowe motywy z bajek przyczynią się do chętnie
 <b2b>
 <kod>775243</kod>
 <nazwa>KEEEPER DAWID Uniwersalny stojak do wanny 84 i 100 cm biały</nazwa>
-<cena>104.50</cena>
+<cena>135.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396058024</EAN>
 <grupa>KEEEPER/AKCESORIA</grupa>
@@ -133160,8 +133191,8 @@ wymiary: 125x64x34,5cm</opis>
 <nazwa>KEEEPER EWA CUTE CAPYBARA Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396136173</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Nakładka sedesowa z funkcją antypoślizgową
@@ -133204,8 +133235,8 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA FUNNY FARM Nakładka sedesowa antypoślizgowa light green</nazwa>
 <cena>8.82</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>19</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396134667</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>Nakładka jest odpowiednio wyprofilowana, zapewnia dziecku wygodę i komfort.
@@ -133270,8 +133301,8 @@ Wymiary: 30 x 40 x 15cm</opis>
 <nazwa>KEEEPER EWA MINNIE Nakładka sedesowa z funkcją antypoślizgową nordic pink</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>20</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396080803</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis>informacje o produkcie
@@ -133347,8 +133378,8 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER EWA RAINBOW Nakładka sedesowa antypoślizgowa biała</nazwa>
 <cena>8.45</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>11</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396093148</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -133359,8 +133390,8 @@ Zakres dostawy: 1 dziecięca deska sedesowa Ewa, dekoracja Peppa Pig, 10819, wym
 <nazwa>KEEEPER EWA STITCH Nakładka sedesowa z funkcją antypoślizgową biały</nazwa>
 <cena>11.70</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396112641</EAN>
 <grupa>KEEEPER/NAKŁADKI NA WC</grupa>
 <opis/>
@@ -133385,8 +133416,8 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <nazwa>KEEEPER IGOR CATS Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
-<stan>mała ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396134841</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
@@ -133423,8 +133454,8 @@ Kolorowe motywy z bajek – Kolorowe motywy z bajek przyczynią się do chętnie
 <nazwa>KEEEPER IGOR FUNNY FARM Podest dwustopniowy light green</nazwa>
 <cena>24.38</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>30</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396134681</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podest - stołek, wymiar 41 x 37 x 21 cm
@@ -133489,8 +133520,8 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR MINNIE MOUSE Podest dziecięcy dwustopniowy antypoślizgowy nordic pink</nazwa>
 <cena>30.11</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396080827</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -133512,8 +133543,8 @@ PP/TPE</opis>
 <nazwa>KEEEPER IGOR PANDA Podest dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>23.13</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396072839</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Mycie zębów to wielka zabawa, raz pod górkę, a raz z górki, potem w jedną i w drugą stronę, a potem dookoła, dlatego szczoteczka jest zakrzywiona. I na schodki, raz dwa trzy – igor wam w tym pomoże!
@@ -133848,8 +133879,8 @@ PP</opis>
 <nazwa>KEEEPER TOMEK BAMBI Podest dziecięcy z funkcją antypoślizgową nordic white</nazwa>
 <cena>12.80</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>4052396092981</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Podnóżek dla dziecka zapewni maluchowi wygodę i ułatwi mu korzystanie z umywalki lub toalety. Doskonale sprawdzi się również w codziennym użytkowaniu, gdzie dziecko potrzebuje bezpiecznego podwyższenia.
@@ -133884,8 +133915,8 @@ Na powierzchni podestu znajdują się antypoślizgowe elementy w kształcie stó
 <nazwa>KEEEPER TOMEK FUNNY FARM Podest jednostopniowy light green</nazwa>
 <cena>13.40</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>15</ilosc>
+<stan>duża ilość</stan>
 <EAN>4052396134674</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>Jednostopniowy taboret do chodzenia Funny Farm dla dzieci w wieku od ok. 3 do ok. 14 lat, zapewnia bezpieczne wchodzenie i siedzenie – idealnie nadaje się do dotarcia do umywalki lub toalety
@@ -133961,8 +133992,8 @@ Wymiary: 40,5 x 28,5 x 14 cm</opis>
 <nazwa>KEEEPER TOMEK MINNIE MOUSE Podest  antypoślizgowy nordic pink</nazwa>
 <cena>16.70</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396080810</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis>informacje o produkcie
@@ -134062,8 +134093,8 @@ Zakres dostawy: 1 taboret Tomek, jednopoziomowy, dekoracja Peppa, wymiary (dł. 
 <nazwa>KEEEPER TOMEK STITCH Podest dziecięcy z funkcją antypoślizgową biały</nazwa>
 <cena>16.70</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>4052396112658</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
 <opis/>
@@ -136257,7 +136288,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <nazwa>KIECZMERSKI Ochraniacz - warkocz bawełna 100% dł.240 cm Listki</nazwa>
 <cena>85.37</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -139387,7 +139418,7 @@ WZÓR - MISIE BŁĘKIT</opis>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm MIMINU DESIGN Samochodziki niebieskie bawełna 100%</nazwa>
 <cena>41.46</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
@@ -140785,8 +140816,8 @@ WZÓR POŚCIELI - PODNIEBNA PRZYGODA</opis>
 <nazwa>KIECZMERSKI Rożek standard 75x75 cm KOLEKCJA Samoloty błękit</nazwa>
 <cena>26.44</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
 <opis>Rożek niemowlęcy 75x75 cm z tkaniny bawełnianej, wyprodukowanej w polskich fabrykach.
@@ -142549,7 +142580,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Śpiworek do spania całoroczny MIMINU SOFT TEDDY 2,5 TOG niebieski 62/76cm 3-12m</nazwa>
 <cena>78.05</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907378106301</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -142661,7 +142692,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Śpiworek do spania całoroczny MIMINU SOFT TEDDY 2,5 TOG pudrowy róż 62/76cm 3-12m</nazwa>
 <cena>78.05</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907378106295</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -144511,7 +144542,7 @@ Wymiary po złożeniu / najmniejsze wymia</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy COMFORT UP 2 PLUS i-Size black</nazwa>
 <cena>244.76</cena>
 <VAT>5</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902533931422</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -145870,7 +145901,7 @@ Waga: 11 kg</opis>
 <nazwa>KINDERKRAFT Fotelik samochodowy I-SPARK 2 PLUS i-Size black</nazwa>
 <cena>206.25</cena>
 <VAT>5</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902533931477</EAN>
 <grupa>KINDERKRAFT/FOTELIKI</grupa>
@@ -158603,10 +158634,10 @@ Ponadczasowy design – krzesełko będzie pasować do wnętrz w różnych styla
 <b2b>
 <kod>784741</kod>
 <nazwa>KLUPŚ Barierka Amelia 120x60 biel</nazwa>
-<cena>111.00</cena>
+<cena>117.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912245105</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Barierka ochronna stanowi doskonałe zabezpieczenie przed wypadnięciem dziecka z łóżka,umożliwiając przy tym naukę samodzielności. Barierka dedykowana jest do łóżeczka 120x60 Amelia biel ze względu na różnice konstrukcyjne oraz kolorystyczne.
@@ -158623,8 +158654,8 @@ Ponadczasowy design – krzesełko będzie pasować do wnętrz w różnych styla
 <nazwa>KLUPŚ Barierka Amelia 120x60 dąb</nazwa>
 <cena>117.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245099</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Barierka ochronna stanowi doskonałe zabezpieczenie przed wypadnięciem dziecka z łóżka,umożliwiając przy tym naukę samodzielności. Barierka dedykowana jest do łóżeczka 120x60 Amelia dąb ze względu na różnice konstrukcyjne oraz kolorystyczne.
@@ -158671,8 +158702,8 @@ Płyta MDF</opis>
 <nazwa>KLUPŚ Barierka LittleSky 120x60 buk</nazwa>
 <cena>117.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912245440</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis/>
@@ -158828,7 +158859,7 @@ Prowadnice kulkowe</opis>
 <nazwa>KLUPŚ Komoda DALIA biel-popiel</nazwa>
 <cena>495.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912244863</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
@@ -158847,7 +158878,7 @@ Opcjonalna nakładka do przewijania, do kupienia osobno.</opis>
 <nazwa>KLUPŚ Komoda DALIA buk-popiel</nazwa>
 <cena>487.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245402</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
@@ -158888,7 +158919,7 @@ Kod EAN: 5901912245747</opis>
 <nazwa>KLUPŚ Komoda LAURA biel-buk</nazwa>
 <cena>588.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912246102</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
@@ -158913,8 +158944,8 @@ Kod EAN: 5901912246102</opis>
 <nazwa>KLUPŚ Komoda LAURA szampan - buk</nazwa>
 <cena>607.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>41</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912245815</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda LAURA w kolorze szampańskim to elegancki i funkcjonalny dodatek do każdego wnętrza. Wyposażona w trzy pojemne szuflady z cichym domykiem, zapewnia nie tylko mnóstwo miejsca na przechowywanie, ale także komfort codziennego użytkowania. Uchwyty wykonane z drewna bukowego dodają jej naturalnego uroku, a wysokie nóżki ułatwiają utrzymanie czystości, umożliwiając łatwy dostęp podczas sprzątania. Dodatkowo, możliwość nałożenia nakładki do przewijania czyni z niej idealne rozwiązanie dla rodziców małych dzieci, łącząc styl z praktycznością. Komoda LAURA to doskonały wybór dla tych, którzy cenią sobie zarówno estetykę, jak i funkcjonalność mebli.
@@ -159079,10 +159110,10 @@ opcjonalna nakładka do przewijania, prowadnice kulkowe
 <b2b>
 <kod>781786</kod>
 <nazwa>KLUPŚ Komoda PAULINE grafit-sosna</nazwa>
-<cena>525.00</cena>
+<cena>541.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912244993</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda Pauline
@@ -159104,8 +159135,8 @@ Produkt do samodzielnego montażu, w całości wykonany w Polsce.</opis>
 <nazwa>KLUPŚ Komoda SOFIE buk-biały</nazwa>
 <cena>662.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912244214</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda Sofie
@@ -159126,8 +159157,8 @@ Opcjonalna nakładka do przewijania.</opis>
 <nazwa>KLUPŚ Komoda z przewijakiem KAROLINA biel-sosna</nazwa>
 <cena>440.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>11</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912244948</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
 <opis>Komoda z przewijakiem KAROLINA 
@@ -159331,7 +159362,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko DALIA 120x60 biel</nazwa>
 <cena>310.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912244788</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -159531,9 +159562,9 @@ Między listwami dna znajdują się wolne przestrzenie dzięki czemu powietrze m
 <b2b>
 <kod>779443</kod>
 <nazwa>KLUPŚ Łóżeczko KAROLINA I biała</nazwa>
-<cena>236.00</cena>
+<cena>263.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>5</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912244702</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -159543,10 +159574,10 @@ Między listwami dna znajdują się wolne przestrzenie dzięki czemu powietrze m
 <b2b>
 <kod>3933</kod>
 <nazwa>KLUPŚ Łóżeczko KAROLINA II białe 120x60</nazwa>
-<cena>248.00</cena>
+<cena>276.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
-<stan>mała ilość</stan>
+<ilosc>11</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912244955</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -159563,8 +159594,8 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko KAROLINA II biel-sosna 120x60</nazwa>
 <cena>271.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>21</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912244931</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Łóżeczko Karolina II
@@ -159583,8 +159614,8 @@ Barierka ochronna w opcji, do kupienia osobno.
 <nazwa>KLUPŚ Łóżeczko KAROLINA II sosna 120x60</nazwa>
 <cena>246.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>7</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912240032</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -159724,8 +159755,8 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA białe 120x60</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912240421</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -159745,7 +159776,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA biel-orzech</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912244832</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -159856,7 +159887,7 @@ Produkt spełnia wymagania normy PN-EN 716-1+AC:2019-07.
 <nazwa>KLUPŚ Łóżko 120x60 z barierką LAURA biel-buk</nazwa>
 <cena>549.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912246089</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -159878,7 +159909,7 @@ Kod EAN: 5901912246089</opis>
 <nazwa>KLUPŚ Łóżko 120x60 z barierką LAURA II biel-buk</nazwa>
 <cena>569.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912246065</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -159957,8 +159988,8 @@ Kod EAN: 5901912245808</opis>
 <nazwa>KLUPŚ Łóżko Kompakt biały</nazwa>
 <cena>977.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>11</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912244320</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Opis produktu:
@@ -160126,8 +160157,8 @@ funkcje
 <nazwa>KLUPŚ Łóżko PAULINE z barierką grafit-sosna 120x60</nazwa>
 <cena>363.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>7</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912245150</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>wymiar wewnętrzny: 120x60 cm.
@@ -160145,7 +160176,7 @@ Produkt spełnia wymagania normy PN-EN 716-1+AC:2019-07.</opis>
 <nazwa>KLUPŚ Łóżko-domek 160x80 LIV biel</nazwa>
 <cena>658.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245679</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -160159,10 +160190,10 @@ lub pojemnik na pościel dzielony</opis>
 <b2b>
 <kod>5911497</kod>
 <nazwa>KLUPŚ Łóżko-domek 160x80 LIV dąb</nazwa>
-<cena>704.00</cena>
+<cena>711.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>1</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245686</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Łóżko domek 160×80 w komplecie z barierką zapewnia bezpieczną i wygodną przestrzeń. Łóżko sprawdzi się idealnie do pokoju dziecka, które ceni sobie wygodę snu połączoną z aspektem wizualnym. Sporym atutem jest możliwość dokupienia szuflady występującej w dwóch różnych wersjach. Szuflada z funkcją spania pozwala na włożenie kolejnego materaca i dzięki temu powstaje nam kolejna przestrzeń do leżenia, a więc sprawdzi się idealnie dla rodzeństwa, na przyjazd kuzynostwa czy nocowanie z przyjaciółmi. Szuflada dzielona jest rozwiązaniem dla tych, którzy lubią porządek. Dwie pojemne przegrody pozwolą schować pościel, piżamę, książki lub zabawki.
@@ -160200,10 +160231,10 @@ Funkcja tapczanika
 <b2b>
 <kod>779434</kod>
 <nazwa>KLUPŚ Łóżko-tapczanik 140x70 DALIA biel</nazwa>
-<cena>361.00</cena>
+<cena>375.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912244795</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Rozmiar zewnętrzny (cm): 144x85x76
@@ -160249,7 +160280,7 @@ Kod EAN: 5901912245846
 <nazwa>KLUPŚ Łóżko-tapczanik 140x70 OLIVIA buk</nazwa>
 <cena>415.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245853</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -160312,10 +160343,10 @@ Kod EAN: 5901912245822</opis>
 <b2b>
 <kod>5912393</kod>
 <nazwa>KLUPŚ Nakładka na łóżeczko 120x60 biel</nazwa>
-<cena>99.00</cena>
+<cena>104.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>17</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912245914</EAN>
 <grupa>KLUPŚ/AKCESORIA</grupa>
 <opis>Nakładka na łóżeczko w rozmiarze 120×60 została stworzona z myślą o bezpieczeństwie maluszka, a także wygodzie rodzica. Została wykonana z wysokiej jakości materiałów, więc zdecydowanie posłuży na lata. Ciepły kolor buku idealnie wpasuje się w nowoczesne wnętrze i stanie się stylowym dodatkiem w pokoju Twojego maluszka.
@@ -160329,8 +160360,8 @@ Rozmiar zewnętrzny (cm):-54 |9 •73
 <nazwa>KLUPŚ Nakładka na łóżeczko 120x60 buk</nazwa>
 <cena>104.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>11</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912245945</EAN>
 <grupa>KLUPŚ/AKCESORIA</grupa>
 <opis>Nakładka na łóżeczko w rozmiarze 120×60 została stworzona z myślą o bezpieczeństwie maluszka, a także wygodzie rodzica. Została wykonana z wysokiej jakości materiałów, więc zdecydowanie posłuży na lata. Ciepły kolor buku idealnie wpasuje się w nowoczesne wnętrze i stanie się stylowym dodatkiem w pokoju Twojego maluszka.
@@ -160371,8 +160402,8 @@ Kod EAN: 5901912245921</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 Amelia biel</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245280</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis/>
@@ -160383,8 +160414,8 @@ Kod EAN: 5901912245921</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 Amelia dąb</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912245297</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Pojemnik na pościel 120x60</opis>
@@ -160395,8 +160426,8 @@ Kod EAN: 5901912245921</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 biały</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>14</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912241084</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Opis produktu:
@@ -160411,8 +160442,8 @@ wymiary zewnętrzne :119x17x62</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 buk</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245457</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis>Pojemnik na pościel 120×60 w kolorze bukowym to dodatkowe miejsce do przechowywania idealne do mniejszych wnętrz. Pokrywa zabezpiecza przed zakurzeniem i pomaga uporządkować wizualnie przestrzeń.</opis>
@@ -160450,7 +160481,7 @@ OPIS POJEMNIKA:
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 popiel</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912241114</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
@@ -160534,8 +160565,8 @@ Rozmiar zewnętrzny (cm): -84 |190 •50</opis>
 <nazwa>KLUPŚ Regał AMELIA dąb</nazwa>
 <cena>428.00</cena>
 <VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245792</EAN>
 <grupa>KLUPŚ/MEBLE/REGAŁY</grupa>
 <opis>Odkryj urok i funkcjonalność regału z kolekcji AMELIA, wykonanego w klasycznym, ciepłym odcieniu dębu. Ten elegancki mebel doskonale wpasuje się zarówno w pokój młodszego dziecka, jak i starszego ucznia. Regał oferuje dwie przestronne półki, które pomieszczą liczne książeczki, a także sześć specjalnie zaprojektowanych miejsc na kontenerki, co ułatwia organizację i przechowywanie niezbędnych przedmiotów. Jego uniwersalny design sprawia, że będzie idealnym dodatkiem do każdego pokoju, dodając mu przytulności i klasycznego stylu. Wybierz regał AMELIA, aby wprowadzić do wnętrza harmonię i porządek.
@@ -160548,8 +160579,8 @@ Rozmiar zewnętrzny (cm): -84 |190 •50</opis>
 <nazwa>KLUPŚ Regał DALIA biel-popiel</nazwa>
 <cena>375.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901912243750</EAN>
 <grupa>KLUPŚ/MEBLE/REGAŁY</grupa>
 <opis>Opis produktu:
@@ -160582,8 +160613,8 @@ Rozmiar zewnętrzny (cm): -42 |183 •50
 <nazwa>KLUPŚ Regał LAURA biel-buk</nazwa>
 <cena>406.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901912246096</EAN>
 <grupa>KLUPŚ/MEBLE/REGAŁY</grupa>
 <opis>Wprowadź harmonię i nieskazitelną świeżość do pokoju swojego dziecka z regałem Laura. Ten smukły, wyjątkowo funkcjonalny mebel w klasycznym białym kolorze to doskonałe połączenie ponadczasowej elegancji z naturalnym ciepłem. Czysta biel w zestawieniu z solidnymi elementami z drewna bukowego tworzy mebel, który nie tylko ułatwia organizację, ale stanowi również stylowy fundament każdej aranżacji.
@@ -160604,8 +160635,8 @@ Kod EAN: 5901912246096</opis>
 <nazwa>KLUPŚ Regał LAURA szampan-buk</nazwa>
 <cena>420.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
-<stan>mała ilość</stan>
+<ilosc>18</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912246058</EAN>
 <grupa>KLUPŚ/MEBLE/REGAŁY</grupa>
 <opis>Wprowadź ład i wyjątkowy styl do pokoju swojego dziecka z regałem Laura. Ten smukły, funkcjonalny mebel w modnym kolorze szampańskim to doskonałe połączenie nowoczesnego designu z naturalnym wykończeniem. Ciepły odcień beżu w zestawieniu z solidnym drewnem bukowym tworzy mebel, który jest nie tylko praktyczny, ale stanowi również piękną dekorację wnętrza. Regał oferuje cztery otwarte, szerokie półki, które są idealnym miejscem na wyeksponowanie ulubionych książek, kolekcji zabawek czy pamiątek. W dolnej części mebla znajduje się pojemna szuflada, która pozwoli ukryć drobiazgi, zapewniając porządek w pomieszczeniu. Delikatny, ciepły beż to alternatywa dla klasycznej bieli, która idealnie komponuje się z aranżacjami w stylu boho, skandynawskim oraz nowoczesnym.
@@ -160660,7 +160691,7 @@ Wysokość: 43 cm
 <nazwa>KLUPŚ Szafa 2-segmentowa KAROLINA biel-sosna</nazwa>
 <cena>603.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>5</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245662</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
@@ -160729,8 +160760,8 @@ wnętrze: 2 półki i 1 drążek na ubranka
 <nazwa>KLUPŚ Szafa 3-drzwiowa DALIA biel-popiel</nazwa>
 <cena>916.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912243781</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Opis produktu:
@@ -160748,7 +160779,7 @@ Funkcjonalne szuflady.</opis>
 <nazwa>KLUPŚ Szafa 3-drzwiowa DALIA buk-popiel</nazwa>
 <cena>929.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912245419</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -160766,8 +160797,8 @@ Kod EAN: 5901912245419</opis>
 <nazwa>KLUPŚ Szafa 3-segmentowa LAURA biel-buk</nazwa>
 <cena>944.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>8</ilosc>
+<stan>średnia ilość</stan>
 <EAN> 5901912246119</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Szukasz mebla, który pomieści całą garderobę Twojego dziecka, a jednocześnie zachwyci lekkim, nowoczesnym designem? Szafa 3-segmentowa Laura to idealne rozwiązanie. Połączenie nieskazitelnej bieli z naturalnym drewnem bukowym sprawia, że wnętrze staje się przytulne, jasne i uporządkowane. Trzy segmenty oferują przemyślany układ wnętrza. Znajdziesz tu miejsce zarówno na ubrania wiszące (sukienki, kurtki), jak i liczne półki, a także szufladki na bieliznę. Szafa została wyposażona w solidne nóżki oraz ergonomiczne uchwyty wykonane z litego drewna bukowego. To detale, które nadają meblowi luksusowego charakteru i gwarantują trwałość na lata. Wysokie, drewniane nóżki nie tylko dodają meblowi lekkości, ale także ułatwiają utrzymanie czystości pod szafą (idealne rozwiązanie przy robotach sprzątających).
@@ -160831,8 +160862,8 @@ Kod EAN: 5901912245754</opis>
 <nazwa>KLUPŚ Szafa 3-segmentowa SOFIE buk-biały</nazwa>
 <cena>936.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912245198</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Szafa 3-segmentowa Sofie
@@ -160896,10 +160927,10 @@ Prowadnice kulkowe
 <b2b>
 <kod>10429</kod>
 <nazwa>KLUPŚ Szafa dwudrzwiowa PAULA biała</nazwa>
-<cena>596.00</cena>
+<cena>608.00</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>7</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901912241589</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
 <opis>Opis produktu:
@@ -170407,8 +170438,8 @@ płyta MDF, płyta meblowa
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę biel</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>28</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912244528</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Nakładka do przewijania to przydatny dodatek do pokoju każdego dziecka. Posiada zabezpieczenia, które powodują, że bez obaw możesz zająć się pielęgnacją maluszka.
@@ -170429,8 +170460,8 @@ płyta meblowa</opis>
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę buk</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>22</ilosc>
+<stan>duża ilość</stan>
 <EAN>5901912245594</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
 <opis>Nakładka do przewijania to przydatny dodatek do pokoju każdego dziecka. Posiada zabezpieczenia, które powodują, że bez obaw możesz zająć się pielęgnacją maluszka.
@@ -176780,7 +176811,7 @@ Wymiary dł/szer/wys: 39 cm / 30 cm/ 13,5 cm
 <nazwa>MALTEX Nakładka 2K Słonik brzoskwiniowy róż</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067017156</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -176816,8 +176847,8 @@ Wymiary dł/szer/wys: 39 cm / 30 cm/ 13,5 cm
 <nazwa>MALTEX Nakładka 2K Wieloryb satynowy błękit</nazwa>
 <cena>14.04</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067017149</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis/>
@@ -176872,7 +176903,7 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nakładka na sedes Zebra jasny niebieski</nazwa>
 <cena>7.57</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067009281</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -176885,8 +176916,8 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nakładka na sedes Zebra jasny róż</nazwa>
 <cena>8.87</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5903067009298</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
 <opis>Nakładka na sedes z najnowszej kolekcji “Zeberka” od Maltex Baby wprowadza dziecko w etap korzystania z toalety dla rodziców. Produkt ten dostosuje każdą uniwersalną toaletę do możliwości zasiadania na niej przez malucha.
@@ -176898,7 +176929,7 @@ Wymiary dł/szer/wys: 36,5 cm / 32 cm/ 9 cm</opis>
 <nazwa>MALTEX Nakładka na sedes Zebra szara</nazwa>
 <cena>7.57</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067009328</EAN>
 <grupa>MALTEX/NAKŁADKI SEDESOWE</grupa>
@@ -177095,7 +177126,7 @@ dopuszczalny wiek: 18 miesięcy + dopuszczalny ciężar: max. 30 kg</opis>
 <nazwa>MALTEX Nocnik 2K z pozytywką Zebra /niebieski</nazwa>
 <cena>21.90</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009397</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -177120,7 +177151,7 @@ Wymiary dł/szer/wys: 35 cm/ 30 cm/ 23 cm</opis>
 <nazwa>MALTEX Nocnik 2K z pozytywką Zebra jasny różowy/różowy</nazwa>
 <cena>21.90</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009410</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -177184,7 +177215,7 @@ Wymiary dł/szer/wys: 35 cm/ 30 cm/ 23 cm</opis>
 <nazwa>MALTEX Nocnik Jeżyk Leśna Ferajna zielony</nazwa>
 <cena>10.19</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067007522</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -177208,7 +177239,7 @@ Wymiary dł/szer/wys: 35 cm/ 30 cm/ 23 cm</opis>
 <nazwa>MALTEX Nocnik Misiu Leśna Ferajna szary</nazwa>
 <cena>10.19</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067007546</EAN>
 <grupa>MALTEX/NOCNIKI</grupa>
@@ -178188,8 +178219,8 @@ Wymiary dł/szer/wys
 <nazwa>MALTEX Wanna 100cm Słonik brzoskwiniowy róż</nazwa>
 <cena>31.17</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5903067015923</EAN>
 <grupa>MALTEX/WANNY</grupa>
 <opis/>
@@ -178516,7 +178547,7 @@ Wymiary dł/szer/wys: 84 cm/ 48 cm/ 28 cm</opis>
 <nazwa>MALTEX Wieszak dziecięcy (kpl 8szt.), niebieski</nazwa>
 <cena>8.05</cena>
 <VAT>23</VAT>
-<ilosc>27</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009052</EAN>
 <grupa>MALTEX</grupa>
@@ -178528,7 +178559,7 @@ Wymiary dł/szer/wys: 84 cm/ 48 cm/ 28 cm</opis>
 <nazwa>MALTEX Wieszak dziecięcy (kpl 8szt.), różowy</nazwa>
 <cena>8.05</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009069</EAN>
 <grupa>MALTEX</grupa>
@@ -181038,8 +181069,8 @@ W zestawie 140 elementów. Rozmiar opakowania: 18,5 cm x 16 cm x 6 cm
 <nazwa>MARIOINEX 903131 Klocki waffle mini - ŚMIECIARKA 148 EL.</nazwa>
 <cena>78.36</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5903033903131</EAN>
 <grupa>MARIOINEX</grupa>
 <opis>Zestaw Mini Waffle City: Śmieciarka
@@ -181124,8 +181155,8 @@ Dla dzieci w wieku od 5 lat</opis>
 <nazwa>MARIOINEX 903155 Klocki waffle mini - plaża 148 el.</nazwa>
 <cena>63.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903033903155</EAN>
 <grupa>MARIOINEX</grupa>
 <opis>Zestaw Plaża
@@ -186625,8 +186656,8 @@ Skład surowcowy:
 <nazwa>MATEX Komplet pościeli JERSEY PU PRINT 100x135, 40x60 [TB0500_02] jarzębina</nazwa>
 <cena>96.10</cena>
 <VAT>8</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5902675083935</EAN>
 <grupa>BABYMATEX/POŚCIEL</grupa>
 <opis/>
@@ -187297,7 +187328,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Podkład higieniczny KOMFI 70x140 [TB0231]</nazwa>
 <cena>56.29</cena>
 <VAT>8</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675039406</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
@@ -188746,7 +188777,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło JERSEY z gumką 70x140 [TB0028_31]turkus WYPRZEDAŻ</nazwa>
 <cena>21.49</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675020473</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
@@ -191591,7 +191622,7 @@ Waga z opakowaniem- 0,88 kg</opis>
 <nazwa>MILLY MALLY 2722 Wózek dla lalek Julia Prestige Pink</nazwa>
 <cena>18.60</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901761124941</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -191836,7 +191867,7 @@ waga 3,5 kg</opis>
 <b2b>
 <kod>5905878</kod>
 <nazwa>MILLY MALLY 2771 Pojazd 2w1 COOl/LOOK  DARK NATURAL</nazwa>
-<cena>155.54</cena>
+<cena>155.50</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
 <stan>brak</stan>
@@ -204065,7 +204096,7 @@ Waga z opakowaniem 6,1 kg</opis>
 <nazwa>MILLY MALLY 5695 Wózek dla lalek Julia Prestige Black</nazwa>
 <cena>18.60</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761129335</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -211683,7 +211714,7 @@ Link do etykiety:www.pminvestment.pl/manual/ tinymini_manual.pdf</opis>
 <nazwa>MILLY MALLY 6098 TinyMini JL624-1D Mata edukacyjna Kolorowe zwierzątka</nazwa>
 <cena>49.16</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761129984</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -214011,7 +214042,7 @@ www.pminvestment.pl/manual/ tinymini_manual.pdf</opis>
 <nazwa>MILLY MALLY 6145 TinyMini JL639-2B Mata edukacyjna 2w1 Kwiat Safari</nazwa>
 <cena>74.06</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901761123180</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
@@ -236314,6 +236345,39 @@ www.pminvestment.pl/manual/nino_manual.pdf</opis>
 <zdjecia>https://marini.pl/b2b/pictures/59114788-1.jpg https://marini.pl/b2b/pictures/59114788-2.jpg https://marini.pl/b2b/pictures/59114788-3.jpg https://marini.pl/b2b/pictures/59114788-4.jpg https://marini.pl/b2b/pictures/59114788-5.jpg https://marini.pl/b2b/pictures/59114788-6.jpg https://marini.pl/b2b/pictures/59114788-7.jpg https://marini.pl/b2b/pictures/59114788-8.jpg https://marini.pl/b2b/pictures/59114788-9.jpg https://marini.pl/b2b/pictures/59114788-10.jpg https://marini.pl/b2b/pictures/59114788-11.jpg https://marini.pl/b2b/pictures/59114788-12.jpg https://marini.pl/b2b/pictures/59114788-13.jpg https://marini.pl/b2b/pictures/59114788-14.jpg https://marini.pl/b2b/pictures/59114788-15.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59115506</kod>
+<nazwa>MILLY MALLY 6983 Bramka zabezpieczająca barierka na schody z rozszerzeniami Guardy 118 white</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5907090701327</EAN>
+<grupa>MILLY MALLY/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59115507</kod>
+<nazwa>MILLY MALLY 6984 Bramka zabezpieczająca barierka na schody z rozszerzeniami Guardy 118 black</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5907090701310</EAN>
+<grupa>MILLY MALLY/POZOSTAŁE</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59115505</kod>
+<nazwa>MILLY MALLY 7019 Pojazd Royce choco</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5907090701389</EAN>
+<grupa>MILLY MALLY/POJAZDY JEŹDZIKI</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>59115373</kod>
 <nazwa>MILLY MALLY 7020 TinyMini 8773-1 Mata edukacyjna Nature</nazwa>
 <cena>74.99</cena>
@@ -245291,7 +245355,7 @@ Waga z opakowaniem - 1,4 kg</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear Blue</nazwa>
 <cena>61.62</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700467</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
@@ -245403,7 +245467,7 @@ www.pminvestment.pl/manual/milly_manual.pdf</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear Pink</nazwa>
 <cena>61.60</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700474</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
@@ -246617,7 +246681,7 @@ Zaleca się umycie i wysuszenie produktu przed pierwszym użyciem.</opis>
 <nazwa>MINILAND 89557 Plecak izotermiczny ECO-friendly Królik pomarańczowy</nazwa>
 <cena>40.65</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>8413082895570</EAN>
 <grupa>MARKO/MINILAND</grupa>
@@ -246659,7 +246723,7 @@ miniland@miniland.es
 <nazwa>MINILAND 89558 Plecak izotermiczny ECO-friendly Żaba zielony</nazwa>
 <cena>40.65</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>8413082895587</EAN>
 <grupa>MARKO/MINILAND</grupa>
@@ -258156,8 +258220,8 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB175-B-01 Skarpety niemowlęce chłopak wąski prążek mix 0-6m</nazwa>
 <cena>3.04</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>6</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907220849400</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
 <opis/>
@@ -258240,7 +258304,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB176-B-01 Skarpety niemowlęce chłopak prążek mix 0-6m</nazwa>
 <cena>3.16</cena>
 <VAT>23</VAT>
-<ilosc>42</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907220849462</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
@@ -258300,7 +258364,7 @@ mix- opakowanie zbiorcze 6 par</opis>
 <nazwa>NOVITI SB210-B-01 Skarpety chłopięce z elem. 3D miś 0-6m</nazwa>
 <cena>2.96</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907220862492</EAN>
 <grupa>NOVITI/SKARPETKI</grupa>
@@ -263665,8 +263729,8 @@ Sophie uwielbia miękką pomadkę i lubi czesać swoje niesforne, kręcone włos
 <nazwa>PETITE&amp;MARS 620521 Pluszowa laleczka Max 0+ 35 cm</nazwa>
 <cena>40.20</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8596202005537</EAN>
 <grupa>PETITE&amp;MARS/ZABAWKI</grupa>
 <opis>Najlepszy przyjaciel zawsze z Tobą!
@@ -263748,7 +263812,7 @@ Można prać ręcznie w temperaturze 30°.
 <nazwa>PETITE&amp;MARS 623749 Pluszowa laleczka Hannah 0+ 35 cm</nazwa>
 <cena>40.20</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>8596202008828</EAN>
 <grupa>PETITE&amp;MARS/ZABAWKI</grupa>
@@ -267190,7 +267254,7 @@ Wyjątkowe komplety dla niemowląt i małych dzieci z pokryciem z bawełny z bam
 <nazwa>POLDAUN Wypełnienie VITAMED 100x135+40x60 całoroczny</nazwa>
 <cena>40.28</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903753003326</EAN>
 <grupa>POLDAUN</grupa>
@@ -274700,7 +274764,7 @@ Specyfikacja:
 <nazwa>SMILY PLAY AN85073 Zestaw narzędzi</nazwa>
 <cena>10.26</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375850739</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
@@ -274712,7 +274776,7 @@ Specyfikacja:
 <nazwa>SMILY PLAY AN85075 Zestaw warzywa</nazwa>
 <cena>16.62</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375850753</EAN>
 <grupa>SMILY PLAY/ZABAWKI EDUKACYJNE</grupa>
@@ -275525,7 +275589,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83943 Lalka Julka uczy, śpiewa</nazwa>
 <cena>29.90</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375839437</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
@@ -275549,7 +275613,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83944 Lalka Julka uczy, śpiewa</nazwa>
 <cena>26.59</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375839444</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
@@ -277933,8 +277997,8 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-002-108 Nakładka sedesowa antypoślizgowa LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902963015129</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
 <opis>• Nakładka sedesowa dwukomponentowa z oparciem.
@@ -277984,7 +278048,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-002-112 Nakładka sedesowa antypoślizgowa LEŚNA OPOWIEŚĆ j.zielony</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963015099</EAN>
 <grupa>TEGA/NAKŁADKI NA WC</grupa>
@@ -278108,7 +278172,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-004-109 Wanna dziecięca 86 cm LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>25.00</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963015013</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -278168,7 +278232,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-005-108 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071989</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -278374,8 +278438,8 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-091-107 Nocnik LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>9.74</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902963071651</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik o nowoczesnym kształcie.
@@ -278391,7 +278455,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-091-108 Nocnik LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>9.15</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071644</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -278408,7 +278472,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-091-109 Nocnik LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>9.74</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071637</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -280142,7 +280206,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-047-106 Nocnik antypoślizgowy z pozytywką SOWA szary</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963010018</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -280224,7 +280288,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-057-140 Nocnik ECO z pozytywką  SŁOŃ turkus</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963010230</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -280236,7 +280300,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-057-162 Nocnik ECO z pozytywką SŁOŃ szary</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902963010247</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -280308,8 +280372,8 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-059-104 Nocnik z pozytywką ECO KRÓLICZKI j.różowy</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5902963010292</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Ergonomiczny nocnik ECO wykonany z wysokiej jakości plastiku, całkowicie bezpiecznego dla dzieci.
@@ -280952,8 +281016,8 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-079-164 Nocnik antypoślizgowy z pozytywką METEO granatowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5902963002884</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
 <opis>• Dwukomponentowy, stabilny nocnik z pozytywką.
@@ -290046,8 +290110,8 @@ Waga opakowania zbiorczego (kg): 0.410000</opis>
 <nazwa>TREFL 02808 Gra Skojarzenia / Mały Odkrywca</nazwa>
 <cena>16.18</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900511028089</EAN>
 <grupa>TREFL</grupa>
 <opis>Poznajcie wyjątkową układankę edukacyjną Skojarzenia, która w prosty i przyjemny sposób wprowadza maluchy w świat nauki nazywania i klasyfikowania przedmiotów oraz zjawisk!. To nie tylko nauka, ale też świetna zabawa rozwijająca koncentrację, spostrzegawczość i umiejętności manualne. Idealny pomysł na prezent, który wspiera wszechstronny rozwój Twojego dziecka!
@@ -290260,7 +290324,7 @@ Waga opakowania zbiorczego (kg): 1.140000</opis>
 <nazwa>TREFL 02819 Gra Grzybobranie / Rodzina Treflików</nazwa>
 <cena>30.85</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900511028195</EAN>
 <grupa>TREFL</grupa>
@@ -297800,7 +297864,7 @@ Wymiary opakowania: 15.5 x 25.2 x 10.2 cm</opis>
 <nazwa>TREFL 61342 Zabawka drewniana Wagoniki z Afryki</nazwa>
 <cena>46.07</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900511613421</EAN>
 <grupa>TREFL</grupa>
@@ -301286,7 +301350,7 @@ Cechy produktu:
 <nazwa>TULI FUN TF 30132 Pociąg Puk Puk</nazwa>
 <cena>37.61</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692301327</EAN>
 <grupa>DUMEL/TULI FUN</grupa>
@@ -306925,6 +306989,17 @@ Waga:	0.2 kg</opis>
 <zdjecia>https://marini.pl/b2b/pictures/5913327-1.jpg https://marini.pl/b2b/pictures/5913327-2.jpg https://marini.pl/b2b/pictures/5913327-3.jpg https://marini.pl/b2b/pictures/5913327-4.jpg https://marini.pl/b2b/pictures/5913327-5.jpg</zdjecia>
 </b2b>
 <b2b>
+<kod>59115504</kod>
+<nazwa>Viga 44271N PolarB Drewniana toaletka z akcesoriami do zabawy</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>6971608442711</EAN>
+<grupa>VIGA</grupa>
+<opis/>
+</b2b>
+<b2b>
 <kod>5914869</kod>
 <nazwa>VIGA 44272 PolarB Gra zręcznościowa - rzut do celu</nazwa>
 <cena>35.95</cena>
@@ -307622,6 +307697,28 @@ Zabawka rozwija:
 - Samodzielność i kreatywność dziecka
 </opis>
 <zdjecia>https://marini.pl/b2b/pictures/59114655-1.jpg https://marini.pl/b2b/pictures/59114655-2.jpg https://marini.pl/b2b/pictures/59114655-3.jpg https://marini.pl/b2b/pictures/59114655-4.jpg</zdjecia>
+</b2b>
+<b2b>
+<kod>59115503</kod>
+<nazwa>Viga 44302 PolarB Drewniana tablica manipulacyjna wielofunkcyjna</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>6971608443022</EAN>
+<grupa>VIGA</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>59115502</kod>
+<nazwa>VIGA 44305 Drewniany serwis do kawy i herbaty z tacą</nazwa>
+<cena>0.00</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>6971608443053</EAN>
+<grupa>VIGA</grupa>
+<opis/>
 </b2b>
 <b2b>
 <kod>5913326</kod>
@@ -327579,7 +327676,7 @@ Waga
 <nazwa>WOOPIE 58908 Klocki magnetyczne 54 el. kostki montessori</nazwa>
 <cena>44.60</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280658908</EAN>
 <grupa>WOOPIE</grupa>
@@ -327611,7 +327708,7 @@ Zabawka rozwija:
 <nazwa>WOOPIE 58922 Magnetyczne Pixele Konstrukcyjne Las 75 el.</nazwa>
 <cena>67.68</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280658922</EAN>
 <grupa>WOOPIE</grupa>
@@ -328054,7 +328151,7 @@ Waga
 <nazwa>WOOPIE 59431 Zawieszka do wózka łóżeczka sensoryczna</nazwa>
 <cena>23.70</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280659431</EAN>
 <grupa>WOOPIE</grupa>
@@ -328113,7 +328210,7 @@ Waga
 <nazwa>WOOPIE 59448 Zawieszka do wózka łóżeczka sensoryczna</nazwa>
 <cena>23.70</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280659448</EAN>
 <grupa>WOOPIE</grupa>
@@ -329315,8 +329412,8 @@ Waga
 <nazwa>WOOPIE BABY 59172 Pianinko interaktywne helikopter</nazwa>
 <cena>19.64</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5906280659172</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Odlotowa zabawa pełna dźwięków! Interaktywne pianinko marki WOOPIE w kształcie turkusowego helikoptera z pilotem słoniem to zabawka, która zabierze Twoje dziecko w świat muzycznych odkryć. Dzięki połączeniu efektów dźwiękowych, świetlnych oraz elementów manipulacyjnych, każdy maluch poczuje radość z tworzenia własnych melodii.
@@ -329350,8 +329447,8 @@ Wyobraźnię</opis>
 <nazwa>WOOPIE BABY 59189 Interaktywne muzyczne pianinko lokomotywa</nazwa>
 <cena>19.64</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5906280659189</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Interaktywne muzyczne pianinko w kształcie uroczej lokomotywy od marki WOOPIE BABY to doskonała propozycja, aby rozpocząć muzyczną przygodę Twojego maluszka. Zabawka została zaprojektowana specjalnie z myślą o wczesnej edukacji, łącząc żywe kolory, radosne dźwięki oraz elementy wspierające sensorykę. Wygodny, koralikowy uchwyt pełni funkcję grzechotki i jest idealnie dostosowany do małych rączek dziecka, co ułatwia bezpieczne chwytanie. Lokomotywa posiada cztery duże, kolorowe klawisze (Do, Re, Mi, Fa), a także dodatkowe przyciski uaktywniające muzykę i wesołe melodie. To nie tylko wciągająca zabawa z uroczym zajączkiem maszynistą, ale przede wszystkim narzędzie wspierające prawidłowy rozwój zmysłów i motoryki.
