@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-09-18T20:55:04.850">
+<MARINI timestamp="2026-09-19T20:55:04.760">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -1920,7 +1920,7 @@ Opakowanie zawiera 30 szt. woreczków.</opis>
 <nazwa>AKUKU A0015 Zestaw pielęgnacyjny Grey HOOLIGANS</nazwa>
 <cena>26.52</cena>
 <VAT>23</VAT>
-<ilosc>45</ilosc>
+<ilosc>44</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000159</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2020,7 +2020,7 @@ WAŻNE: Aby bidon NIE ZAMYKAŁ się podczas picia, należy go otworzyć maksymal
 <nazwa>AKUKU A0034 Bidon ze słomką z odważnikiem SZARY</nazwa>
 <cena>19.43</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000340</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -2139,7 +2139,7 @@ W komplecie: 5 szt. woreczków.</opis>
 <nazwa>AKUKU A0065 Cążki do paznokci Grey</nazwa>
 <cena>3.49</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000654</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2259,7 +2259,7 @@ grzebień: 15 × 3 × 0,5 cm</opis>
 <nazwa>AKUKU A0100 Zestaw sztućców metalowych grey</nazwa>
 <cena>9.98</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644001002</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
@@ -2307,7 +2307,7 @@ W zestawie:
 <nazwa>AKUKU A0103 Sztućce metalowe 3 szt</nazwa>
 <cena>8.87</cena>
 <VAT>23</VAT>
-<ilosc>34</ilosc>
+<ilosc>33</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644001033</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
@@ -2607,7 +2607,7 @@ Pojemność 280 ml
 <nazwa>AKUKU A0166 Bidon ze słomką z odważnikiem blue/grey</nazwa>
 <cena>13.45</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644001668</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -4908,7 +4908,7 @@ Rozmiar podkładu: szerokość 14,5 cm, długość 36,5 cm, grubość 0,5 cm</op
 <nazwa>AKUKU A0661 Ręcznik kąpielowy frotte z kapturkiem biały</nazwa>
 <cena>29.96</cena>
 <VAT>23</VAT>
-<ilosc>28</ilosc>
+<ilosc>27</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006618</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -4981,7 +4981,7 @@ Przeznaczony dla dzieci 0m+</opis>
 <nazwa>AKUKU A0664 Ręcznik kąpielowy frotte z kapturkiem róż</nazwa>
 <cena>29.96</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>36</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006649</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -14987,8 +14987,8 @@ Rożek nie jest zabawką. Przy korzystaniu z funkcji maty do leżakowania, zabez
 <nazwa>ALBERO MIO Rożek niemowlęcy 440 Baletnica</nazwa>
 <cena>54.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907001940692</EAN>
 <grupa>ALBERO MIO/AKCESORIA/ROŻKI</grupa>
 <opis>Rożek niemowlęcy to obowiązkowy produkt każdej wyprawki. W pierwszych miesiącach życia świetnie sprawdza się jako śpiworek do spania, zapewniając maluszkowi ciepło i poczucie bezpieczeństwa. Z biegiem czasu posłuży jako mata do zabawy, kocyk czy śpiworek do gondoli.
@@ -26611,7 +26611,7 @@ Dla chłopców i dziewczynek</opis>
 <nazwa>AVENT SCY670/01 Butelka Natural Responsywna 125 ml</nazwa>
 <cena>30.49</cena>
 <VAT>23</VAT>
-<ilosc>66</ilosc>
+<ilosc>64</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103990338</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27081,7 +27081,7 @@ Butelka dla niemowląt 260 ml: 1 pcs</opis>
 <nazwa>AVENT SCY906/01 Butelka Responsywna Natural 330 ml</nazwa>
 <cena>33.28</cena>
 <VAT>23</VAT>
-<ilosc>37</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103989752</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27219,7 +27219,7 @@ Bez BPA</opis>
 <nazwa>AVENT SCY961/02 Smoczek Responsywny Natural 0m Extra slow (1)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>140</ilosc>
+<ilosc>139</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103985075</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
@@ -27315,7 +27315,7 @@ Zawartość zestawu
 <nazwa>AVENT SCY964/02 Smoczek Responsywny Natural 3m+ Fast (4)</nazwa>
 <cena>20.78</cena>
 <VAT>5</VAT>
-<ilosc>94</ilosc>
+<ilosc>93</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103985136</EAN>
 <grupa>AVENT/SMOCZKI I USTNIKI/SMOCZKI DO BUTELEK</grupa>
@@ -27485,7 +27485,7 @@ spełnia najbardziej rygorystyczne normy bezpieczeństwa</opis>
 <nazwa>AXIOM 9009 Miluś Królik różowy 25x25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>40</ilosc>
+<ilosc>39</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209890095</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -30604,8 +30604,8 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB001379 Snackbox pojemnik na przekąski dla dziecka Night Vision</nazwa>
 <cena>35.46</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>9353965013792</EAN>
 <grupa>B.BOX</grupa>
 <opis/>
@@ -33098,8 +33098,8 @@ b.box for kids / b.box for kids Europe B.V.; Level 3, 1 Acacia Place, Notting Hi
 <nazwa>B.BOX BB00699 Snackbox pojemnik na przekąski Chill Out</nazwa>
 <cena>38.18</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>9353965006992</EAN>
 <grupa>B.BOX</grupa>
 <opis>Uniwersalny pojemnik na przekąski z elastyczną uszczelką umożliwiającą schowanie do niego całego owocu takiego jak jabłko. Przegrody są szczelne i można ich używać do przecierów, jogurtów i dipów.
@@ -44352,7 +44352,7 @@ nie zawiera Bisfenolu A</opis>
 <nazwa>B.O.1062/02 Talerzyk dla dzieci i niemowląt z przyssawką*</nazwa>
 <cena>12.51</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435411100</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE/NACZYNIA</grupa>
@@ -44425,7 +44425,7 @@ Sztućce nadają się do mycia w zmywarce.
 <nazwa>B.O.1065/03 Sztućce dla dzieci ze stali szlachetnej beżowe</nazwa>
 <cena>10.03</cena>
 <VAT>23</VAT>
-<ilosc>60</ilosc>
+<ilosc>59</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418598</EAN>
 <grupa>BABYONO/NACZYNIA I SZTUĆCE</grupa>
@@ -45533,7 +45533,7 @@ Waga: 36 g</opis>
 <nazwa>B.O.1469/01 Silikonowa zawieszka do smoczka</nazwa>
 <cena>11.43</cena>
 <VAT>23</VAT>
-<ilosc>38</ilosc>
+<ilosc>37</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435413210</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -51302,7 +51302,7 @@ Wymiary torby: 45 x 12 x 30 cm
 <nazwa>B.O.1673/01 Kocyk bambusowy różowy</nazwa>
 <cena>44.00</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418048</EAN>
 <grupa>BABYONO/KOCYKI</grupa>
@@ -53104,7 +53104,7 @@ Waga opakowania: 0,18 kg</opis>
 <nazwa>B.O.397/07 Naturalne pieluszki z włókien bambusa NATURAL BAMBOO</nazwa>
 <cena>25.00</cena>
 <VAT>5</VAT>
-<ilosc>41</ilosc>
+<ilosc>40</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414477</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -53603,7 +53603,7 @@ Waga: 0,043 KG</opis>
 <nazwa>B.O.500/L Jednorazowe Majtki poporodowe L</nazwa>
 <cena>8.60</cena>
 <VAT>23</VAT>
-<ilosc>61</ilosc>
+<ilosc>60</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904341203623</EAN>
 <grupa>BABYONO/DLA MAMY/MAJTKI POPORODOWE</grupa>
@@ -53992,7 +53992,7 @@ Właściwości:
 <nazwa>B.O.513/12 Podkłady higieniczne 40x60cm 10 sztuk + 2 gratis</nazwa>
 <cena>7.15</cena>
 <VAT>23</VAT>
-<ilosc>103</ilosc>
+<ilosc>102</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435417980</EAN>
 <grupa>BABYONO/DLA MAMY/PODKŁADY</grupa>
@@ -54223,7 +54223,7 @@ Dane techniczne:
 <nazwa>B.O.542 Książeczka sensoryczna BLACK&amp;WHITE</nazwa>
 <cena>16.32</cena>
 <VAT>23</VAT>
-<ilosc>49</ilosc>
+<ilosc>48</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435412800</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -55360,7 +55360,7 @@ Dane techniczne:
 <nazwa>B.O.599 Podkłady poporodowe NIGHT &amp; DAY</nazwa>
 <cena>7.97</cena>
 <VAT>5</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435412251</EAN>
 <grupa>BABYONO/DLA MAMY/PODKŁADY</grupa>
@@ -57040,7 +57040,7 @@ W zestawie 2 sztuki</opis>
 <nazwa>B.O.879/16 Śliniak apaszka FLORAL</nazwa>
 <cena>12.40</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435414965</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -57176,7 +57176,7 @@ Właściwości:
 <nazwa>B.O.959 Zabezpieczenia narożników małe</nazwa>
 <cena>5.10</cena>
 <VAT>23</VAT>
-<ilosc>46</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435408100</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
@@ -58159,7 +58159,7 @@ WYMIARY:
 <nazwa>BABY MIX STK-18984 Przytulanka z gryzakiem kotek różowy (szeleścik) 37192</nazwa>
 <cena>13.00</cena>
 <VAT>23</VAT>
-<ilosc>58</ilosc>
+<ilosc>57</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902216914865</EAN>
 <grupa>BABY MIX/ZABAWKI/GRYZAKI</grupa>
@@ -69374,7 +69374,7 @@ W opakowaniu znajduje się 100 szt. Numer serii i data ważności podane na opak
 <nazwa>CANPOL 1/659 Butelka poporodow do podmywania</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>12</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691804883</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -70782,7 +70782,7 @@ Wyjątkowo lekki i cichy, zdecydowanie jeden z najlżejszych laktatorów tego ty
 <nazwa>CANPOL 20/121 Elektryczny aspirator do nosa dla niemowląt i dzieci</nazwa>
 <cena>105.00</cena>
 <VAT>23</VAT>
-<ilosc>148</ilosc>
+<ilosc>147</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407180472</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -73234,7 +73234,7 @@ Więcej informacji znajduje się w instrukcji obsługi dołączonej do smoczka. 
 <nazwa>CANPOL 34/943 Smoczek uspokajający silikonowy 6-18m symetryczny NightGlow  2 szt  niebieski</nazwa>
 <cena>12.99</cena>
 <VAT>5</VAT>
-<ilosc>23</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407362991</EAN>
 <grupa>CANPOL/USPOKAJANIE</grupa>
@@ -75171,7 +75171,7 @@ Nie zawiera BPA.</opis>
 <nazwa>CANPOL 51/500 Silikonowa szczoteczka-gryzaczek z ogranicznikiem różowa</nazwa>
 <cena>11.00</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691835320</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -75407,7 +75407,7 @@ Produkt można podgrzewać w mikrofali</opis>
 <nazwa>CANPOL 56/122 Szczotka do butelek i smoczków</nazwa>
 <cena>6.86</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407561226</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -77176,7 +77176,7 @@ Bez Bisfenolu A</opis>
 <nazwa>CANPOL 70/001 Sterylne torebki do przechowywania pokarmu</nazwa>
 <cena>10.99</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903407700014</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -77531,7 +77531,7 @@ Niebielone chlorem.</opis>
 <nazwa>CANPOL 78/002new2 Wielofunkcyjne podkłady higieniczne 90x60 z przylepcem 12szt.</nazwa>
 <cena>16.96</cena>
 <VAT>8</VAT>
-<ilosc>48</ilosc>
+<ilosc>46</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691894136</EAN>
 <grupa>CANPOL/CIĄŻA I PORÓD</grupa>
@@ -78358,7 +78358,7 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>CANPOL 9/115 Myjka silikonowa do kąpieli różowa</nazwa>
 <cena>18.50</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691839830</EAN>
 <grupa>CANPOL</grupa>
@@ -98531,8 +98531,8 @@ Cechy produktu:
 <nazwa>DUMEL DD 30801 Zwariowana gęś</nazwa>
 <cena>49.45</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905692308012</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
 <opis>Ta gąska czuje rytm jak mało kto! Naciśnij na przycisk z nutką, znajdujący się na jej brzuchu, aby podziwiać jak tańcuje, trzepocząc skrzydłami i kręcąc podświetloną na kolorowo szyją. Gęś mówi w języku polskim, więc zabawi malucha nie tylko tańcem, ale też wesołymi zwrotami, które wypowiada. Dodatkowo, wyposażona jest także w funkcję nagrywania, a za jej aktywowanie odpowiada drugi przycisk, z ikonką mikrofonu. Po nagraniu dowolnego dźwięku, gęś odtworzy dźwięk, modyfikując jego brzmienie.
@@ -99428,7 +99428,7 @@ Zabawka przeznaczona od 12 miesiąca życia.</opis>
 <nazwa>DUMEL DD 32730 Odkrywczy domek</nazwa>
 <cena>182.29</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>661148327307</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -107698,7 +107698,7 @@ EgaKids – miękkość, bezpieczeństwo i funkcjonalność od pierwszych dni ż
 <nazwa>EGA Pielucha tetra druk 70x80 KOKARDKI RÓŻOWE 2200 cena za 1szt / pakowane po 5szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>35</ilosc>
+<ilosc>30</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907810532200</EAN>
 <grupa>EGA KIDS</grupa>
@@ -109088,7 +109088,7 @@ EgaKids – miękkość, bezpieczeństwo i funkcjonalność od pierwszych dni ż
 <nazwa>EGA Pielucha tetra druk 70x80 SZARY CYRK 6858 cena za 1 szt / pakowane po 5 szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907810526858</EAN>
 <grupa>EGA KIDS</grupa>
@@ -109280,7 +109280,7 @@ EgaKids – miękkość, bezpieczeństwo i funkcjonalność od pierwszych dni ż
 <nazwa>EGA Pielucha tetra druk 70x80 ZWIERZAKI NA IMPREZIE 7442 cena za 1 szt /pakowane po 5 szt</nazwa>
 <cena>4.82</cena>
 <VAT>5</VAT>
-<ilosc>20</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907810527442</EAN>
 <grupa>EGA KIDS</grupa>
@@ -122363,7 +122363,7 @@ Do wyboru dwa kolory: biały lub szary</opis>
 <nazwa>FISHER PRICE HTW91 Aktywizujący Jamnik</nazwa>
 <cena>38.91</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>194735199181</EAN>
 <grupa>FISHER PRICE</grupa>
@@ -124727,7 +124727,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 19012 Gryzak pierścień rybka silikon drewno</nazwa>
 <cena>12.50</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>755907190124</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -130438,8 +130438,8 @@ Wymiary: 27.5 cm x 19.5 cm x 7 cm</opis>
 <nazwa>ILTOM 032 Czapka jesień 2020</nazwa>
 <cena>18.29</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5903728606514</EAN>
 <grupa> UBRANKA/CZAPKI/ILTOM</grupa>
 <opis>Czapka dla dziewczynki z dzianiny bawełnianej. Podwójna, od środka wykończona podszewką bawełnianą. Z kolekcji ILTOM Jesień 2020
@@ -138159,7 +138159,7 @@ KOLOR KOKONU - MOKKA</opis>
 <nazwa>KIECZMERSKI Kokon niemowlęcy 55x75 cm MIMINU SOFT pudrowy róż</nazwa>
 <cena>104.88</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907501484528</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -143867,7 +143867,7 @@ KOLOR ROŻKA - MOKKA</opis>
 <nazwa>KIECZMERSKI Rożek standard wiązany MIMINU SOFT 0-3m pudrowy róż</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907501484665</EAN>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
@@ -163191,7 +163191,7 @@ Kod EAN: 5901912246119</opis>
 <nazwa>KLUPŚ Szafa 3-segmentowa LAURA szampan - buk</nazwa>
 <cena>957.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912245839</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
@@ -174497,7 +174497,7 @@ Główka smoczków wykonana jest z silikonu, natomista tarcza i rączka z bezpie
 <nazwa>LOVI 22/869 Smoczek silikonowy dynamiczny 0-6m 2 szt Botanic Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407169309</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -191441,8 +191441,8 @@ Skład surowcowy:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_01] biały</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5902675040525</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
 <opis>Nieprzemakalne i oddychające prześcieradło jersey 
@@ -191493,7 +191493,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne JERSEY 60x120 [TB0241_15] beż</nazwa>
 <cena>31.30</cena>
 <VAT>8</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675079204</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
@@ -267994,17 +267994,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>779715</kod>
-<nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
-<cena>40.68</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5903753003739</EAN>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>771417</kod>
 <nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
 <cena>39.52</cena>
@@ -268012,6 +268001,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN/>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>779715</kod>
+<nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
+<cena>40.68</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN>5903753003739</EAN>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -278277,7 +278277,7 @@ SPECYFIKACJA:
 <nazwa>SMILY PLAY SP83942 Lalka JULKA uczy, śpiewa, opowiada (folia)</nazwa>
 <cena>29.90</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905375839420</EAN>
 <grupa>SMILY PLAY/LALKI</grupa>
@@ -280061,7 +280061,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA DM-037-103 Stojak pod wanienkę składaną biały</nazwa>
 <cena>63.16</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963002969</EAN>
 <grupa>TEGA/PODSTAWY POD WANNĘ</grupa>
@@ -280466,7 +280466,7 @@ Dzięki możliwości złożenia stojak zajmuje niewiele miejsca.</opis>
 <nazwa>TEGA FB-004-106 Wanienka składana z odpływem szary</nazwa>
 <cena>44.74</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905489408925</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -282677,7 +282677,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-026-103 Leżaczek kąpielowy z wizerunkiem Miś biały</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>22</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071040</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -283442,7 +283442,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-072-129 Nocnik KACZKA z pozytywką j.niebieski</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963015815</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -298702,7 +298702,7 @@ rozwijają zdolności manualne u dziecka</opis>
 <nazwa>TREFL 36072 Puzzle Baby Classic Pojazdy na budowie</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511360721</EAN>
 <grupa>TREFL</grupa>
@@ -301496,7 +301496,7 @@ Waga opakowania zbiorczego (kg): 0.850000</opis>
 <nazwa>TREFL 62601 Skillmatics Zestaw kreatywny z magnesami Świat Zwierząt</nazwa>
 <cena>36.06</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5900511626018</EAN>
 <grupa>TREFL</grupa>
