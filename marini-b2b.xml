@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-09-26T20:55:04.957">
+<MARINI timestamp="2026-09-27T20:55:04.897">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -213,7 +213,7 @@ Dzięki zastosowaniu wysokiej jakości materiałów, bez wątpienia zagwarantuje
 <b2b>
 <kod>5907247</kod>
 <nazwa>4 BABY Fotelik ENZO-FIX 40-150cm black I-SIZE</nazwa>
-<cena>445.00</cena>
+<cena>455.00</cena>
 <VAT>5</VAT>
 <ilosc>17</ilosc>
 <stan>duża ilość</stan>
@@ -269698,17 +269698,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>771417</kod>
-<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
-<cena>39.52</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN/>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>779715</kod>
 <nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
 <cena>40.68</cena>
@@ -269716,6 +269705,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN>5903753003739</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>771417</kod>
+<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
+<cena>39.52</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN/>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
