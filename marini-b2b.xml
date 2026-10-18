@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-10-17T19:55:05.287">
+<MARINI timestamp="2026-10-18T20:55:05.087">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -102834,7 +102834,7 @@ GŁÓWNE ZALETY WÓZKA EASYGO ECHO:
 <b2b>
 <kod>5912361</kod>
 <nazwa>EASY GO Wózek dziecięcy FARO CLOUDY GRAY</nazwa>
-<cena>406.00</cena>
+<cena>367.50</cena>
 <VAT>23</VAT>
 <ilosc>8</ilosc>
 <stan>średnia ilość</stan>
@@ -102925,7 +102925,7 @@ Waga: 7,9 kg</opis>
 <b2b>
 <kod>5912357</kod>
 <nazwa>EASY GO Wózek dziecięcy FARO EBONY BLACK</nazwa>
-<cena>406.00</cena>
+<cena>367.50</cena>
 <VAT>23</VAT>
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
@@ -103016,7 +103016,7 @@ Waga: 7,9 kg</opis>
 <b2b>
 <kod>5912358</kod>
 <nazwa>EASY GO Wózek dziecięcy FARO SAGE GREEN</nazwa>
-<cena>406.00</cena>
+<cena>367.50</cena>
 <VAT>23</VAT>
 <ilosc>2</ilosc>
 <stan>mała ilość</stan>
@@ -103107,7 +103107,7 @@ Waga: 7,9 kg</opis>
 <b2b>
 <kod>5912359</kod>
 <nazwa>EASY GO Wózek dziecięcy FARO SAVANNA BEIGE</nazwa>
-<cena>322.00</cena>
+<cena>367.50</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
 <stan>brak</stan>
@@ -104927,7 +104927,7 @@ www.euro-cart.pl</opis>
 <b2b>
 <kod>5912928</kod>
 <nazwa>EASY GO Wózek dziecięcy ZOYA CLOUDY GRAY</nazwa>
-<cena>609.00</cena>
+<cena>546.00</cena>
 <VAT>23</VAT>
 <ilosc>2</ilosc>
 <stan>mała ilość</stan>
@@ -105020,7 +105020,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5912927</kod>
 <nazwa>EASY GO Wózek dziecięcy ZOYA EBONY BLACK</nazwa>
-<cena>609.00</cena>
+<cena>546.00</cena>
 <VAT>23</VAT>
 <ilosc>1</ilosc>
 <stan>mała ilość</stan>
@@ -105113,7 +105113,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5912930</kod>
 <nazwa>EASY GO Wózek dziecięcy ZOYA GOLDEN BEIGE</nazwa>
-<cena>609.00</cena>
+<cena>546.00</cena>
 <VAT>23</VAT>
 <ilosc>4</ilosc>
 <stan>mała ilość</stan>
@@ -105206,7 +105206,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>5912929</kod>
 <nazwa>EASY GO Wózek dziecięcy ZOYA JUNGLE GREEN</nazwa>
-<cena>609.00</cena>
+<cena>546.00</cena>
 <VAT>23</VAT>
 <ilosc>11</ilosc>
 <stan>duża ilość</stan>
@@ -105299,7 +105299,7 @@ Instrukcja obsługi z ostrzeżeniami bezpieczeństwa
 <b2b>
 <kod>59114813</kod>
 <nazwa>EASY GO Wózek dziecięcy ZOYA MOKKA</nazwa>
-<cena>609.00</cena>
+<cena>546.00</cena>
 <VAT>23</VAT>
 <ilosc>4</ilosc>
 <stan>mała ilość</stan>
@@ -269142,17 +269142,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>771417</kod>
-<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
-<cena>39.52</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN/>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>779715</kod>
 <nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
 <cena>40.68</cena>
@@ -269160,6 +269149,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN>5903753003739</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>771417</kod>
+<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
+<cena>39.52</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN/>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
