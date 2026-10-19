@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-10-18T20:55:05.087">
+<MARINI timestamp="2026-10-19T08:55:05.330">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -2937,7 +2937,7 @@ Produkt nie zawiera bisfenolu A.</opis>
 <nazwa>AKUKU A0366 Bidon z miękkim ustnikiem blue</nazwa>
 <cena>8.61</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003662</EAN>
 <grupa>AKUKU/BUTELKI I KUBKI</grupa>
@@ -8264,7 +8264,7 @@ Wypełnienie / refill: pianka poliuretanowa / polyurethane foam</opis>
 <nazwa>ALBERO MIO Mata do przewijania miękka 421 MYSZKA</nazwa>
 <cena>53.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904165684257</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -9472,7 +9472,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt (włóknina) 70x50 443 Kotek</nazwa>
 <cena>36.00</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904165689467</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -9902,7 +9902,7 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Mata do przewijania niemowląt 70x50 439 Owieczki (włóknina)</nazwa>
 <cena>39.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904165687746</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -27458,18 +27458,6 @@ Kategoria wiekowa: 3+</opis>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
 <zdjecia>https://marini.pl/b2b/pictures/5911253-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>5911255</kod>
-<nazwa>AXIOM 9414 Zabawka z dźwiękiem Małpka 17 cm</nazwa>
-<cena>12.43</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN>5904209894147</EAN>
-<grupa>AXIOM- TULILO</grupa>
-<opis/>
-<zdjecia>https://marini.pl/b2b/pictures/5911255-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>5911259</kod>
@@ -73830,8 +73818,8 @@ Proponowany wiek: od 12. miesiąca</opis>
 <nazwa>CANPOL 35/238 Butelka antykolkowa 300ml EasyStart Sleepy Koala niebieska</nazwa>
 <cena>15.20</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901691881686</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
 <opis>Butelka antykolkowa EasyStart została stworzona z myślą o szczęśliwym brzuszku dziecka. Specjalny zaworek antykolkowy zapobiega gromadzeniu się pęcherzyków powietrza w pokarmie, co w połączeniu z odpowiednio dobraną pozycją do karmienia pozwala skutecznie eliminować dolegliwości brzuszkowe Maluszka związane z kolką i wzdęciami.
@@ -78892,8 +78880,8 @@ Przewijak przeznaczony jest do użytkowania na komodzie. Produkt posiada certyfi
 <nazwa>CEBA 102-000-808 Przewijak miękki profilowany krótki 50x70 Basic Cosmic Bear KOSMICZNY MISIU</nazwa>
 <cena>40.60</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907672346434</EAN>
 <grupa>CEBA/PRZEWIJAKI/PRZEWIJAK MIĘKKI PROFILOWANY</grupa>
 <opis>Linia produktów Basic jest odpowiedzią marki Ceba baby na zapotrzebowanie rynku na produkt przystępny cenowo przy zachowaniu tego samego poziomu jakości i bezpieczeństwa. Kompromis ten osiągnięto między innymi poprzez optymalizację kosztów pakowania i logistyki. Dbanie o delikatną i jeszcze nie do końca rozwiniętą skórę dziecka zaczyna się od momentu, kiedy maluszek wita się ze światem. Jego bezpieczeństwo i komfort jest dla każdej mamy bezcennym uczuciem. Przewijak miękki mały zapewni każdej mamie i jej maleństwu komfort i bezpieczeństwo. Przewijak miękki profilowany marki Ceba Baby jest przeznaczony do użytkowania na twardym podłożu: specjalnej komodzie z miejscem na przewijak lub każdej innej twardej powierzchni. Produkt posiada certyfikat Oeko-Tex Standard 100.</opis>
@@ -161764,7 +161752,7 @@ opcja dołączenia pojemnika na pościel, 2 wyjmowane szczeble, 3 poziomy matera
 <nazwa>KLUPŚ Łóżeczko AMELIA II dąb 120x60</nazwa>
 <cena>390.00</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245273</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -162164,7 +162152,7 @@ Kod EAN: 5901912245464</opis>
 <nazwa>KLUPŚ Łóżeczko OLIVIA buk 120x60</nazwa>
 <cena>333.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912245433</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -162202,7 +162190,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA białe 120x60</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912240421</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -162223,7 +162211,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA biel-orzech</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912244832</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -162849,8 +162837,8 @@ Kod EAN: 5901912245921</opis>
 <nazwa>KLUPŚ Pojemnik na pościel 120x60 Amelia biel</nazwa>
 <cena>101.00</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912245280</EAN>
 <grupa>KLUPŚ/MEBLE/POZOSTAŁE</grupa>
 <opis/>
@@ -172932,7 +172920,7 @@ płyta meblowa</opis>
 <nazwa>LITTLE SKY by KLUPŚ Nakładka na komodę buk</nazwa>
 <cena>68.00</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912245594</EAN>
 <grupa>KLUPŚ/  LITTLE SKY BY KLUPŚ</grupa>
@@ -180278,7 +180266,7 @@ polipropylen</opis>
 <nazwa>MALTEX SET LUNA LEŚNA FERAJNA Stolik dla dzieci + krzesełko biały/zielony</nazwa>
 <cena>140.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5903067008499</EAN>
 <grupa>MALTEX</grupa>
@@ -191810,7 +191798,7 @@ Brutto: 4 kg</opis>
 <nazwa>MILLY MALLY 2193 Koń Polly Dark Brown</nazwa>
 <cena>217.19</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761123982</EAN>
 <grupa>MILLY MALLY/KONIKI NA BIEGUNACH</grupa>
@@ -200164,7 +200152,7 @@ Waga z opakowaniem- 0,88 kg</opis>
 <nazwa>MILLY MALLY 4751 Wózek dla lalek Natalie Prestige Navy</nazwa>
 <cena>57.86</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761128178</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -202550,7 +202538,7 @@ www.pminvestment.pl/manual/polly_manual.pdf</opis>
 <nazwa>MILLY MALLY 5467 Koń Polly White</nazwa>
 <cena>217.19</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901761128666</EAN>
 <grupa>MILLY MALLY/KONIKI NA BIEGUNACH</grupa>
@@ -203288,7 +203276,7 @@ Waga brutto: 1,6 kg</opis>
 <nazwa>MILLY MALLY 5520 Wózek dla lalek Kate Prestige Black</nazwa>
 <cena>63.96</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761128765</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -216863,7 +216851,7 @@ email: info@pminvestment.pl
 <nazwa>MILLY MALLY 6240 Wózek dla lalek Julia Nature</nazwa>
 <cena>25.14</cena>
 <VAT>23</VAT>
-<ilosc>28</ilosc>
+<ilosc>27</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700085</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -217188,7 +217176,7 @@ www.pminvestment.pl/manual/dori_manual.pdf</opis>
 <nazwa>MILLY MALLY 6244 Wózek dla lalek Kate Nature</nazwa>
 <cena>68.40</cena>
 <VAT>23</VAT>
-<ilosc>75</ilosc>
+<ilosc>74</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700122</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -217273,7 +217261,7 @@ www.pminvestment.pl/manual/kate_manual.pdf</opis>
 <nazwa>MILLY MALLY 6245 Wózek dla lalek Alice Nature</nazwa>
 <cena>91.60</cena>
 <VAT>23</VAT>
-<ilosc>31</ilosc>
+<ilosc>26</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090700139</EAN>
 <grupa>MILLY MALLY/WÓZKI DLA LALEK</grupa>
@@ -229437,7 +229425,7 @@ www.pminvestment.pl/manual/guardy83_manual.pl</opis>
 <nazwa>MILLY MALLY 6578 Bramka zabezpieczająca - barierka na schody z rozszerzeniem Guardy 104 Black Natural</nazwa>
 <cena>111.40</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907090700795</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
@@ -237568,7 +237556,7 @@ Waga brutto: 3 kg</opis>
 <nazwa>MILLY MALLY 7018 Koń Teddy dark brown</nazwa>
 <cena>117.62</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907090701402</EAN>
 <grupa>MILLY MALLY</grupa>
@@ -247389,7 +247377,7 @@ www.pminvestment.pl/manual/milly_manual.pdf</opis>
 <nazwa>MILLY MALLY Zabawka pluszowa z projektorem Milly Bear White</nazwa>
 <cena>62.38</cena>
 <VAT>23</VAT>
-<ilosc>45</ilosc>
+<ilosc>42</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901761128840</EAN>
 <grupa>MILLY MALLY/POZOSTAŁE</grupa>
@@ -252738,7 +252726,7 @@ waga produktu: 2,3 / 3 kg</opis>
 <nazwa>MOOVKEE Jeździk RETRO pink</nazwa>
 <cena>79.00</cena>
 <VAT>23</VAT>
-<ilosc>46</ilosc>
+<ilosc>45</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904722259027</EAN>
 <grupa>MOOVKEE</grupa>
@@ -256372,7 +256360,7 @@ MUSHIE to marka stworzona w Stanach Zjednoczonych w 2018 r. przez mamę - Mushie
 <nazwa>Mushie MU102186 Kostka Manipulacyjna</nazwa>
 <cena>53.68</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>840355804546</EAN>
 <grupa>MUSHIE</grupa>
@@ -266655,7 +266643,7 @@ Uppababy: Ridge</opis>
 <nazwa>PETITE&amp;MARS 560321 Zimowy śpiworek Hygge 4w1 Rich Brown</nazwa>
 <cena>174.38</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>8596202018865</EAN>
 <grupa>PETITE&amp;MARS/ŚPIWORY</grupa>
@@ -283362,7 +283350,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-005-LUX-118 Wanna dziecięca 102 cm  MIŚ biała perła</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963008794</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -283615,21 +283603,6 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 • Ergonomiczny kształt zwiększa komfort.
 • Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland</opis>
 <zdjecia>https://marini.pl/b2b/pictures/764998-1.jpg</zdjecia>
-</b2b>
-<b2b>
-<kod>764996</kod>
-<nazwa>TEGA PK-003-102 Fotelik do kąpieli antypoślizgowy PIES I KOT żółty WYPRZEDAŻ</nazwa>
-<cena>14.53</cena>
-<VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
-<EAN>5902963009203</EAN>
-<grupa>TEGA/LEŻACZKI DO WANNY</grupa>
-<opis>• Wykonany z wysokiej jakości plastiku, stabilny fotelik do kąpieli.
-• Anatomiczny kształt oraz antypoślizgowe nóżki gwarantują bezpieczeństwo użytkowania.
-• Zdobiony niezmywalną grafiką wykonaną w nowoczesnej technologii IML.
-• Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
-<zdjecia>https://marini.pl/b2b/pictures/764996-1.jpg</zdjecia>
 </b2b>
 <b2b>
 <kod>787101</kod>
@@ -284326,7 +284299,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-072-129 Nocnik KACZKA z pozytywką j.niebieski</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963015815</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -284664,7 +284637,7 @@ Zaprojektowany, by zapewnić maksymalną wygodę oraz bezpieczeństwo dziecku po
 <nazwa>TEGA PO-080-165 Nocnik z pozytywką ECO METEO turkusowy</nazwa>
 <cena>13.82</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963002938</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -304809,8 +304782,8 @@ biuro@tullo.pl
 <nazwa>TULLO 712 Gniotek sensoryczny</nazwa>
 <cena>18.32</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905094777126</EAN>
 <grupa>TULLO/SENSORYCZNE</grupa>
 <opis>Gniotek sensoryczny Squishy – sorter kolorów z żelem i kuleczkami
@@ -307368,8 +307341,8 @@ Waga:	0.4 kg</opis>
 <nazwa>Viga 44060 PolarB Truskawkowy tort urodzinowy do krojenia</nazwa>
 <cena>52.14</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>6971608440601</EAN>
 <grupa>VIGA</grupa>
 <opis>Przedstawiamy drewnianą zabawkę marki VIGA – truskawkowy tort urodzinowy do krojenia z serii POLAR BEAR.
@@ -336183,7 +336156,7 @@ Nie prać, nie chlorować, nie prasować, czyścić chemicznie delikatnie, suszy
 <nazwa>Zazu ZA-ROCKER-01 Bujak do Wózka Black</nazwa>
 <cena>136.94</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>794712495635</EAN>
 <grupa>ZAZU</grupa>
