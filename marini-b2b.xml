@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-10-23T21:55:04.360">
+<MARINI timestamp="2026-10-24T20:55:05.073">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -228,7 +228,7 @@ Enzo-Fix to fotelik, który rośnie razem z dzieckiem.
 <nazwa>4 BABY Fotelik HI-FIX 125-150cm DARK GREEN I-SIZE</nazwa>
 <cena>129.00</cena>
 <VAT>5</VAT>
-<ilosc>53</ilosc>
+<ilosc>52</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691959804</EAN>
 <grupa>4BABY/FOTELIKI/HI-FIX</grupa>
@@ -3329,7 +3329,7 @@ Wymiary:
 <nazwa>AKUKU A0471 Pluszowa zawieszka krówka czarno biała</nazwa>
 <cena>13.83</cena>
 <VAT>23</VAT>
-<ilosc>88</ilosc>
+<ilosc>86</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004713</EAN>
 <grupa>AKUKU/POZYTYWKI I ZAWIESZKI</grupa>
@@ -3978,7 +3978,7 @@ Produkt całkowicie wolny od bisfenolu A (0% BPA).</opis>
 <nazwa>AKUKU A0580 Tasiemka do smoczka Dinusie</nazwa>
 <cena>8.12</cena>
 <VAT>23</VAT>
-<ilosc>23</ilosc>
+<ilosc>22</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005802</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
@@ -5164,7 +5164,7 @@ Rozmiar: 110 x 105 cm (+/- 2cm)
 <nazwa>AKUKU A0687 Jednorazowe chusteczki bambusowe 18x25 cm 100 szt</nazwa>
 <cena>8.10</cena>
 <VAT>23</VAT>
-<ilosc>87</ilosc>
+<ilosc>86</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644006878</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -5920,7 +5920,7 @@ Instrukcja czyszczenia: Utrzymuj zabawkę w czystości. Prać ręcznie, suszyć 
 <nazwa>AKUKU A0705 Piszczek Kotek</nazwa>
 <cena>6.55</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644007059</EAN>
 <grupa>AKUKU/ZABAWKI</grupa>
@@ -6091,7 +6091,7 @@ Ostrzeżenie! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym d
 <nazwa>AKUKU A0710 Bezpieczne patyczki do uszu dla niemowląt</nazwa>
 <cena>2.15</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>24</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644007103</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -6295,8 +6295,8 @@ W opakowaniu 1 sztuka.</opis>
 <nazwa>AKUKU A0720 Myjka ecru XL 100% bawełna</nazwa>
 <cena>3.29</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907644007202</EAN>
 <grupa>AKUKU/POZOSTAŁE</grupa>
 <opis>Akuku Rękawica myjka XL – 100% bawełna
@@ -8668,7 +8668,7 @@ Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie 
 <nazwa>ALBERO MIO Mata do przewijania miękka 450 Pastelowy ogród</nazwa>
 <cena>51.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907001941781</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/MATY DO PRZEWIJANIA</grupa>
@@ -13035,8 +13035,8 @@ Producent informuje, że pokazana na zdjęciu kolorystyka może nieznacznie ró�
 <nazwa>ALBERO MIO Przewijak podróżny NEW CP6 Lot balonem</nazwa>
 <cena>30.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904165687265</EAN>
 <grupa>ALBERO MIO/PRZEWIJAKI I MATY/PRZEWIJAKI MIĘKKIE I TWARDE</grupa>
 <opis>Przewijak podróżny (PP), czyli inaczej składana mata do przewijania. Wymiar rozłożonej maty to długość 77 cm i szerokość 44 cm (+/-2 cm), w łatwy sposób składa się ją do mniejszych wymiarów, które wynoszą po złożeniu około długość 20 cm i szerokość 29 cm. Zajmuje mało miejsca w torbie dziecięcej.
@@ -26301,7 +26301,7 @@ Zawartość zestawu
 <nazwa>AVENT SCY673/01 Butelka Natural Responsywna 260 ml</nazwa>
 <cena>33.28</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>8710103990383</EAN>
 <grupa>AVENT/BUTELKI I KUBKI/BUTELKI</grupa>
@@ -27255,7 +27255,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9194 Pozytywka Króliczek różowy 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>48</ilosc>
+<ilosc>47</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209891948</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -29379,7 +29379,7 @@ Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadzorem osoby dor
 <nazwa>B.BOX 63211 Zestaw Mini Lunchbox + butelka tritanowa ze słomką 450ml Indigo Rose</nazwa>
 <cena>96.67</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905450163211</EAN>
 <grupa>B.BOX</grupa>
@@ -46398,8 +46398,8 @@ Kolor: fioletowy – może nieznacznie różnić się od zaprezentowanych zdję�
 <nazwa>B.O.1541 Niania elektroniczna Wideo CALMA</nazwa>
 <cena>243.00</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435415641</EAN>
 <grupa>BABYONO/ELEKTRONIKA</grupa>
 <opis>Niania Elektroniczna Babyono CALMA
@@ -53595,7 +53595,7 @@ MAJTKI SIATECZKOWE WIELORAZOWE:
 <nazwa>B.O.505/L Poporodowy pas brzuszny L</nazwa>
 <cena>46.59</cena>
 <VAT>8</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5906699072869</EAN>
 <grupa>BABYONO/DLA MAMY/BIELIZNA I PASY</grupa>
@@ -55336,7 +55336,7 @@ Właściwości:
 <nazwa>B.O.723/03 Szczoteczka do zębów dla niemowląt na palec różowa</nazwa>
 <cena>3.51</cena>
 <VAT>23</VAT>
-<ilosc>44</ilosc>
+<ilosc>43</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435412893</EAN>
 <grupa>BABYONO/PIELĘGNACJA</grupa>
@@ -56009,7 +56009,7 @@ WŁAŚCIWOŚCI TECHNICZNE
 <nazwa>B.O.796/02 Termofor z pestkami wiśni CHERRY szary</nazwa>
 <cena>21.50</cena>
 <VAT>8</VAT>
-<ilosc>63</ilosc>
+<ilosc>62</ilosc>
 <stan>duża ilość</stan>
 <EAN>5905317670081</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -70222,7 +70222,7 @@ Proponowany wiek 0m+</opis>
 <nazwa>CANPOL 2/817 Kostka edukacyjna miękka 6szt</nazwa>
 <cena>19.86</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407028170</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70278,7 +70278,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/919 Śliniak plastikowy miękki - mint bear</nazwa>
 <cena>5.70</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691854543</EAN>
 <grupa>CANPOL/KARMIENIE</grupa>
@@ -74311,7 +74311,7 @@ Do użytku w mikrofali</opis>
 <nazwa>CANPOL 5/119 Aspirator do nosa - wyrób medyczny</nazwa>
 <cena>23.30</cena>
 <VAT>8</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691807570</EAN>
 <grupa>CANPOL/PIELĘGNACJA</grupa>
@@ -76347,7 +76347,7 @@ Grzechotka z kolorowymi koralikami i lusterkiem - zachęci dziecko do zabawy.
 <nazwa>CANPOL 68/071 Zawieszka do wózka /fotelika SENSORY TOYS czerwona</nazwa>
 <cena>28.06</cena>
 <VAT>23</VAT>
-<ilosc>31</ilosc>
+<ilosc>30</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407680712</EAN>
 <grupa>CANPOL/SPACERY I PODRÓŻE</grupa>
@@ -92765,7 +92765,7 @@ Opisy są własnością firmy  Damizabawki.pl, Hutnicza 38, 81-061 Gdynia. Firma
 <nazwa>DANPOL Materac ECO KOMFORT 120x60x10 T18 DP/M</nazwa>
 <cena>87.50</cena>
 <VAT>23</VAT>
-<ilosc>54</ilosc>
+<ilosc>53</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903003142867</EAN>
 <grupa>DANPOL</grupa>
@@ -93220,7 +93220,7 @@ Szczotka posiada kanałw kształcie litery V do czyszczenia smoczków.</opis>
 <nazwa>Dr.Browns AC023 Szczotka do butelek mix koloru</nazwa>
 <cena>20.60</cena>
 <VAT>23</VAT>
-<ilosc>29</ilosc>
+<ilosc>28</ilosc>
 <stan>duża ilość</stan>
 <EAN>072239300138</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
@@ -132578,7 +132578,7 @@ Ponadczasowe i dla każdego. Odpowiednio dobrane kolory i designerski wygląd w 
 <nazwa>INNOGIO LJC-101 Lampka silikonowa GIO Kitty Midi</nazwa>
 <cena>59.95</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903317816058</EAN>
 <grupa>INNOGIO</grupa>
@@ -135120,7 +135120,7 @@ Wymiary: 40 x 37 x 21</opis>
 <nazwa>KEEEPER IGOR LION KING Podest dziecięcy dwustopniowy z funkcją antypoślizgową biały</nazwa>
 <cena>30.11</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>4052396117431</EAN>
 <grupa>KEEEPER/STOPNIE</grupa>
@@ -143427,7 +143427,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 <nazwa>KIECZMERSKI Rożek standard wiązany MIMINU SOFT 0-3m beż</nazwa>
 <cena>69.51</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907501484658</EAN>
 <grupa>KIECZMERSKI- MIMINU/ROŻKI</grupa>
@@ -145499,7 +145499,7 @@ WAŻNE - ZACHOWAJ NA PRZYSZŁOŚĆ! Instrukcje użytkowania! Prać w temperaturz
 <nazwa>KIECZMERSKI Śpiworek do spania ocieplany z nogawkami MIMINU SOFT FLO S błękit 80/98cm 1-2,5 roku</nazwa>
 <cena>92.68</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907378106585</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -156760,8 +156760,8 @@ Wiek: od 9 miesięcy do 5 lat</opis>
 <nazwa>KINDERKRAFT Rowerek trójkołowy AVEO 2 Plus Beige</nazwa>
 <cena>387.75</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5902533929498</EAN>
 <grupa>KINDERKRAFT/ROWERKI</grupa>
 <opis>Kinderkraft AVEO 2 PLUS - rowerek trójkołowy | 6 funkcji, siedzisko 360°, pozycja leżąca
@@ -160928,7 +160928,7 @@ Rozmiar zewnętrzny (cm): 111x79x55</opis>
 <nazwa>KLUPŚ Komoda  z przewijakiem SAFARI ŻYRAFKA biel-orzech</nazwa>
 <cena>490.00</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901912244849</EAN>
 <grupa>KLUPŚ/MEBLE/KOMODY</grupa>
@@ -161719,8 +161719,8 @@ Między listwami dna znajdują się wolne przestrzenie dzięki czemu powietrze m
 <nazwa>KLUPŚ Łóżeczko KAROLINA I biała</nazwa>
 <cena>263.00</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901912244702</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
 <opis>Wymiary paczki   124x70x13  waga 23kg</opis>
@@ -161910,7 +161910,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA białe 120x60</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912240421</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -161931,7 +161931,7 @@ Cechy i funkcje:
 <nazwa>KLUPŚ Łóżeczko SAFARI ŻYRAFKA biel-orzech</nazwa>
 <cena>298.00</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901912244832</EAN>
 <grupa>KLUPŚ/MEBLE/ŁÓŻECZKA</grupa>
@@ -163109,7 +163109,7 @@ Prowadnice kulkowe
 <nazwa>KLUPŚ Szafa dwudrzwiowa PAULA biała</nazwa>
 <cena>608.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901912241589</EAN>
 <grupa>KLUPŚ/MEBLE/SZAFY</grupa>
@@ -173241,7 +173241,7 @@ uniwersalny - pasuje do większości typów smoczków</opis>
 <nazwa>LOVI 13/111 Pojemnik do smoczków pudrowy róż</nazwa>
 <cena>10.41</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691815193</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -174570,7 +174570,7 @@ Dynamiczny smoczek uspokajający LOVI został stworzony we współpracy z neurol
 <nazwa>LOVI 22/882 Smoczek silikonowy dynamiczny 0-3m 2 szt Wild Soul Girl</nazwa>
 <cena>24.66</cena>
 <VAT>5</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691835108</EAN>
 <grupa>LOVI/USPOKAJANIE</grupa>
@@ -177557,7 +177557,7 @@ Jest to niezbędne akcesorium dla Ciebie i Twojego dziecka. ?</opis>
 <nazwa>LOVI 59/870 Ustnik silikonowy do mojego kubka niekapka</nazwa>
 <cena>6.24</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>14</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407598703</EAN>
 <grupa>LOVI/PICIE Z KUBKA</grupa>
@@ -177584,8 +177584,8 @@ W opakowaniu 1 szt.</opis>
 <nazwa>LOVI 74/104 Butelka szklana Diamond Glass 150 ml Baby Shower Boy</nazwa>
 <cena>28.57</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901691833371</EAN>
 <grupa>LOVI/KARMIENIE ALTERNATYWNE</grupa>
 <opis>Butelka szklana LOVI z dynamicznym smoczkiem jest bezpieczna dla karmienia piersią.
@@ -177728,7 +177728,7 @@ Pamiętaj, aby po wrzuceniu pieluszki wrócić rączką do pozycji pierwotnej, d
 <nazwa>MAGIC MA-C110BE Kosz na zużyte pieluchy Magic Majestic beżowy na 25 pieluch</nazwa>
 <cena>122.57</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>0628123810070</EAN>
 <grupa>MAGIC</grupa>
@@ -180473,7 +180473,7 @@ Wymiary dł/szer/wys: 100 cm/ 51 cm/ 30 cm</opis>
 <nazwa>MALTEX Wanna 100cm Zebra szara</nazwa>
 <cena>30.38</cena>
 <VAT>23</VAT>
-<ilosc>51</ilosc>
+<ilosc>49</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903067009670</EAN>
 <grupa>MALTEX/WANNY</grupa>
@@ -188303,7 +188303,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Podkład higieniczny SAFE FROTTE 60X120 [TB0243_01]</nazwa>
 <cena>26.65</cena>
 <VAT>8</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675040662</EAN>
 <grupa>BABYMATEX/PODKŁADY HIGIENICZNE</grupa>
@@ -189716,7 +189716,7 @@ Dostępne rozmiary:
 <nazwa>MATEX Prześcieradło nieprzemakalne FROTTE z gumką 60x120 [TB0023_02] ekri</nazwa>
 <cena>34.32</cena>
 <VAT>8</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902675066983</EAN>
 <grupa>BABYMATEX/PRZEŚCIERADŁA</grupa>
@@ -268745,17 +268745,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>771417</kod>
-<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
-<cena>39.52</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN/>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>779715</kod>
 <nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
 <cena>40.68</cena>
@@ -268763,6 +268752,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN>5903753003739</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>771417</kod>
+<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
+<cena>39.52</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN/>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -275789,8 +275789,8 @@ Podana cena za 1 parę</opis>
 <nazwa>SCORPIO SK-31 Skarpety dziewczęce z napisami angielskimi 20-22</nazwa>
 <cena>1.46</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907617908710</EAN>
 <grupa>YO CLUB- SCORPIO- OP. HURTOWE/SKARPETKI</grupa>
 <opis>80%BAWEŁNA,15%POLIAMID,5%ELASTAN
@@ -278083,8 +278083,8 @@ Specyfikacja:
 <nazwa>SMILY PLAY AC7621 Pociąg z klockami</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905375823047</EAN>
 <grupa>SMILY PLAY/ZABAWKI DREWNIANE</grupa>
 <opis/>
@@ -285212,7 +285212,7 @@ Składana elastyczna część – elastomer</opis>
 <nazwa>TEGA FF-005-112 Wanna dziecięca 102 cm LUX LEŚNA OPOWIEŚĆ j.zielony</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071958</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -297703,7 +297703,7 @@ Produkt został wykonany z wysokiej jakości materiałów, z zastosowaniem specj
 <nazwa>TREFL 14353 Puzzle 24 MAXI - Wesoła Gabi</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5900511143539</EAN>
 <grupa>TREFL</grupa>
@@ -297727,7 +297727,7 @@ Waga opakowania zbiorczego (kg): 0.70</opis>
 <nazwa>TREFL 14357 Puzzle 24 MAXI Wspaniały dzień Bluey</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5900511143577</EAN>
 <grupa>TREFL</grupa>
@@ -301411,7 +301411,7 @@ Układanka Bobaskowe zwierzątka przedstawia zwierzęta z bajki Bobaski i Miś.<
 <nazwa>TREFL 36136 Puzzle Baby Classic Kochane pieski / Psi Patrol</nazwa>
 <cena>17.01</cena>
 <VAT>23</VAT>
-<ilosc>28</ilosc>
+<ilosc>27</ilosc>
 <stan>duża ilość</stan>
 <EAN>5900511361360</EAN>
 <grupa>TREFL</grupa>
@@ -318831,8 +318831,8 @@ Kolorystyka poszczególnych elementów zestawu jest zmienna i może się różni
 <nazwa>WADER 35023 Farmer traktor z przyczepą na konia w kartonie</nazwa>
 <cena>23.60</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5900694350236</EAN>
 <grupa>WADER</grupa>
 <opis>Traktor z serii Color Cars z przyczepą na konia. Pojazd charakteryzuje się realistycznym odwzorowaniem, solidnym wykonaniem, lekkością i wytrzymałością konstrukcji oraz łatwością sterowania. W zestawie znajduje się otwierana przyczepa z rozkładanym najazdem i figurka konia. Traktor posiada ruchome elementy uatrakcyjniające zabawę, takie jak podnoszona kabina i maska oraz skrętną przednią oś. Zabawa traktorem z przyczepą poszerzy informacje najmłodszych o otaczającym świecie, nasze pociechy dowiedzą się jak przebiega transport zwierząt oraz szybko przetransportują swoje figurki zwierząt po domu lub zabiorą je na wycieczkę do parku czy na podwórko. Zabawa pojazdami takimi jak Traktor z serii Color Cars pobudza kreatywność i wyobraźnię dziecka, poprawia jego umiejętności manualne i motoryczne, rozwija koordynację wzrokowo-ruchową oraz pogłębia jego wiedzę i zaspokaja potrzebę poznawania świata. Pojazd doskonale nadaje do zabawy w pojedynkę oraz w grupie, przez co wspiera integrację z rówieśnikami. Wszystkie elementy wykonane są z wysokiej jakości, trwałego i odpornego na działanie warunków atmosferycznych tworzywa, dzięki czemu zabawka idealnie spełni swoje zadanie na plaży, w domu czy w piaskownicy.
@@ -321897,8 +321897,8 @@ Cechy produktu:
 <nazwa>WINFUN WF 30404 / 000178 Miękkie klocki</nazwa>
 <cena>38.76</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905692304045</EAN>
 <grupa>WINFUN</grupa>
 <opis>Kolorowe kostki z podobiznami zwierzątek, kształtami, cyferkami, wzorami, elementami do liczenia oraz fragmentami układanki, zapewniają wiele możliwości zabawy. Z klocków można korzystać oddzielnie lub w komplecie, układając z umieszczonych na ich ściankach fragmentów obrazek. Na jednej z kostek kryje się bezpieczne lusterko do samopoznania dziecka, a na innej – doszyta kość, po pociągnięciu której kostka się zatrzęsie. W zestawie znajdują się 4 miękkie klocki.
