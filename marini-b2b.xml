@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<MARINI timestamp="2026-10-30T21:55:04.803">
+<MARINI timestamp="2026-10-31T20:55:05.200">
 <b2b>
 <kod>769901</kod>
 <nazwa> KATAREK Maść nawilżająca z prebiotykiem 15g</nazwa>
@@ -764,7 +764,7 @@ Waga: 0.20 kg</opis>
 <nazwa>4 BABY R02 P&amp;E Zabawka piszczałka Squeeze Toy RABBIT</nazwa>
 <cena>23.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691957947</EAN>
 <grupa>4BABY/AKCESORIA</grupa>
@@ -1617,7 +1617,7 @@ Opakowanie zawiera 100 szt. woreczków.</opis>
 <nazwa>AKUKU A0003 Płatki kosmetyczne dla niemowląt 60 szt</nazwa>
 <cena>4.94</cena>
 <VAT>23</VAT>
-<ilosc>55</ilosc>
+<ilosc>50</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644000036</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -2804,7 +2804,7 @@ Ostrzeżenie! Produkt nie jest zabawką. Przechowuj go w miejscu niedostępnym d
 <nazwa>AKUKU A0344 Szczotka do czyszczenia słomek i rurek</nazwa>
 <cena>4.43</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644003440</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
@@ -3278,7 +3278,7 @@ Zestaw zawiera: nożyczki, cążki, pilniczek, szczotkę i grzebyk do włosów</
 <nazwa>AKUKU A0467 Grzechotka czarno-biały Miś</nazwa>
 <cena>6.91</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644004676</EAN>
 <grupa>AKUKU/GRYZAKI I GRZECHOTKI</grupa>
@@ -3626,7 +3626,7 @@ Pojemność 300 ml
 <nazwa>AKUKU A0504 Miseczka na przyssawce white/green</nazwa>
 <cena>10.55</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644005048</EAN>
 <grupa>AKUKU/NACZYNIA I SZTUĆCE</grupa>
@@ -6893,7 +6893,7 @@ Kolor zielony.
 <nazwa>AKUKU A1135 Gąbka kąpielowa zwykła niebieska</nazwa>
 <cena>2.44</cena>
 <VAT>23</VAT>
-<ilosc>24</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907644011353</EAN>
 <grupa>AKUKU/PIELĘGNACJA</grupa>
@@ -18488,7 +18488,7 @@ Cechy produktu:
 <nazwa>AQUA DA 30017 Mata wodna duża 80/60 cm</nazwa>
 <cena>34.69</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692300177</EAN>
 <grupa>DUMEL/AQUA</grupa>
@@ -19120,8 +19120,8 @@ Pozostałe informacje:
 <nazwa>ARTYK 142994 Pojazd z napędem frykcyjnym Policja</nazwa>
 <cena>15.96</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901811142994</EAN>
 <grupa>ARTYK</grupa>
 <opis>- skala 1:20
@@ -19915,7 +19915,7 @@ Pozostałe informacje:
 <nazwa>ARTYK 177026 Auto / Robot pogotowie</nazwa>
 <cena>36.41</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901811177026</EAN>
 <grupa>ARTYK</grupa>
@@ -21020,8 +21020,8 @@ Pozostałe informacje:
 <nazwa>ARTYK 191411 Miś Bajuś E-EDU</nazwa>
 <cena>72.91</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901811191411</EAN>
 <grupa>ARTYK</grupa>
 <opis>Funkcje:
@@ -21065,8 +21065,8 @@ Pozostałe informacje:
 <nazwa>ARTYK 191626 Lalka Natalia funkcyjna 36 cm</nazwa>
 <cena>45.54</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901811191626</EAN>
 <grupa>ARTYK</grupa>
 <opis>W zestawie:
@@ -27437,7 +27437,7 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9194 Pozytywka Króliczek różowy 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>42</ilosc>
+<ilosc>38</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904209891948</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -27496,8 +27496,8 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9327 Pozytywka Lew 18 cm</nazwa>
 <cena>27.42</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904209893270</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -27685,8 +27685,8 @@ Kategoria wiekowa: 3+</opis>
 <nazwa>AXIOM 9466 Pozytywka Wiewiórka 20 cm</nazwa>
 <cena>28.52</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904209894666</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -28016,7 +28016,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9548 Pozytywka Koala szara 18 cm</nazwa>
 <cena>32.91</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904209895489</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28052,7 +28052,7 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9553 Miluś Panda niebieska 25 cm</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5904209895533</EAN>
 <grupa>AXIOM- TULILO</grupa>
@@ -28088,8 +28088,8 @@ odporna na gwałtowne uderzenia</opis>
 <nazwa>AXIOM 9557 Pozytywka Piesek niebieski 18 cm</nazwa>
 <cena>32.90</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904209895571</EAN>
 <grupa>AXIOM- TULILO</grupa>
 <opis/>
@@ -34742,7 +34742,7 @@ OSTRZEŻENIA! Produkt nie jest zabawką. Produkt do użytku wyłącznie pod nadz
 <nazwa>B.BOX BB00868 Butelka ze słomką Junior Spearmint</nazwa>
 <cena>38.02</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>9353965008682</EAN>
 <grupa>B.BOX</grupa>
@@ -44466,7 +44466,7 @@ Właściowości:
 <nazwa>B.O.1022/01 Pojemnik na mleko w proszku beżowy</nazwa>
 <cena>6.53</cena>
 <VAT>23</VAT>
-<ilosc>79</ilosc>
+<ilosc>78</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435418581</EAN>
 <grupa>BABYONO/AKCESORIA</grupa>
@@ -46891,7 +46891,7 @@ Wymiar: 25 x 25 cm</opis>
 <nazwa>B.O.1539 Przytulanka kocyk BABY BUNNY</nazwa>
 <cena>21.00</cena>
 <VAT>23</VAT>
-<ilosc>21</ilosc>
+<ilosc>20</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435415603</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
@@ -48340,7 +48340,7 @@ Składana
 <nazwa>B.O.1577 Zabezpieczenia do mebli magnetyczna blokada szafek i szuflad</nazwa>
 <cena>19.64</cena>
 <VAT>23</VAT>
-<ilosc>36</ilosc>
+<ilosc>35</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435416501</EAN>
 <grupa>BABYONO/ZABEZPIECZENIA</grupa>
@@ -48448,7 +48448,7 @@ Wymiar opakowania: 15 x 13 x 15 cm</opis>
 <nazwa>B.O.1586 Grzechotka z gryzakiem</nazwa>
 <cena>9.30</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901435416600</EAN>
 <grupa>BABYONO/ZABAWKI/GRZECHOTKI</grupa>
@@ -51591,8 +51591,8 @@ Wspiera naukę koncentracji
 <nazwa>B.O.1679 Książeczka kontrastowa MAUSE</nazwa>
 <cena>33.51</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435418338</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Sympatyczna myszka zaprasza do wspólnej zabawy w kontrastowych barwach. Nasza miękka książeczka sensoryczna dla niemowląt angażuje zmysły już od pierwszych miesięcy życia.
@@ -51850,7 +51850,7 @@ Uczy koncentracji</opis>
 <nazwa>B.O.1685 Zawieszka Rabbit Karo</nazwa>
 <cena>26.25</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901435418390</EAN>
 <grupa>BABYONO/ZABAWKI</grupa>
@@ -52466,8 +52466,8 @@ DANE TECHNICZNE:
 <nazwa>B.O.1699 Lalka przytulanka Lily</nazwa>
 <cena>40.00</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901435419090</EAN>
 <grupa>BABYONO/ZABAWKI/PLUSZOWE</grupa>
 <opis>Lalka Lily to pierwsza przyjaciółka dziecka. Jest miękka, kolorowa i zawsze gotowa do przytulania.
@@ -57145,7 +57145,7 @@ Właściwości:
 <nazwa>B.O.832/01 Śliniak frotte</nazwa>
 <cena>6.10</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435419250</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -57173,7 +57173,7 @@ Można prać w pralce do maks. 40°C</opis>
 <nazwa>B.O.832/02 Śliniak frotte</nazwa>
 <cena>6.10</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435419267</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -57201,7 +57201,7 @@ Można prać w pralce do maks. 40°C</opis>
 <nazwa>B.O.833 Śliniak frotte I CAN ALMOST FEED MYSELF</nazwa>
 <cena>6.25</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>17</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901435407639</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
@@ -57221,8 +57221,8 @@ Właściwości:
 <nazwa>B.O.833/01 Śliniak frotte</nazwa>
 <cena>6.25</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
-<stan>duża ilość</stan>
+<ilosc>9</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5901435419274</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak frotte z ceratką to doskonały wybór dla niemowląt, które poznają już nowe smaki. Twojemu dziecku umili czas spędzony przy stole, a Tobie pozwoli uniknąć częstego przebierania maluszka. 
@@ -57253,8 +57253,8 @@ Można prać w pralce do maks. 40°C
 <nazwa>B.O.833/02 Śliniak frotte</nazwa>
 <cena>6.25</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>3</ilosc>
+<stan>mała ilość</stan>
 <EAN>5901435419281</EAN>
 <grupa>BABYONO/ŚLINIAKI</grupa>
 <opis>Śliniak frotte z ceratką to doskonały wybór dla niemowląt, które poznają już nowe smaki. Twojemu dziecku umili czas spędzony przy stole, a Tobie pozwoli uniknąć częstego przebierania maluszka. 
@@ -58539,7 +58539,7 @@ WYMIARY:
 <nazwa>BABY MIX TK/P/1034-0700 Pozytywka pluszowa Miś w zielonym kubraczku 46552</nazwa>
 <cena>30.00</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>31</ilosc>
 <stan>duża ilość</stan>
 <EAN>5904378860004</EAN>
 <grupa>BABY MIX/ZABAWKI/POZYTYWKI</grupa>
@@ -58551,7 +58551,7 @@ WYMIARY:
 <nazwa>BABY MIX TK/P/1217-EU00 Pozytywka pluszowa Jeżyk 44901</nazwa>
 <cena>28.99</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5902216916685</EAN>
 <grupa>BABY MIX/ZABAWKI/POZYTYWKI</grupa>
@@ -58673,7 +58673,7 @@ Trzy rozmiary w jakich produkowane są gąbki pozwalają dobrać je do wielkośc
 <nazwa>BADUM Wkładka wannowa MIDI</nazwa>
 <cena>11.45</cena>
 <VAT>23</VAT>
-<ilosc>294</ilosc>
+<ilosc>284</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800137</EAN>
 <grupa>BADUM</grupa>
@@ -58694,7 +58694,7 @@ Trzy wielkości w jakich produkowane są gąbki pozwalają dobrać je do wielko�
 <nazwa>BADUM Wkładka wannowa MIDI kolorowa</nazwa>
 <cena>13.53</cena>
 <VAT>23</VAT>
-<ilosc>70</ilosc>
+<ilosc>68</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907556800229</EAN>
 <grupa>BADUM</grupa>
@@ -59257,7 +59257,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 80580 Żyrafa Gabi dzwoneczek</nazwa>
 <cena>26.45</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783805809</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -59746,7 +59746,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 81132 Zawieszka Miś Boguś</nazwa>
 <cena>32.89</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783811329</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -59758,7 +59758,7 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 81227 Szeleszczący piesek Pedro</nazwa>
 <cena>19.25</cena>
 <VAT>23</VAT>
-<ilosc>18</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>6925783812272</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -59797,7 +59797,7 @@ Cechy:
 <nazwa>BALIBAZOO BB 81589 Zawieszka piesek Paul</nazwa>
 <cena>30.79</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783815891</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -59899,8 +59899,8 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 81976 Lidka 30cm</nazwa>
 <cena>14.29</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>6925783819769</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis/>
@@ -60440,8 +60440,8 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82398 Zawieszka słoń Elvis</nazwa>
 <cena>28.92</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>6925783823988</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Elvis to estradowy słoń, który uwielbia publiczność i czuje się przed nią jak ryba w wodzie. Jego imię i kolorowy strój świetnie pasują do barwnej osobowości! Elvis lubi dobrze wyglądać, więc stale przegląda się w lustereczku schowanym w jego uchu. Ten król zabawy z radością rozweseli każdego malucha kółeczkami i gryzaczkiem, które wciąż nosi przy sobie.
@@ -60453,7 +60453,7 @@ Zawieszka przeznaczona dla dzieci od dnia narodzin.</opis>
 <nazwa>BALIBAZOO BB 82400 Zawieszka kolorowa Pszczoła Majka</nazwa>
 <cena>20.62</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>19</ilosc>
 <stan>duża ilość</stan>
 <EAN>6925783824008</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -61016,8 +61016,8 @@ Cechy produktu:
 <nazwa>BALIBAZOO BB 82874 Zawieszka Żyrafa Gina z pozytywką</nazwa>
 <cena>31.93</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>2</ilosc>
+<stan>mała ilość</stan>
 <EAN>6925783828747</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
 <opis>Żyrafka Gina kocha wszystkie maluchy i potrafi ukołysać je do snu grając słodką kołysankę. Wystarczy pociągnąć jej ogonek, aby dziecięcy pokój wypełniły piękne dźwięki. Ten przyjazny pluszak posiada różne elementy, którymi zabawi bobasa: przyjazne lusterko, plastikowe kółeczko i kwadracik z wypustkami, a nawet miękki gryzaczek. Pomysłowa zawieszka pozwoli jej zająć wygodne miejsce w każdym wózku, łóżeczku, huśtawce czy leżaczku.
@@ -61043,7 +61043,7 @@ Zabawka przeznaczona dla dzieci od dnia narodzin.</opis>
 <nazwa>BALIBAZOO BB 84810 Zawieszka Zebra Zoya z pozytywką</nazwa>
 <cena>31.93</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>6925783848103</EAN>
 <grupa>DUMEL/BALIBAZOO</grupa>
@@ -61164,8 +61164,8 @@ Cechy produktu:
 <nazwa>BAM  BAM 453664 Grzechotka Robaczek</nazwa>
 <cena>7.20</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5903246437270</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -61446,7 +61446,7 @@ Zabawka w formie trąbki pozwala na odgrywanie ról przez dziecko i przeistoczen
 <nazwa>BAM BAM 414262 Grzechotka słonik</nazwa>
 <cena>4.78</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903246408263</EAN>
 <grupa>BAM BAM</grupa>
@@ -62216,8 +62216,8 @@ Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 14x12x5, wymiar
 <nazwa>BAM BAM 482390 Zabawka sensoryczna Owoc 16el.</nazwa>
 <cena>11.10</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5908275186762</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -62822,8 +62822,8 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 515014 Grzechotka safari</nazwa>
 <cena>9.17</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904335876161</EAN>
 <grupa>BAM BAM</grupa>
 <opis>Grzechotka- Gryzak SAFARI to zestaw 3 grzechotek o postaci uroczych zwierzątek - Lwa, Małpki i Słonika.  O zróżnicowanej teksturze idealnie sprawdzają się podczas trudnego okresu ząbkowania masując obolałe dziąsła, a jednczesnie absorbują uwage dziecka podczas zabawy nimi i potrząsania. Ich wyprofilowany kształt i niewielki rozmiar idealnie nadaje się dla małych rączek. Zalety: idealny rozmiar dla małych rączek dziecka, zróżnicowana tekstura, idealna do masażu dziąseł dziecka ale i rozwoju zmysłu dotyku, miękkie tworzywo, mozliwość doczepienia do wózka badź połączenia ze sobą. Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 20x15x2, wymiary opakowania (dł. x wys. x gł.)[cm]: 15x21x3, waga produktu bez opakowania [kg]: 0,08 kg, waga produktu w opakowaniu [kg]: 0,11 kg, nie wymaga zasilania bateriami. Zabawka przeznaczona dla dzieci w wieku 4 m+. Pakowana na blistrze.</opis>
@@ -62974,7 +62974,7 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 515066 Gryzak żółwik etui</nazwa>
 <cena>13.90</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5904335876529</EAN>
 <grupa>BAM BAM</grupa>
@@ -63022,8 +63022,8 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 515070 Grzechotka jeżyk</nazwa>
 <cena>7.61</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904335876567</EAN>
 <grupa>BAM BAM</grupa>
 <opis>GRZECHOTKA JEŻYK na kółkach BAM BAM przeznaczona dla niemowląt od urodzenia. W subtelnej, pastelowej kolorystyce, o zróżnicowanej fakturze materiałów jak i różnorodnej formie, posiada elementy interaktywne zachęcające malucha do zabawy, a jednocześnie stymulujące rozwój jego zmysłów wzroku, słuchu oraz zdolności motorycznych. Mięciutki grzbiet jeżyka pozwalają masować nabrzmiałe dziąsła ząbkującego niemowlaka. Wymiary/waga/baterie: wymiary produktu (dł. x wys. x gł.)[cm]: 11x10x2, wymiary opakowania (dł. x wys. x gł.)[cm]: 14x21x3, waga produktu bez opakowania [kg]: 0,04 kg, waga produktu w opakowaniu [kg]: 0,06 kg, nie wymaga zasilania bateriami. Grzechotka przeznaczona dla dzieci w wieku: 0m+. Zabawka pakowana na blistrze.</opis>
@@ -63130,8 +63130,8 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 521373 Grzechotka Kwiatuszek</nazwa>
 <cena>11.20</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904335881981</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -63208,8 +63208,8 @@ Zabawa tamburynkiem to dostarczanie  dziecku wielorakich bodźców aktywizujący
 <nazwa>BAM BAM 521380 Grzechotka Lusterko</nazwa>
 <cena>10.70</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5904335882049</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -63597,7 +63597,7 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 569044 Grzechotka krabik</nazwa>
 <cena>9.46</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905523648225</EAN>
 <grupa>BAM BAM</grupa>
@@ -63619,7 +63619,7 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 569048 Zabawka sensoryczna Jeżyk</nazwa>
 <cena>20.88</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905523648188</EAN>
 <grupa>BAM BAM</grupa>
@@ -63663,8 +63663,8 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 584262 Gryzak słonik</nazwa>
 <cena>4.09</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907414700678</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -63685,7 +63685,7 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 592790 Muzyczna pszczółka</nazwa>
 <cena>16.78</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907414805649</EAN>
 <grupa>BAM BAM</grupa>
@@ -63696,8 +63696,8 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 592797 Grzechotka Lewek dźwięk</nazwa>
 <cena>8.60</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907414805663</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -63707,8 +63707,8 @@ Miękka, muzyczna przytulanka Szop to idealny towarzysz zabaw dla najmłodszych,
 <nazwa>BAM BAM 592800 Grzechotka słonik</nazwa>
 <cena>9.17</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5907414805670</EAN>
 <grupa>BAM BAM</grupa>
 <opis/>
@@ -63959,8 +63959,8 @@ Wlej kilka kropel płynu do kąpieli dziecka do wanienki z wodą o temperaturze 
 <nazwa>BE SNAZZY Rajstopy RA-50 z wzorem 3D 80/86</nazwa>
 <cena>6.67</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN/>
 <grupa>BE SNAZZY- OP. HURTOWE</grupa>
 <opis>Opakowanie zbiorcze</opis>
@@ -70301,7 +70301,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/187 Grzechotka Sowa niebieska</nazwa>
 <cena>4.60</cena>
 <VAT>23</VAT>
-<ilosc>13</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691812024</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70313,7 +70313,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/187 Grzechotka Sowa różowa</nazwa>
 <cena>4.60</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691812017</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70325,7 +70325,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/187 Grzechotka Sowa zielony</nazwa>
 <cena>4.60</cena>
 <VAT>23</VAT>
-<ilosc>20</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691812031</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70337,7 +70337,7 @@ Produkt nie zawiera BPA. Produkt wymaga obsługi osoby dorosłej.</opis>
 <nazwa>CANPOL 2/207 Gryzak wodny samochodzik</nazwa>
 <cena>3.96</cena>
 <VAT>23</VAT>
-<ilosc>16</ilosc>
+<ilosc>15</ilosc>
 <stan>duża ilość</stan>
 <EAN>5903407022079</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
@@ -70597,7 +70597,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka NOVA Sztanga zielona</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<ilosc>15</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691812062</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70609,7 +70609,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka Nowa Sztanga niebieska</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5901691812055</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70621,7 +70621,7 @@ Produkt można stosować od momentu narodzin</opis>
 <nazwa>CANPOL 2/606 Grzechotka Nowa Sztanga różowa</nazwa>
 <cena>5.50</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5901691812048</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -70725,7 +70725,7 @@ Proponowany wiek 0m+</opis>
 <nazwa>CANPOL 2/817 Kostka edukacyjna miękka 6szt</nazwa>
 <cena>19.86</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5903407028170</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -75449,8 +75449,8 @@ Grzechotka jest wykonana z trwałych i bezpiecznych materiałów. Nie posiada os
 <nazwa>CANPOL 56/152 Gryzak wodny z grzechotką Magiczna Różdżka niebieski</nazwa>
 <cena>6.20</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5903407561523</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny z grzechotką magiczna różdżką.
@@ -75465,8 +75465,8 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/152 Gryzak wodny z grzechotką Magiczna Różdżka różowy</nazwa>
 <cena>6.20</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901691828582</EAN>
 <grupa>CANPOL/ZĄBKOWANIE</grupa>
 <opis>Gryzak wodny z grzechotką magiczna różdżką.
@@ -75497,7 +75497,7 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga róż</nazwa>
 <cena>6.66</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5901691839656</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
@@ -75509,8 +75509,8 @@ Produkt nie zawiera BPA.</opis>
 <nazwa>CANPOL 56/153 Grzechotka z obrotowym elementem Sztanga turkus</nazwa>
 <cena>6.66</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5901691839663</EAN>
 <grupa>CANPOL/ZABAWA I EDUKACJA</grupa>
 <opis>Grzechotka z obrotowymi elementami idealnie sprawdzi się jako pierwsza zabawka dla najmłodszych dzieci. Jest lekka i poręczna, wygodna do trzymanie w malutkich rączkach. Jej ruchome elementy, które obracają się i grzechoczą, z pewnością zaciekawią każdego maluszka. Kontrastowe kolory wzbudzają zainteresowanie, rozwijają zmysł wzroku i zajmą uwagę maluszka na długi czas. Zabawka przeznaczona dla dzieci w wieku 0m+.</opis>
@@ -80890,7 +80890,7 @@ Marka Ceba Baby od ponad 35 lat wspiera rodziców, tworząc produkty, które uł
 <nazwa>CEBA 307-000-783 Składana mata do przewijania duża 50x80 Basic Forest Friends</nazwa>
 <cena>21.48</cena>
 <VAT>23</VAT>
-<ilosc>9</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5907672345567</EAN>
 <grupa>CEBA/MATY TURYSTYCZNE</grupa>
@@ -81876,8 +81876,8 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA 885-000-829 Wielofunkcyjna poduszka PHYSIO DUO muślin Small Twigs 300 cm</nazwa>
 <cena>123.50</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5907672348018</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
 <opis>Cebuszka DUO – multifunkcyjna poduszka dla najbardziej wymagających mam
@@ -81931,7 +81931,7 @@ E-mail: support@ceba.com.pl</opis>
 <nazwa>CEBA W-885-000-745  Cebuszka wielofunkcyjna poduszka DUO Forget-me-not</nazwa>
 <cena>119.00</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907672347950</EAN>
 <grupa>CEBA/PODUSZKI DO KARMIENIA</grupa>
@@ -82869,7 +82869,7 @@ Alert o konieczności odkamieniania - proces odkamieniania wykonuje się w prost
 <b2b>
 <kod>772211</kod>
 <nazwa>CHICCO 00007627100000 Karuzela NEXT2DREAMS różowa</nazwa>
-<cena>105.00</cena>
+<cena>120.11</cena>
 <VAT>23</VAT>
 <ilosc>0</ilosc>
 <stan>brak</stan>
@@ -84517,8 +84517,8 @@ Małpa zachęca do pierwszych odkryć: potrząśnij nią, aby wydała dźwięki 
 <nazwa>CHICCO 00011569000000 Grzechotka Żyrafa</nazwa>
 <cena>31.61</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8058664164882</EAN>
 <grupa>CHICCO/ZABAWKI</grupa>
 <opis>GRZECHOTKA DLA NIEMOWLĄT: Zabawna i kolorowa zabawka w kształcie wypchanej żyrafy, która zawiesza na nogach różne czynności manualne, dzięki czemu dzieci mogą dobrze się bawić i rozwijać swoją koordynację manualną.
@@ -93631,7 +93631,7 @@ szczotka do czyszczenia butelek i smoczków.</opis>
 <nazwa>Dr.Browns HG013 Szczoteczka do zębów dla niemowląt i małych dzieci Słoń różowa</nazwa>
 <cena>18.43</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>072239333167</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
@@ -93736,8 +93736,8 @@ dla dzieci od 0-3 lat.</opis>
 <nazwa>Dr.Browns HG060 Szczoteczka do zębów dla niemowląt i małych dzieci Żyrafa</nazwa>
 <cena>18.42</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>072239316764</EAN>
 <grupa>DR. BROWN'S/AKCESORIA</grupa>
 <opis>Szczoteczka do czyszczenia zębów dla dzieci w wielku 1-4 lat
@@ -97205,7 +97205,7 @@ bawełna 30%
 <nazwa>DUET BABY 709 Myjka kąpielowa haft BABY BAMBOO</nazwa>
 <cena>9.11</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>8</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5908268747093</EAN>
 <grupa> DUET BABY- MARINI/KĄPIEL</grupa>
@@ -97523,7 +97523,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 10004 DJ Kocio</nazwa>
 <cena>148.50</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>6944167100040</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -100078,7 +100078,7 @@ Cechy produktu:
 <nazwa>DUMEL DD 50966 Skoczek Króliczek</nazwa>
 <cena>27.45</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>4897126750966</EAN>
 <grupa>DUMEL/DUMEL DISCOVERY</grupa>
@@ -113570,8 +113570,8 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728296 MELLOW Body dł. rozpinane niebieskie 56</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904356728296</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -113606,8 +113606,8 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728357 MELLOW Body dł. rozpinane szare 50</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904356728357</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -113666,8 +113666,8 @@ WAGA [kg]: 7,60</opis>
 <nazwa>EWA 728654 MELLOW Body dł. rozpinane mięta 56</nazwa>
 <cena>23.67</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5904356728654</EAN>
 <grupa> UBRANKA/EWA KLUCZE/BODY</grupa>
 <opis/>
@@ -124004,8 +124004,8 @@ Wszystkie zabawki z kolekcji GaGaGu są wykonane z materiałów wysokiej jakośc
 <nazwa>GAMA Pajac baw.sitodruk 68-74</nazwa>
 <cena>25.86</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>5</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905436714109</EAN>
 <grupa> UBRANKA/GAMA</grupa>
 <opis/>
@@ -124547,7 +124547,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30060 Grzechotka Stokrotka pastelowa</nazwa>
 <cena>15.77</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692300603</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -124603,7 +124603,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30064 Grzechoczący dysk horyzontalny</nazwa>
 <cena>9.89</cena>
 <VAT>23</VAT>
-<ilosc>5</ilosc>
+<ilosc>4</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692300641</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -124622,7 +124622,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30065 Grzechoczący dysk wertykalny</nazwa>
 <cena>9.89</cena>
 <VAT>23</VAT>
-<ilosc>7</ilosc>
+<ilosc>6</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5905692300658</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -124828,7 +124828,7 @@ Cechy produktu:
 <nazwa>GILIGUMS GG 30086 Grzechocząca koniczyna z uchwytem</nazwa>
 <cena>16.25</cena>
 <VAT>23</VAT>
-<ilosc>4</ilosc>
+<ilosc>3</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692300863</EAN>
 <grupa>DUMEL/GILIGUMS</grupa>
@@ -141440,7 +141440,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY.</opis>
 <nazwa>KIECZMERSKI Poszewka bawełna 40x60 mix wzorów</nazwa>
 <cena>6.10</cena>
 <VAT>23</VAT>
-<ilosc>61</ilosc>
+<ilosc>59</ilosc>
 <stan>duża ilość</stan>
 <EAN>5907803143031</EAN>
 <grupa>KIECZMERSKI- MIMINU/POŚCIELE</grupa>
@@ -141553,7 +141553,7 @@ PRODUKT POLSKI, PRODUKT ANTYALERGICZNY</opis>
 <nazwa>KIECZMERSKI Pościel C-2 100x135 cm KOLEKCJA Podniebna przygoda</nazwa>
 <cena>40.24</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN/>
 <grupa>KIECZMERSKI- MIMINU</grupa>
@@ -145833,7 +145833,7 @@ Polski produkt antyalergiczny</opis>
 <nazwa>KIECZMERSKI Śpiworek do spania ocieplany z nogawkami MIMINU SOFT FLO S beż 80/98cm 1-2,5 roku</nazwa>
 <cena>92.68</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5907378105410</EAN>
 <grupa>KIECZMERSKI- MIMINU/POZOSTAŁE</grupa>
@@ -146721,7 +146721,7 @@ Zdjęcia produktów mają charakter poglądowy, stąd rzeczywisty wygląd może 
 <nazwa>KINDERKRAFT Bujaczek CALMEE grey</nazwa>
 <cena>156.75</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902533919048</EAN>
 <grupa>KINDERKRAFT/BUJACZKI</grupa>
@@ -163863,7 +163863,7 @@ Kod EAN: 5901912245761
 <nazwa>KORANDO Stojak pod baldachim</nazwa>
 <cena>14.20</cena>
 <VAT>23</VAT>
-<ilosc>141</ilosc>
+<ilosc>139</ilosc>
 <stan>duża ilość</stan>
 <EAN/>
 <grupa>KORANDO</grupa>
@@ -239045,8 +239045,8 @@ Waga z opakowaniem-1,4 kg</opis>
 <nazwa>MILLY MALLY Mata piankowa składana Play Savanna and Tree</nazwa>
 <cena>49.74</cena>
 <VAT>23</VAT>
-<ilosc>11</ilosc>
-<stan>duża ilość</stan>
+<ilosc>10</ilosc>
+<stan>średnia ilość</stan>
 <EAN>5907090700627</EAN>
 <grupa>MILLY MALLY/MATY</grupa>
 <opis>Dwustronna, składana mata piankowa od Milly Mally to komfort i bezpieczeństwo dla Twojego dziecka. Mata posiada właściwości antypoślizgowe oraz antyalergiczne. Gwarantuje to bezpieczeństwo podczas zabawy oraz nauki raczkowania i chodzenia. Dzięki ciekawym nadrukom pasuje ona do każdego pomieszczenia zarówno dla chłopca jak i dziewczynki. Produkt doskonale izoluje od chłodnej podłogi, a dzięki wodoodpornej powierzchni jest łatwy w czyszczeniu oraz idealnie nadaje się jako element wystroju pokoju. Duża elastyczność sprawia, że świetnie amortyzuje w razie upadku. Można jej używać także na zewnątrz na gładkich powierzchniach. Naszą matę można zabrać również ze sobą w podróż, wystarczy spakować ją do torby na zamek z wygodnymi rączkami.
@@ -260055,7 +260055,7 @@ Niania elektroniczna NUK Eco Control Audio Display 530D posiada też inne przyda
 <nazwa>NUK 739734 Smoczek uspokajający STAR 18-36m 2 szt</nazwa>
 <cena>37.00</cena>
 <VAT>5</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>4008600398998</EAN>
 <grupa>NUK/SMOCZKI I USTNIKI/SMOCZKI USPOKAJAJĄCE</grupa>
@@ -260459,7 +260459,7 @@ Cechy produktu:
 <nazwa>OBALL 10340-6 Piłka Classic 10 cm wielokolorowa 0m+</nazwa>
 <cena>18.65</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>074451103405</EAN>
 <grupa>OBALL</grupa>
@@ -262572,7 +262572,7 @@ Oprócz uroczego króliczka Hugo, w kolekcji z bambusowego muślinu dostępne s�
 <nazwa>PETITE&amp;MARS 416817 Bambusowa muślinowa przytulanka Hugo Misty Green</nazwa>
 <cena>20.37</cena>
 <VAT>23</VAT>
-<ilosc>30</ilosc>
+<ilosc>29</ilosc>
 <stan>duża ilość</stan>
 <EAN>8596202005902</EAN>
 <grupa>PETITE&amp;MARS/ZABAWKI</grupa>
@@ -263060,8 +263060,8 @@ Uppababy: Ridge</opis>
 <nazwa>PETITE&amp;MARS 531906 Zimowy śpiworek Jibot 3w1 Ink Black</nazwa>
 <cena>123.75</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8595640905096</EAN>
 <grupa>PETITE&amp;MARS</grupa>
 <opis>Ciepły śpiworek odpowiedni do wózka spacerowego, gondoli lub fotelika samochodowego. To efekt doskonałego połączenia doświadczenia, wysokiej jakości, bezpieczeństwa i komfortu dla dziecka. Wydłużany zimowy śpiworek 3w1.
@@ -263155,8 +263155,8 @@ Uppababy: Ridge
 <nazwa>PETITE&amp;MARS 534596 Zimowy śpiworek Comfy 4w1 Mocha Mousse</nazwa>
 <cena>158.63</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>8596202010555</EAN>
 <grupa>PETITE&amp;MARS</grupa>
 <opis>Z tym cudownie ciepłym i miękkim śpiworkiem żadna zima Cię nie zaskoczy. Cechuje go wysoka jakość, wyszukane detale i przyjemne dla oka wzornictwo. Jest komfortowy, przytulny i elegancki. Śpiworek o różnorodnym zastosowaniu może stać się Twoim ulubionym zimowym dodatkiem do wózka.
@@ -265887,17 +265887,6 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <opis/>
 </b2b>
 <b2b>
-<kod>771417</kod>
-<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
-<cena>39.52</cena>
-<VAT>23</VAT>
-<ilosc>0</ilosc>
-<stan>brak</stan>
-<EAN/>
-<grupa>POLDAUN</grupa>
-<opis/>
-</b2b>
-<b2b>
 <kod>779715</kod>
 <nazwa>POLDAUN Kołdra Cottonella ultralekka 100x135</nazwa>
 <cena>40.68</cena>
@@ -265905,6 +265894,17 @@ Przeznaczone dla dzieci powyżej 3 lat.  Zawsze nadzoruj dziecko podczas użytko
 <ilosc>0</ilosc>
 <stan>brak</stan>
 <EAN>5903753003739</EAN>
+<grupa>POLDAUN</grupa>
+<opis/>
+</b2b>
+<b2b>
+<kod>771417</kod>
+<nazwa>POLDAUN Kołdra COTTONELLA ultralekka 100x135</nazwa>
+<cena>39.52</cena>
+<VAT>23</VAT>
+<ilosc>0</ilosc>
+<stan>brak</stan>
+<EAN/>
 <grupa>POLDAUN</grupa>
 <opis/>
 </b2b>
@@ -281345,7 +281345,7 @@ Opis produktu:
 <nazwa>TEGA DK-005-132 Wanna dziecięca 102 cm KACZKA j.żółta</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>22</ilosc>
+<ilosc>21</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071712</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -283202,7 +283202,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA KR-005-105 Wanna dziecięca 102 cm LUX KRÓLICZKI z odpływem j.zielony</nazwa>
 <cena>30.26</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963008107</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -283432,7 +283432,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA ME-001-123 Nocnik antypoślizgowy METEO różowy</nazwa>
 <cena>13.16</cena>
 <VAT>23</VAT>
-<ilosc>14</ilosc>
+<ilosc>13</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963002334</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -283902,7 +283902,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA ME-026-164 Leżaczek kąpielowy z wizerunkiem METEO granatowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>17</ilosc>
+<ilosc>16</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963002808</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -284173,7 +284173,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-005-LUX-118 Wanna dziecięca 102 cm  MIŚ biała perła</nazwa>
 <cena>27.63</cena>
 <VAT>23</VAT>
-<ilosc>33</ilosc>
+<ilosc>32</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963008794</EAN>
 <grupa>TEGA/WANNY</grupa>
@@ -284388,7 +284388,7 @@ Charakteryzują się one wysoką jakością wykonania, bezpieczeństwem użytkow
 <nazwa>TEGA MS-026-103 Leżaczek kąpielowy z wizerunkiem Miś biały</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>25</ilosc>
+<ilosc>23</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071040</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -284876,7 +284876,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-069-107 Nocnik z pozytywką antypoślizgowy LEŚNA OPOWIEŚĆ j.różowy</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>9</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963015594</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -284893,7 +284893,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-069-108 Nocnik z pozytywką antypoślizgowy LEŚNA OPOWIEŚĆ j.niebieski</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>8</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5902963015600</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -284909,7 +284909,7 @@ Produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA PO-069-109 Nocnik z pozytywką antypoślizgowy LEŚNA OPOWIEŚĆ j.żółty</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>12</ilosc>
+<ilosc>11</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963015617</EAN>
 <grupa>TEGA/NOCNIKI</grupa>
@@ -285935,7 +285935,7 @@ Wysokiej jakości produkt posiadajacy certyfikat TÜV Rheinland.</opis>
 <nazwa>TEGA SO-026-103 Leżaczek kąpielowy z wizerunkiem Sowa biała</nazwa>
 <cena>17.11</cena>
 <VAT>23</VAT>
-<ilosc>19</ilosc>
+<ilosc>18</ilosc>
 <stan>duża ilość</stan>
 <EAN>5902963071088</EAN>
 <grupa>TEGA/LEŻACZKI DO WANNY</grupa>
@@ -291139,7 +291139,7 @@ Wzory i kolory wysyłane losowo.</opis>
 <nazwa>TOPGAL 563422 Śliniak</nazwa>
 <cena>3.66</cena>
 <VAT>23</VAT>
-<ilosc>10</ilosc>
+<ilosc>7</ilosc>
 <stan>średnia ilość</stan>
 <EAN>5905124563422</EAN>
 <grupa>TOPGAL BAMBINO</grupa>
@@ -304277,8 +304277,8 @@ Rozmiar: 12cm</opis>
 <nazwa>TULLO 175 Zawieszka do wózka 2x gwiazdka 1 kwiatek</nazwa>
 <cena>20.38</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905094771759</EAN>
 <grupa>TULLO/GRZECHOTKI</grupa>
 <opis>Wesołe dźwięki grzechotki towarzyszą dziecku podczas codziennych spacerów.
@@ -304297,8 +304297,8 @@ nie zawierają ftalanów, BPA, metali ciężkich</opis>
 <nazwa>TULLO 177 Zawieszka do wózka miś zając</nazwa>
 <cena>18.65</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905094771773</EAN>
 <grupa>TULLO/GRZECHOTKI</grupa>
 <opis>Wesołe dźwięki grzechotki towarzyszą dziecku podczas codziennych spacerów.
@@ -319211,8 +319211,8 @@ Cechy produktu:
 <nazwa>WINFUN WF 30407 / 240201 Zwierzakowe kryjówki</nazwa>
 <cena>45.24</cena>
 <VAT>23</VAT>
-<ilosc>6</ilosc>
-<stan>średnia ilość</stan>
+<ilosc>4</ilosc>
+<stan>mała ilość</stan>
 <EAN>5905692304076</EAN>
 <grupa>WINFUN</grupa>
 <opis>Kliknij, przekręć i przesuń, by zachęcić zwierzątka do „wyjścia” z kryjówki! Ta wesoła zabawa łączy w sobie ćwiczenie motoryki małej, poprzez zachętę do wykonania precyzyjnej czynności, naukę liczenia, gdyż każde ze zwierzątek posiada w kryjówce inną cyferkę, naukę kolorów, ponieważ każdy z przycisków, oraz przypisana do niego kryjówka, jest w innym kolorze, aż po poznawanie zależności przyczynowo – skutkowych. Zabawka odtwarza wesołe dźwięki i melodie, które umilają zabawę.
@@ -319252,8 +319252,8 @@ Cechy produktu:
 <nazwa>WINFUN WF 30409 /250203 Piramidka 8 pierścieni</nazwa>
 <cena>32.48</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5905692304090</EAN>
 <grupa>WINFUN</grupa>
 <opis>Klasyczna piramidka w stylowym wydaniu! Zabawka składa się z chybotliwej podstawy oraz aż ośmiu pierścieni różniących się fakturą, wzorem i rozmiarem. Zabawa z pierścieniami polega na nakładaniu ich na drążek w podstawie, jeden na drugi, od największego do najmniejszego. Jeden z pierścieni jest półprzezroczysty, a w jego wnętrzu znajdują się koraliki, dzięki czemu wesoło grzechocze przy potrząsaniu. Kształt krążków dopasowany jest do małych rączek, co ułatwia dziecku ich chwytanie.
@@ -319321,7 +319321,7 @@ Cechy produktu:
 <nazwa>WINFUN WF30416/170552 Edukacyjna kuchenka</nazwa>
 <cena>52.38</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692304168</EAN>
 <grupa>WINFUN</grupa>
@@ -319384,7 +319384,7 @@ Cechy produktu:
 <nazwa>WINFUN WF30421/250302 Śmieciarka Bolek</nazwa>
 <cena>64.29</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5905692304212</EAN>
 <grupa>WINFUN</grupa>
@@ -326136,8 +326136,8 @@ Wymiary opakowania	46 x 29 x 6,5 (cm)
 <nazwa>WOOPIE 53903 Robot Transformujący SHARP SPEED 2w1 Ciężarówka Bojowa</nazwa>
 <cena>17.23</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5906280653903</EAN>
 <grupa>WOOPIE</grupa>
 <opis>Wkraczaj w świat niezapomnianych transformacji z potężnym Robotem Bojowym Sharp Speed  od marki Woopie! Ta rewelacyjna zabawka 2w1 to idealne połączenie dynamiki i siły, stworzone dla każdego małego budowniczego i miłośnika robotów. W mgnieniu oka przekształć  imponującego bojowego robota, gotowego do akcji na placu budowy lub w kosmicznej walce w masywny pojazd budowlany ! Nasz robot to gwarancja godzin kreatywnej zabawy, rozwijającej wyobraźnię i precyzję. Przygotuj się na spektakularne transformacje i niekończące się przygody!
@@ -330986,7 +330986,7 @@ Waga:	1.1 kg</opis>
 <nazwa>WOOPIE 57390 Zdalnie Sterowany Kombajn Zestaw</nazwa>
 <cena>52.51</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280657390</EAN>
 <grupa>WOOPIE</grupa>
@@ -331025,7 +331025,7 @@ Waga:	0.85 kg</opis>
 <nazwa>WOOPIE 57406 Zdalnie Sterowany Kombajn Jasno Zielony</nazwa>
 <cena>65.39</cena>
 <VAT>23</VAT>
-<ilosc>2</ilosc>
+<ilosc>1</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280657406</EAN>
 <grupa>WOOPIE</grupa>
@@ -333638,7 +333638,7 @@ Waga
 <nazwa>WOOPIE 59936 Zestaw figurek Mała farma 11 el.</nazwa>
 <cena>45.95</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280659936</EAN>
 <grupa>WOOPIE</grupa>
@@ -333752,8 +333752,8 @@ Waga
 <nazwa>WOOPIE 599500 Zestaw figurek mała stajnia 7 el.</nazwa>
 <cena>32.78</cena>
 <VAT>23</VAT>
-<ilosc>1</ilosc>
-<stan>mała ilość</stan>
+<ilosc>0</ilosc>
+<stan>brak</stan>
 <EAN>5906280659950</EAN>
 <grupa>VIGA</grupa>
 <opis>Poznaj zestaw figurek od marki WOOPIE, który pozwala dziecku stworzyć własne gospodarstwo i odgrywać pełne wyobraźni scenki z życia na wsi. W komplecie znajdują się 3 figurki koni, postać gospodarza, taczka oraz elementy ogrodzenia, dzięki czemu maluch może przygotować własną zagrodę i wymyślać różnorodne historie.Dziecko może opiekować się zwierzętami, przewozić akcesoria taczką, ustawiać ogrodzenie oraz organizować przestrzeń własnej farmy. Figurki można również łączyć z innymi zestawami o podobnej tematyce, tworząc coraz bardziej rozbudowane scenki.
@@ -335473,7 +335473,7 @@ młotek: 4,5 x 8,5 x 16,5 (cm)</opis>
 <nazwa>WOOPIE BABY 59486 Grzechotka gryzak sensoryczny piłka</nazwa>
 <cena>20.26</cena>
 <VAT>23</VAT>
-<ilosc>3</ilosc>
+<ilosc>2</ilosc>
 <stan>mała ilość</stan>
 <EAN>5906280659486</EAN>
 <grupa>WOOPIE</grupa>
