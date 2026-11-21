@@ -1183,7 +1183,7 @@
       <images>
         <image><![CDATA[https://zuja.lt/image/data/products/8/88/plus-plus-konstruktorius-princeses-pilis-mini-pastelines-360_88.jpg]]></image>
       </images>
-      <quantity>273</quantity>
+      <quantity>147</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409101967</barcode>
     </product>
@@ -2952,7 +2952,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/1/231/kendama-zaislas-medinis-zalias_3175c5a0754effe18afebd88572b477f.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/1/231/kendama-zaislas-medinis-zalias_f633044dda78722bee9fd405e946080d.jpg]]></image>
       </images>
-      <quantity>461</quantity>
+      <quantity>451</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451465</barcode>
     </product>
@@ -2972,7 +2972,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/2/232/kendama-zaislas-medinis-raudonas_faa4e0947f1b4d29b80dde1ee204057e.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/2/232/kendama-zaislas-medinis-raudonas_6de72bd6b32edfefda1b565eb6900241.jpg]]></image>
       </images>
-      <quantity>188</quantity>
+      <quantity>183</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451441</barcode>
     </product>
@@ -2991,7 +2991,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/3/233/kendama-zaislas-medinis-melynas_b4fc510759941e789afeebb461af9dbc.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/3/233/kendama-zaislas-medinis-melynas_04011a91e93274720e6c5688e2ac29df.jpg]]></image>
       </images>
-      <quantity>81</quantity>
+      <quantity>71</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451458</barcode>
     </product>
@@ -3076,7 +3076,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/1/241/kendama-baltas-plastikinis-su-led_241.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/1/241/kendama-baltas-plastikinis-su-led_66b750e3d50f641d5e6f8b1928a23d37.jpg]]></image>
       </images>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4260243451533</barcode>
     </product>
@@ -3783,7 +3783,7 @@
       <images>
         <image><![CDATA[https://zuja.lt/image/data/products/5/295/mascaronineles-su-estakadomis-3_295.jpg]]></image>
       </images>
-      <quantity>50</quantity>
+      <quantity>14</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4019359840706</barcode>
     </product>
@@ -5230,7 +5230,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/0/420/lipduku-knyga-2800-vnt_535f2e5397808710a606bf8eb941167c.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/0/420/lipduku-knyga-2800-vnt_9efe6492ade62ac83a1b22866c8fbc67.jpg]]></image>
       </images>
-      <quantity>370</quantity>
+      <quantity>368</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5712854125215</barcode>
     </product>
@@ -8529,7 +8529,7 @@
       <images>
         <image><![CDATA[https://zuja.lt/image/data/products/6/656/playmais-zaidimas-smagu-zaisti-500-ugniagesiai_656.jpg]]></image>
       </images>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4041077010659</barcode>
     </product>
@@ -11831,7 +11831,7 @@
         <image><![CDATA[https://zuja.lt/image/data/products/9/889/igroteco-kaladeliu-mini-rinkinys-9-det_7cb9c6ab8da5c5f070d3347917007fa2.jpg]]></image>
         <image><![CDATA[https://zuja.lt/image/data/products/9/889/igroteco-kaladeliu-mini-rinkinys-9-det_9b966c598bd5b7b394bc059b21a8b35a.jpg]]></image>
       </images>
-      <quantity>143</quantity>
+      <quantity>8</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>4820148900163</barcode>
     </product>
@@ -14678,7 +14678,7 @@
       <images>
         <image><![CDATA[https://zuja.lt/image/data/products/6/1076/plus-plus-konstruktorius-papuoscaronalai-70-det_1076.jpg]]></image>
       </images>
-      <quantity>202</quantity>
+      <quantity>58</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>5710409102858</barcode>
     </product>
